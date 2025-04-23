@@ -1,0 +1,314 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Operaciones",
+            "request": "launch",
+            "mainClass": "Operaciones",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Matriz",
+            "request": "launch",
+            "mainClass": "Matriz",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "SortedApp",
+            "request": "launch",
+            "mainClass": "SortedApp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "SortedLista",
+            "request": "launch",
+            "mainClass": "SortedLista",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Enlace",
+            "request": "launch",
+            "mainClass": "Enlace",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Applist",
+            "request": "launch",
+            "mainClass": "Applist",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Listar",
+            "request": "launch",
+            "mainClass": "Listar",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Nodo01",
+            "request": "launch",
+            "mainClass": "Nodo01",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "ListApp",
+            "request": "launch",
+            "mainClass": "ListApp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Node",
+            "request": "launch",
+            "mainClass": "Node",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Doblelista",
+            "request": "launch",
+            "mainClass": "Doblelista",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Lista",
+            "request": "launch",
+            "mainClass": "Lista",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Nodo",
+            "request": "launch",
+            "mainClass": "Nodo",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "ColaApp",
+            "request": "launch",
+            "mainClass": "ColaApp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Cola",
+            "request": "launch",
+            "mainClass": "Cola",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "ReverseApp",
+            "request": "launch",
+            "mainClass": "ReverseApp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "reversa",
+            "request": "launch",
+            "mainClass": "reversa",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Mergesort",
+            "request": "launch",
+            "mainClass": "Mergesort",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "StackApp",
+            "request": "launch",
+            "mainClass": "StackApp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Figeo",
+            "request": "launch",
+            "mainClass": "Figeo",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Ubicmap",
+            "request": "launch",
+            "mainClass": "Map.src.main.java.Ubicmap",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Colacomp",
+            "request": "launch",
+            "mainClass": "Colacomp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Heapsort",
+            "request": "launch",
+            "mainClass": "Heapsort",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "ArbolApp",
+            "request": "launch",
+            "mainClass": "ArbolApp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Arrayshell",
+            "request": "launch",
+            "mainClass": "Arrayshell",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Triangulo",
+            "request": "launch",
+            "mainClass": "Triangulo",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Iterar",
+            "request": "launch",
+            "mainClass": "Iterar",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Selectionsort",
+            "request": "launch",
+            "mainClass": "Selectionsort",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Digito",
+            "request": "launch",
+            "mainClass": "Digito",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "matriz",
+            "request": "launch",
+            "mainClass": "main.java.matriz",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Ubicacion",
+            "request": "launch",
+            "mainClass": "main.java.Ubicacion",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Arimetica",
+            "request": "launch",
+            "mainClass": "main.java.Arimetica",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Suma",
+            "request": "launch",
+            "mainClass": "main.java.Suma",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "main.java.BinarySearch",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Atrapar",
+            "request": "launch",
+            "mainClass": "main.java.Atrapar",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Huffman",
+            "request": "launch",
+            "mainClass": "main.java.Huffman",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Kadane",
+            "request": "launch",
+            "mainClass": "main.java.Kadane",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Knapsack",
+            "request": "launch",
+            "mainClass": "main.java.Knapsack",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Rotar",
+            "request": "launch",
+            "mainClass": "main.java.Rotar",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "main.java.Main",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        }
+    ]
+}

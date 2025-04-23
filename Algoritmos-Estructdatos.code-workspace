@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"Recursividad/fibonacci/src/main/java",
+			"Recursividad/digitos/src/main/java",
+			"Recursividad/anagrama/src",
+			"Recursividad/Triangulo/src/main/java",
+			"Recursividad/Iterar/src/main/java",
+			"Recursividad/Collat/src/main/java",
+			"Estructura-de-datos/Pilas/pila-reversa/src/main/java",
+			"Estructura-de-datos/Pilas/figeo/src/main/java",
+			"Estructura-de-datos/Pilas/Pila-implemen-array/src/main/java",
+			"Estructura-de-datos/Lista-Enlazada/Sorted-list/src/main/java",
+			"Estructura-de-datos/Lista-Enlazada/Simple/Simple01/src/main/java",
+			"Estructura-de-datos/Lista-Enlazada/Doble/Doble-lista02/src/main/java",
+			"Estructura-de-datos/Lista-Enlazada/Doble/Doble-lista01/src/main/java",
+			"Estructura-de-datos/Colas/Cola-implem-array/src/main/java",
+			"Estructura-de-datos/Arrays/operaciones/src/main/java",
+			"Estructura-de-datos/Arrays/operaciones",
+			"Estructura-de-datos/Arbol/src/main/java",
+			"Api-colecciones/Colas/src/main/java",
+			"Algoritmos/Shellsort/src/main/java",
+			"Algoritmos/Seleccion/src/main/java",
+			"Algoritmos/Rotar/src",
+			"Algoritmos/Mergesort/src/main/java",
+			"Algoritmos/Huffman/src",
+			"Algoritmos/Heapsort/src/main/java",
+			"Algoritmos/Busqueda/src/main/java",
+			"Estructura-de-datos/Arrays/matriz"
+		]
+	}
+}
