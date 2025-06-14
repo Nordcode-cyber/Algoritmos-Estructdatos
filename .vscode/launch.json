@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Recurinsert",
+            "request": "launch",
+            "mainClass": "Recurinsert",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Insertsort",
+            "request": "launch",
+            "mainClass": "Insertsort",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Burblesort",
+            "request": "launch",
+            "mainClass": "Burblesort",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Operaciones",
             "request": "launch",
             "mainClass": "Operaciones",

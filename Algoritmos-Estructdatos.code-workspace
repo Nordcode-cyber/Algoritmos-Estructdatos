@@ -22,6 +22,7 @@
 			"Estructura-de-datos/Colas/Cola-implem-array/src/main/java",
 			"Estructura-de-datos/Arrays/operaciones/src/main/java",
 			"Estructura-de-datos/Arrays/operaciones",
+			"Estructura-de-datos/Arrays/matriz",
 			"Estructura-de-datos/Arbol/src/main/java",
 			"Api-colecciones/Colas/src/main/java",
 			"Algoritmos/Shellsort/src/main/java",
@@ -31,7 +32,8 @@
 			"Algoritmos/Huffman/src",
 			"Algoritmos/Heapsort/src/main/java",
 			"Algoritmos/Busqueda/src/main/java",
-			"Estructura-de-datos/Arrays/matriz"
+			"Algoritmos/Burblesort/src/main/java",
+			"Algoritmos/insercionsort/src/main/java"
 		]
 	}
 }

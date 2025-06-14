@@ -3,9 +3,9 @@ public class Selectionsort {
         /* Algoritmo de Ordenamiento por metodo Seleccion
     *  Author Nordevelop
     */
-    int cont=15; 
+    int cont= 6; 
     long aux;
-    int a[]= {15,10,3,12,7,13,8,9,22,2,5,14,1,4,6}; //generacion del Array
+    int a[]= {51,21,39,80,36,6}; //generacion del Array
     int temp;
     int entrada, salida, minimo;	  
     System.out.println("Array Desordenado ");
