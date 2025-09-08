@@ -70,7 +70,7 @@ public class Heapsort {
 		 * Author Nordevelop
 		 */
 		int[] arr = { 5,3,1,4,8,7,6,9,10,2 };
-		System.out.println("Array desornedado"+Arrays.toString(arr));
+		System.out.println("Array desordenado"+Arrays.toString(arr));
 		//sacar(arr, 5);
 		//System.out.println("se elimino un elemento del Array arr: ");
 		//System.out.println("Array "+Arrays.toString(arr));
