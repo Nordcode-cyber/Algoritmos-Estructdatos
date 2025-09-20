@@ -10,7 +10,7 @@ public class Iterar {
          *Author Nordevelop
          * algoritmo recursivo Vuelta Atras Vs Ciclo For
          */
-        int n = 10;
+        int n = 100;
         System.out.print("Recursividad: ");
         print1toN(n);
         System.out.println(" ");
