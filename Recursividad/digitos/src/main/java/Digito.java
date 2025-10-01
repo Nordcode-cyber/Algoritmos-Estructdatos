@@ -4,7 +4,7 @@ public class Digito {
          * Author Nordevelop
          */
         System.out.println("Test Digitos" );
-        long n =918453;
+        long n =965532;
         System.out.println("El numero es: " + n);
         System.out.println("La suma de los digitos es: " + sumaDigitos(n));
     } //fin main
