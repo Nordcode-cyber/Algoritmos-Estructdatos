@@ -17,13 +17,13 @@ Cuando tienes tiempo para responder a tu correo, empiezas por sacar la carta que
 (la primera de la cola), asegurándote así de que las cartas más importantes se responden
 primero. 
 ###                         Situaciones a implementar cola de prioridad
+
+
 Al igual que las pilas y las colas, las colas de prioridad se utilizan a menudo como herramientas de programación. Veremos
-una utilizada para encontrar algo llamado árbol de expansión mínima para un gráfico, en
-capítulo 14, «Gráficos ponderados».
-Además, al igual que las colas normales, las colas de prioridad se utilizan de diversas maneras en determinados
-sistemas informáticos. En un sistema operativo multitarea preventivo, por ejemplo,
-los programas pueden colocarse en una cola de prioridad para que el programa con mayor prioridad sea el
+una utilizada para encontrar algo llamado árbol de expansión mínima para un grafo. Además, al igual que las colas normales, 
+las colas de prioridad se utilizan de diversas maneras en determinados sistemas informáticos. En un sistema operativo multitarea preventivo, 
+por ejemplo, los programas pueden colocarse en una cola de prioridad para que el programa con mayor prioridad sea el
 siguiente en recibir una porción de tiempo que le permita ejecutarse.
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
+
 

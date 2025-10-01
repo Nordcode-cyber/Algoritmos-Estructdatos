@@ -1,3 +1,5 @@
+###                      *Salida por la consola de java*
+
 Elija la opcion a continuacion
 1-Cuadrado. 2-Rectangulo.3-Caja Rectangular.-4.-Cubo.5-Circulo.6-Cilindro. 7-Esfera. 9-Triangulo_Rectangulo-.0-Para terminar
 0
