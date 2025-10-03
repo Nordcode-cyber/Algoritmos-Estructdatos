@@ -9,7 +9,7 @@ public class Arrayshell {
 		int interno;
 		int externo;
 		int h=1;
-		int a[]= {7,8,3,1,2,4,5,6}; //generacion del Array
+		int a[]= {7,8,3,1,2,15,4,5,6}; //generacion del Array
 		System.out.println("Array Desordenado  ");
 		for(int i=0;i< cont;i++) {
 		    System.out.print(a[i]);

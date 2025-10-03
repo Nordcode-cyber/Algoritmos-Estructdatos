@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "radixsort",
+            "request": "launch",
+            "mainClass": "main.java.radixsort",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Huffman",
+            "request": "launch",
+            "mainClass": "Huffman",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Interpais",
             "request": "launch",
             "mainClass": "Map.Interpais",
