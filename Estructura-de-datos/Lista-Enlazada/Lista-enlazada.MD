@@ -18,3 +18,6 @@ básica consiste en construir una lista cuyos elementos, llamados nodos, se comp
 partes (campos): la primera parte contiene la información y es, por consiguiente, un valor de
 un tipo genérico (denominado Dato, TipoElemento, Info, etc.), y la segunda parte es una
 referencia (denominado enlace o sgte) que apunta (enlaza) al siguiente elemento de la lista.
+
+######                    *Una lista enlazada consta de un numero de elementos,y cada elemento tiene 2 campos*
+######                    *una referencia al siguiente elemento de la lista, y un valor, que puede ser de cualquier tipo*

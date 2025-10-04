@@ -18,5 +18,6 @@ public class Nodo {
 	}
 	public void setDato(String dato) {
 		this.dato = dato;
+        throw new UnsupportedOperationException("Unimplemented method 'setDato'");
 	}
 }

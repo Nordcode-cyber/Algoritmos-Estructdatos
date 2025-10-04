@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppDoblelista",
+            "request": "launch",
+            "mainClass": "AppDoblelista",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "radixsort",
             "request": "launch",
             "mainClass": "main.java.radixsort",
