@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Knapsack",
+            "request": "launch",
+            "mainClass": "Knapsack",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "AppDoblelista",
             "request": "launch",
             "mainClass": "AppDoblelista",

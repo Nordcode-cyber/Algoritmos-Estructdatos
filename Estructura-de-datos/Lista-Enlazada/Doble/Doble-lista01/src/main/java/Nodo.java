@@ -1,8 +1,9 @@
+
 public class Nodo {
     /*Clase Nodo
      * 
      */
-    private String dato;
+     String dato;
     Nodo siguiente;
     Nodo anterior;
     public Nodo(){

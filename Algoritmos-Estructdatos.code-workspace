@@ -6,7 +6,6 @@
 	],
 	"settings": {
 		"java.project.sourcePaths": [
-			"Recursividad/fibonacci/src/main/java",
 			"Recursividad/digitos/src/main/java",
 			"Recursividad/anagrama/src",
 			"Recursividad/Triangulo/src/main/java",
@@ -23,8 +22,8 @@
 			"Estructura-de-datos/Arrays/operaciones/src/main/java",
 			"Estructura-de-datos/Arrays/operaciones",
 			"Estructura-de-datos/Arrays/matriz",
-			"Estructura-de-datos/Arbol/src/main/java",
 			"Api-colecciones/Colas/src/main/java",
+			"Algoritmos/insercionsort/src/main/java",
 			"Algoritmos/Shellsort/src/main/java",
 			"Algoritmos/Seleccion/src/main/java",
 			"Algoritmos/Rotar/src",
@@ -33,7 +32,7 @@
 			"Algoritmos/Heapsort/src/main/java",
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
-			"Algoritmos/insercionsort/src/main/java"
+			"Algoritmos/Knapsack/src/main/java"
 		]
 	}
 }
