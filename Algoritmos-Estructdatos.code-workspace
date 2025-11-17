@@ -18,6 +18,7 @@
 			"Estructura-de-datos/Lista-Enlazada/Simple/Simple01/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Doble/Doble-lista02/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Doble/Doble-lista01/src/main/java",
+			"Estructura-de-datos/Lista-Enlazada/Doble-lista03/src/main/java/Doblelist3",
 			"Estructura-de-datos/Colas/Cola-implem-array/src/main/java",
 			"Estructura-de-datos/Arrays/operaciones/src/main/java",
 			"Estructura-de-datos/Arrays/operaciones",
@@ -28,11 +29,12 @@
 			"Algoritmos/Seleccion/src/main/java",
 			"Algoritmos/Rotar/src",
 			"Algoritmos/Mergesort/src/main/java",
+			"Algoritmos/Knapsack/src/main/java",
 			"Algoritmos/Huffman/src",
 			"Algoritmos/Heapsort/src/main/java",
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
-			"Algoritmos/Knapsack/src/main/java"
+			"Estructura-de-datos/Lista-Enlazada/Doble-lista03/src/main/java"
 		]
 	}
 }

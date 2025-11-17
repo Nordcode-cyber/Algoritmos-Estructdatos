@@ -2,6 +2,7 @@ public class Nodo {
     // clase Nodo() Lista enlazada simple Ordenada
     public long Data1; // elemento dato de la lista
     public Nodo siguiente; // Nodo() Siguiente
+    public Nodo anterior;
     public Nodo(){
         
     }

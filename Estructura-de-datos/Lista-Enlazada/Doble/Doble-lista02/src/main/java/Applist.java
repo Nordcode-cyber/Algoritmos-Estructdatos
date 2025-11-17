@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Applist {
     public static void main(String[] args) {
 		Scanner entra=new Scanner(System.in);
