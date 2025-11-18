@@ -1,5 +1,3 @@
-package Map.src.main.java;
-
 import java.util.Collection;
 import java.util.Map;
 import java.util.Set;

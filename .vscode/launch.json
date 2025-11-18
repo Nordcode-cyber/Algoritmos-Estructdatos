@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Interpais",
+            "request": "launch",
+            "mainClass": "Interpais",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Recorrer",
             "request": "launch",
             "mainClass": "Recorrer",
