@@ -23,6 +23,8 @@
 			"Estructura-de-datos/Arrays/operaciones/src/main/java",
 			"Estructura-de-datos/Arrays/operaciones",
 			"Estructura-de-datos/Arrays/matriz",
+			"Api-colecciones/Map/src/main/java",
+			"Api-colecciones/List/src/main/java",
 			"Api-colecciones/Colas/src/main/java",
 			"Algoritmos/insercionsort/src/main/java",
 			"Algoritmos/Shellsort/src/main/java",
@@ -34,7 +36,7 @@
 			"Algoritmos/Heapsort/src/main/java",
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
-			"Api-colecciones/Map/src/main/java"
+			"Api-colecciones/Set/src/main/java"
 		]
 	}
 }

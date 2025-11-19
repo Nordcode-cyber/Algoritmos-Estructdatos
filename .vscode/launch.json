@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Set1",
+            "request": "launch",
+            "mainClass": "Set1",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "List",
+            "request": "launch",
+            "mainClass": "List",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Interpais",
             "request": "launch",
             "mainClass": "Interpais",
