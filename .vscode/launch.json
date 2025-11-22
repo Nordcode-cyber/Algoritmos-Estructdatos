@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Collat",
+            "request": "launch",
+            "mainClass": "Collat",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "QuicksortApp",
             "request": "launch",
             "mainClass": "QuicksortApp",

@@ -1,6 +1,6 @@
 // Conjetura de Collatz
 import java.util.Scanner;
-public class Main {
+public class Collat {
 	public static int retorno(int numero) {
 		if (numero % 2==0) {
 		   return numero / 2;
