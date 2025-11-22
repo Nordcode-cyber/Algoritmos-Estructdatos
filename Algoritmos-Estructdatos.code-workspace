@@ -14,6 +14,7 @@
 			"Estructura-de-datos/Pilas/pila-reversa/src/main/java",
 			"Estructura-de-datos/Pilas/figeo/src/main/java",
 			"Estructura-de-datos/Pilas/Pila-implemen-array/src/main/java",
+			"Estructura-de-datos/Lista-Enlazada/reversa/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Sorted-list/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Simple/Simple01/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Doble/Doble-lista02/src/main/java",
@@ -37,7 +38,7 @@
 			"Algoritmos/Heapsort/src/main/java",
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
-			"Estructura-de-datos/Lista-Enlazada/reversa/src/main/java"
+			"Algoritmos/Quicksort/src/main/java"
 		]
 	}
 }

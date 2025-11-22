@@ -1,6 +1,7 @@
 public class SortedLista {
 	/* Author Nordevelop
-	 *
+	 * Errores por conflicto por clase Nodo en distintas carpetas
+	*  Sin errores en eclipse ide, por usar metadata y no JSON
 	 */
 	private Nodo primero; 
 	public SortedLista(){ // constructor

@@ -8,7 +8,7 @@ public class Burblesort{
     /*Metodo de ordenamiento Burbuja
 		*Author Nordevelop
 		*/
-		int []a= {10,9,8,1,5,0,7,2,4,6,3};
+		int []a= {10,9,8,1,5,11,0,7,14,2,4,6,3};
 		int aux=0;
 		System.out.println("Array sin ordenar ");
 		System.out.println(Arrays.toString(a));

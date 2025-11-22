@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuicksortApp",
+            "request": "launch",
+            "mainClass": "QuicksortApp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Qarray",
+            "request": "launch",
+            "mainClass": "Qarray",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "ReverceApp",
             "request": "launch",
             "mainClass": "ReverceApp",

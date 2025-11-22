@@ -18,7 +18,7 @@ public class Recurinsert {
 		  }// fin for
 	}//fin Metodo insertionSort(int[] arr)
     public static void main(String[] args) {
-        int[] arr = { 3, 8, 5, 4, 1, 9,  };
+        int[] arr = { 3, 8, 5, 4, 1, 9,2};
         System.out.println("Array Desordenado");
         System.out.println(Arrays.toString(arr));
 	insertionSort(arr);

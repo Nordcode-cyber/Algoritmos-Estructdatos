@@ -1,5 +1,5 @@
 ##   🚀 ALGORITMOS y ESTRUCTURAS DE DATOS.
-####   - 🚀 Algortimos.  
+####   - 🚀 Algoritmos 
 ####   - 🚀 Estructura de datos.  
 ####   - 🚀 Recursividad.  
 ####   - 🚀 Api colecciones.  
