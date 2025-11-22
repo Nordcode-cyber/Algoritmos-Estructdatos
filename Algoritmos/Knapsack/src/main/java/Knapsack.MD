@@ -1,6 +1,7 @@
-  Algortimh knapsack
-                                                                  Problema de la mochila      
-                                              El algoritmo de programación dinámica por espacio 
+  ###                                                                 Algortimo knapsack
+
+  #####                                                             Problema de la mochila      
+  #####                                          El algoritmo de programación dinámica por espacio 
 Es una forma de resolver el problema de la mochila que utiliza una matriz de tamaño n x m, donde n es el número de objetos y m es el peso máximo permitido en la mochila. Cada elemento de la matriz se calcula de la siguiente forma:
 
 Se inicializa la matriz con ceros en todas sus posiciones.

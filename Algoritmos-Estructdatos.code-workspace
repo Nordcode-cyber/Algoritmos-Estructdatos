@@ -32,13 +32,14 @@
 			"Algoritmos/Shellsort/src/main/java",
 			"Algoritmos/Seleccion/src/main/java",
 			"Algoritmos/Rotar/src",
+			"Algoritmos/Quicksort/src/main/java",
 			"Algoritmos/Mergesort/src/main/java",
 			"Algoritmos/Knapsack/src/main/java",
 			"Algoritmos/Huffman/src",
 			"Algoritmos/Heapsort/src/main/java",
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
-			"Algoritmos/Quicksort/src/main/java"
+			"Algoritmos/Kernighan/src/main/java"
 		]
 	}
 }

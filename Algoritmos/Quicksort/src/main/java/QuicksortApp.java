@@ -18,7 +18,7 @@ public class QuicksortApp {
 			arr.mostrar();
              try {
             // Simulación de un algoritmo (ej: una tarea que tarda un tiempo)
-            for (int i = 0; i < 1000000; i++) {
+            for (int i = 0; i < 16; i++) {
                 // Algoritmo de ejemplo: suma simple
                 int suma = i + i;
             }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Kernighan",
+            "request": "launch",
+            "mainClass": "Kernighan",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Collat",
             "request": "launch",
             "mainClass": "Collat",
