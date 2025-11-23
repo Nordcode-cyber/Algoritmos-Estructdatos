@@ -1,5 +1,3 @@
-package main.java;
-
 public class Atrapar {
      // Función para encontrar la cantidad de agua que puede quedar atrapada dentro
     // un conjunto dado de barras en tiempo lineal y espacio adicional

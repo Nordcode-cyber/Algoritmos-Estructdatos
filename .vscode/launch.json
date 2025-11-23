@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClockAngApp",
+            "request": "launch",
+            "mainClass": "ClockAngApp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Kadane",
+            "request": "launch",
+            "mainClass": "Kadane",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Atrapar",
+            "request": "launch",
+            "mainClass": "Atrapar",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Kernighan",
             "request": "launch",
             "mainClass": "Kernighan",

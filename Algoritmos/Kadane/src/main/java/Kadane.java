@@ -1,6 +1,5 @@
-package main.java;
+
 import java.util.Arrays;
-import java.math.*;
 public class Kadane {
       /**
      * Algoritmo para encontrar la subindice contigua con la mayor suma
