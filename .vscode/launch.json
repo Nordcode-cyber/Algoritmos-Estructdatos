@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Queue",
+            "request": "launch",
+            "mainClass": "Queue",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "ClockAngApp",
             "request": "launch",
             "mainClass": "ClockAngApp",

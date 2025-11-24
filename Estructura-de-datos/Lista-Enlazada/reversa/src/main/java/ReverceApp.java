@@ -67,9 +67,9 @@ public class ReverceApp {
             head = push(head, clave);
         }
 
-        printDDL("Original list: ", head);
+        printDDL("lista Original: ", head);
         head = reverseDDL(head);
-        printDDL("Reversed list: ", head);
+        printDDL("Lista reversa: ", head);
 
 	}
 }

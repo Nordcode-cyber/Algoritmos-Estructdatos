@@ -39,10 +39,11 @@
 			"Algoritmos/Kadane/src/main/java",
 			"Algoritmos/Huffman/src",
 			"Algoritmos/Heapsort/src/main/java",
+			"Algoritmos/ClockAngle/src/main/java",
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
 			"Algoritmos/Atrapar/src/main/java",
-			"Algoritmos/ClockAngle/src/main/java"
+			"Api-colecciones/Queue/src/main/java"
 		]
 	}
 }

@@ -4,12 +4,12 @@ public class Arrayshell {
 		 * 
 		 * Author Nordeverlop
 		 */
-		int cont=8; //cantidad de elementos del array
+		int cont=14; //cantidad de elementos del array
 		int aux;
 		int interno;
 		int externo;
 		int h=1;
-		int a[]= {7,8,3,1,2,15,4,5,6}; //generacion del Array
+		int a[]= {16,7,14,8,3,1,2,13,15,4,5,6,9,11}; //generacion del Array
 		System.out.println("Array Desordenado  ");
 		for(int i=0;i< cont;i++) {
 		    System.out.print(a[i]);
