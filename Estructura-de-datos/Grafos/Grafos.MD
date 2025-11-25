@@ -9,5 +9,16 @@ los elementos de `V` se llaman vertices o nodos.
 los pares de `E` No ordenandos, se llaman `Aristas`, y se representan con puntos y lineas.
 ###  *`Grafos dirigidos `* 
 los pares de `E` son ordenandos, se llaman `Arcos`, y se representan con puntos y flechas.
+###                                Mas Notaciones
+####  *`Grafos no dirigidos `* ,
+##### Si `(Vi, Vj)` representa una *arista*
+##### Vi y Vj son *extremos* de `(Vi, Vj)`
+##### Vi, Vj son *adyacente*
+##### `(Vi, Vj)` es incidente de Vi, Vj
+##### `Si Vi=Vj, (Vi,Vj) se llama:`*bucle*
+ *Un grafo sin `bucle` se llama simple*
+####  *`Grafos  dirigidos `* ,
+
+
 
 
