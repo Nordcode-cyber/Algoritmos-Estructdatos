@@ -7,11 +7,11 @@ Es una colección ordenada de elementos a los cuales sólo se puede acceder por 
  No se requiere que las entradas se puedan comparar utilizando el operador “menor que” (<) y pueden ser de
 cualquier tipo.
 ###                            Operaciones con pilas(stack)
-Crear Pila    | Stack<Float> Pila_Cilindro = null | inicia.
-Ingresar      | Pila_Cilindro.*push()*    | Pone un dato en la pila.
-Quitar dato   | Pila_cilindro.*pop()*     | saca un dato de la pila.
-Pila vacía    | Pila_Cilindro.*isEmpty()* | Comprueba si la pila no tiene elementos.
-              | Pila_Cilindro.*size()*   | devuelve cuantos elementos tiene la pila.
+ |Crear Pila    | Stack<Float> Pila_Cilindro = null | inicia.
+ |Ingresar      | Pila_Cilindro.*push()*    | Pone un dato en la pila.
+ |Quitar dato   | Pila_cilindro.*pop()*     | saca un dato de la pila.
+ |Pila vacía    | Pila_Cilindro.*isEmpty()* | Comprueba si la pila no tiene elementos.
+ |Pila Tamanio  | Pila_Cilindro.*size()*   | devuelve cuantos elementos tiene la pila.
 Pila llena Comprueba si la pila está llena de elementos.
 Limpiar pila Quita todos sus elementos y deja la pila vacía.
 Cima Pila Obtiene el elemento cima de la pila.
