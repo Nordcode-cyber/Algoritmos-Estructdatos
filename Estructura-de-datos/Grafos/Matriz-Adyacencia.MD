@@ -1,1 +1,5 @@
-Una matriz de adyacencia es una matriz cuadrada utilizada para representar un grafo finito. En esta matriz, las filas y las columnas corresponden a los vértices del grafo, y el valor de cada entrada indica si existe una arista (o conexión) entre el par de vértices correspondientes
+###                                    Matriz de Adyacencia
+
+Una matriz de adyacencia es una matriz cuadrada utilizada para representar un grafo finito. En esta matriz, 
+las filas y las columnas corresponden a los vértices del grafo, y el valor de cada entrada indica si existe 
+una arista (o conexión) entre el par de vértices correspondientes
