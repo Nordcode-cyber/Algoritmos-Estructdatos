@@ -3,8 +3,8 @@ public class Insertsort {
         /* Metodo de Ordenamiento de Inserccion.
 		 * Author Nordeverlop
 		 */
-		int cont=13; 
-		int a[]= {8,3,5,1,4,2,11,9,13,6,21,7,12}; //generacion del Array
+		int cont=12; 
+		int a[]= {8,5,1,4,2,11,9,13,6,21,7,12}; //generacion del Array
 		int entrada, salida;
 		int aux;
 		 int valor=0;
