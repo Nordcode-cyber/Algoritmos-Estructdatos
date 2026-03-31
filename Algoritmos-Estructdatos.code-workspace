@@ -25,6 +25,7 @@
 			"Estructura-de-datos/Arrays/operaciones",
 			"Estructura-de-datos/Arrays/matriz",
 			"Api-colecciones/Set/src/main/java",
+			"Api-colecciones/Queue/src/main/java",
 			"Api-colecciones/Map/src/main/java",
 			"Api-colecciones/List/src/main/java",
 			"Api-colecciones/Colas/src/main/java",
@@ -43,7 +44,7 @@
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
 			"Algoritmos/Atrapar/src/main/java",
-			"Api-colecciones/Queue/src/main/java"
+			"Estructura-de-datos/Arrays/Ubicacion/src/main/java"
 		]
 	}
 }
