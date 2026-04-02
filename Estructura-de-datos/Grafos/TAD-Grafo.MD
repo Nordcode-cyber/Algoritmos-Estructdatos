@@ -17,20 +17,19 @@ recordemos que un grafo mixto se puede representar como un grafo dirigido, model
                   |  no hay  diferencia entre getEdge(u, v) y getEdge(v, u).   |
 *`endVertices(e)`*| Devuelve un array que contiene los dos vértices extremos 
                   | de la arista e. Si el grafo es dirigido, el primer vértice | 
-                  |  es el origen, y el segundo es el destino.
- *`opposite(v, e)`*: Para la arista e incidente al vértice v, devuelve el otro vértice de la
-                    arista; Se produce un error si e no es incidente a v.
- *`outDegree(v)`* Devuelve el número de aristas salientes del vértice v.
- *`inDegree(v)`*: Devuelve el número de aristas entrantes al vértice v.
-                    Para un grafo no dirigido, devuelve el mismo valor que outDegree(v).
- *`outgoingEdges(v)`*: Devuelve una iteración de todas las aristas salientes del vértice v.
- *`incomingEdges(v) `*: Devuelve una iteración de todas las aristas entrantes al vértice v.
-                        Para un grafo no dirigido, devuelve la misma colección que
-                            outgoingEdges(v).
- *`insertVertex(x) `*: Crea y devuelve un nuevo vértice que almacena el elemento x.
- *`insertEdge(u, v, x) `*: Crea y devuelve una nueva arista del vértice u al vértice v,
-                         almacenando el elemento x; Se produce un error si ya existe una arista de u a v.
- *`removeVertex(v) `*: Elimina el vértice v y todas sus aristas incidentes del grafo.
- *`removeEdge(e) `*: Elimina la arista e del grafo.
+                    es el origen, y el segundo es el destino.
+*`opposite(v, e)`*| Para la arista e incidente al vértice v, devuelve el otro, |
+                     vértice de la arista; Se produce un error si e no es incidente a v.|
+ *`outDegree(v)`* | Devuelve el número de aristas salientes del vértice v.|
+ *`inDegree(v)`*: | Devuelve el número de aristas entrantes al vértice v. |
+                  | Para un grafo no dirigido, devuelve el mismo valor que outDegree(v).|
+ *`outgoingEdges(v)`*:  |Devuelve una iteración de todas las aristas salientes del vértice v.|
+ *`incomingEdges(v) `*: |Devuelve una iteración de todas las aristas entrantes al vértice v. |
+                        | Para un grafo no dirigido, devuelve la misma colección que outgoingEdges(v).|
+ *`insertVertex(x) `*:  |Crea y devuelve un nuevo vértice que almacena el elemento x.|
+ *`insertEdge(u, v, x)`*| Crea y devuelve una nueva arista del vértice u al vértice v,|
+                        | almacenando el elemento x; Se produce un error si ya existe una arista de u a v.|
+ *`removeVertex(v) `*:  | Elimina el vértice v y todas sus aristas incidentes del grafo.|
+ *`removeEdge(e) `*:    |Elimina la arista e del grafo.|
 
 
