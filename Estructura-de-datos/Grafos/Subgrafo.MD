@@ -1,10 +1,7 @@
 ##                           Teoria de Grafos
 ###                         *Subgrafos*
-Un subgrafo de un grafo G es un grafo cuyos conjuntos de vértices y aristas son subconjuntos de los de G. Se dice
-que un grafo G contiene a otro grafo H si algún subgrafo de G es H o es isomorfo a H (dependiendo de las
-necesidades de la situación).
-El subgrafo inducido de G es un subgrafo G' de G tal que contiene todas las aristas adyacentes al subconjunto de
-vértices de G.
+Un subgrafo H de un grafo G es un grafo donde los vertice de H son un subconjunto de los vertices de G y los 
+arcos de H son un subconjunto de los arcos de G.
 
 ######       `Sea G = (V(G), E(G)) Y H=(V(H), E(H))`
 ######     `H es subgrafo de G si V(H) ⊆ V(G) y E(H) ⊆E(G)`
