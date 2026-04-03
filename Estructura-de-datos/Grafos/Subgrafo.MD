@@ -10,3 +10,4 @@ arcos de H son un subconjunto de los arcos de G.
 ######                   `Sea G=(V,E) grafo`
 ######    `Dado V'⊆V,V' = 0, se llama *Subgrafo generado o inducido por V' al subgrafo maximal de G cuyo conjunto de vertices es V'*`
 ######                  `Se denota G[V']`
+
