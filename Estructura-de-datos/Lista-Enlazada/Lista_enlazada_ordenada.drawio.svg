@@ -1,0 +1,39 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent; color-scheme: light dark;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="290px" height="123px" viewBox="-0.5 -0.5 290 123" content="&lt;mxfile&gt;&lt;diagram id=&quot;1floD3MYbGY59Xn32LWD&quot; name=&quot;Página-1&quot;&gt;jVRLb9swDP41PnZI7DVZjkuWdocVPeSws2axNgG9Kkt10l9f0pJfKAb0YlEfP74pF9VJXx+9cO2TlaCKciOvRfWrKMv9YU9fBm4JuP+egcajTNB2Bi74DhncZDSihG5FDNaqgG4N1tYYqMMKE97bfk17sWod1YkGPgGXWqjP6F+UoU3oj3I/478Bm3aMvN0dkkaLkZwr6Vohbb+AqnNRnby1IUn6egLFvRv7kuwe/qOdEvNgwlcMymTwJlTMtRXlTpHpsd1yeuGWa969Rs7pqIVv0NwF64rqJzE2joZ6nPUkNXz+wS4I0p+NEu9CsvjsJZhBTBEoKw6S+CPoJgfWg+ZMXRf5lFZZzylh4ClqoOOUZtzRjCFE1gqJDjus0TR0A4WZ1YEcfDCIsdOWrwG0G3yiqVGijIZdR/4o8Y/iMzuMsWGYX2O4FKHwNYpvi0rcXEi5alwZ4Dr0M2hFwJbEvsUAFydqZvT0Qgizb+Bf1LAKLUpqFGHeRiOBJ7WZHC9Hm6dNlhRjAeVRP4KlLvkbUbJ2ekD53U1r2M9bXB4y1i43eCSK/HKayfe8XCTk/Rqv8x4PusXPoDp/AA==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <g>
+            <rect x="0" y="0" width="290" height="120" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g>
+            <g transform="translate(-0.5 -0.5)">
+                <switch>
+                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 288px; height: 1px; padding-top: 7px; margin-left: 2px;">
+                            <div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 116px; overflow: hidden; color: #000000; ">
+                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                    <h1 style="margin-top: 0px;">
+                                        Lista Enlazada Ordenada
+                                    </h1>
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </foreignObject>
+                    <text x="2" y="19" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
+                        Lista Enlazada Ordenada...
+                    </text>
+                </switch>
+            </g>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
