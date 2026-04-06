@@ -14,7 +14,7 @@ public class Kernighan {
     return count;
     }//fin metodo countSetBits(int n)
    public static void main(String[] args) {
-       int n = 536870911;
+       int n = 16;
        System.out.println("el numero entero: " + n + " " + " : en binario es: " + Integer.toBinaryString(n));
     }
     }
