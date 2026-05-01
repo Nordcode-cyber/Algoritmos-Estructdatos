@@ -11,12 +11,14 @@
             "id": "b7984c37d882d289",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algoritmos/Heapsort/Heapsort.drawio.svg"
+                "file": "Estructura-de-datos/Arboles/Arbol-binario.MD",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Heapsort.drawio"
+              "icon": "lucide-file",
+              "title": "Arbol-binario"
             }
           }
         ]
@@ -183,29 +185,41 @@
   },
   "active": "b7984c37d882d289",
   "lastOpenFiles": [
-    "Algoritmos/Heapsort/Heapsort.MD",
-    "Algoritmos/ClockAngle/ClockAngle.MD",
-    "Algoritmos/Busqueda/LinearSearch.MD",
-    "Algoritmos/Busqueda/BinarySearch.MD",
-    "Estructura-de-datos/Grafos/Grafos.MD",
-    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
-    "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
-    "Estructura-de-datos/Grafos/ejemplo-grafo-nodir.drawio.svg",
-    "Algoritmos/Heapsort/Heapsort.drawio.svg",
-    "Api-colecciones/Queue/Queue.MD",
-    "Api-colecciones/Collection.drawio.svg",
-    "Api-colecciones/Collection.MD",
-    "Estructura-de-datos/Pilas/Stack.drawio.svg",
+    "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
+    "Estructura-de-datos/Grafos/Ciclo.MD",
+    "Estructura-de-datos/Lista-Enlazada/Sorted_list.jpg",
+    "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_simple.drawio.svg",
+    "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_ordenada.drawio.svg",
+    "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_doble.drawio.svg",
     "Estructura-de-datos/Grafos/Subgrafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Subgrafo-inducido.drawio.svg",
     "Estructura-de-datos/Grafos/Subgrafo.MD",
-    "Estructura-de-datos/Grafos/Recorrido.MD",
     "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
-    "Estructura-de-datos/Grafos/Ciclo.MD",
+    "Estructura-de-datos/Grafos/Grafos.MD",
+    "Algoritmos/Quicksort/Quicksort.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
+    "Estructura-de-datos/Grafos/Dijkstra.MD",
     "Estructura-de-datos/Grafos/ADT-Grafo.MD",
-    "Algoritmos/Shellsort/src/main/java/Shellshort.MD"
+    "Algoritmos/Quicksort/Quicksort.MD",
+    "Readme.md",
+    "Recursividad/divide_y_venceras.MD",
+    "Recursividad/Collat/src/main/java/Collat-teoria.md",
+    "Estructura-de-datos/Pilas/Stack.MD",
+    "Estructura-de-datos/tabla-hash/hashtable.MD",
+    "Estructura-de-datos/tabla-hash/hash-function.MD",
+    "Estructura-de-datos/Arboles/Terminologia.MD",
+    "Estructura-de-datos/Arboles/TAD.MD",
+    "Estructura-de-datos/Arboles/Recorrido.MD",
+    "Estructura-de-datos/Arboles/Arbol-general.MD",
+    "Estructura-de-datos/Arboles/Arbol-binario.MD",
+    "Algoritmos/Radisort/Radixsort.MD",
+    "Algoritmos/Heapsort/Heapsort.MD",
+    "Estructura-de-datos/tabla-hash/Colisiones.MD",
+    "Algoritmos/Quicksort/Quicksort.drawio",
+    "Algoritmos/ClockAngle/ClockAngle.MD",
+    "Algoritmos/Busqueda/LinearSearch.MD",
+    "Algoritmos/Busqueda/BinarySearch.MD"
   ]
 }

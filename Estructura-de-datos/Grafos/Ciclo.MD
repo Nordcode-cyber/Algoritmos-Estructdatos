@@ -1,5 +1,5 @@
 ###                                Ciclos
 
-*`Ciclo(simple)`* Un camino que comienza y termina en el mismo vertice,(sin repetir arcos)
+*`Ciclo(simple)`* Un camino que comienza y termina en el mismo vértice,(sin repetir arcos)
 
-*`Ciclo (camino) dirigido`* un ciclo (camino) donde las aristas, tienen direccion y son recorridas en su direccion.
+*`Ciclo (camino) dirigido`* un ciclo (camino) donde las aristas, tienen dirección y son recorridas en su dirección.

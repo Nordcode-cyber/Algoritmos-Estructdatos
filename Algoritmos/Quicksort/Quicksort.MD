@@ -11,7 +11,7 @@ en un vector o array se divide (parte) en dos sublistas: una con todos los valor
 cierto valor específico y otra con todos los valores mayores que ese valor. El valor elegido puede ser cualquier valor
 arbitrario del vector. En ordenación rápida se llama a este valor pivote.
 
-###                                      Implementacion
+###                                      Implementación
 
 El primer paso es dividir la lista original en dos sublistas o subvectores y un valor de separación. Así, el vector
 V[ ] se divide en tres partes:

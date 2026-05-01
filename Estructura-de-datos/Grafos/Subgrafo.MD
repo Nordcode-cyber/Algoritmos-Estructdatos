@@ -1,6 +1,6 @@
-##                           Teoria de Grafos
+##                           Teoría de Grafos
 ###                         *Subgrafos*
-Un subgrafo H de un grafo G es un grafo donde los vertice de H son un subconjunto de los vertices de G y los 
+Un subgrafo H de un grafo G es un grafo donde los vértice de H son un subconjunto de los vértices de G y los 
 arcos de H son un subconjunto de los arcos de G.
 
 ######       `Sea G = (V(G), E(G)) Y H=(V(H), E(H))`

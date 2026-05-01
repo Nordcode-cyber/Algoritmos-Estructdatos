@@ -51,7 +51,7 @@ descendientes de n en A, SA se llama un subárbol completo de A.
 la altura del árbol h, cada nodo de nivel k < h-1 tiene exactamente k hijos. El árbol está
 equilibrado perfectamente, si cada nodo de nivel l<h tiene exactamente k hijos.
 
-###                 Representacion de lista
+###                 Representación de lista
 
 Otro formato utilizado para representar un árboles es la lista entre paréntesis. Esta es la notación
 utilizada con expresiones algebraicas. En esta representación, cada paréntesis abierto

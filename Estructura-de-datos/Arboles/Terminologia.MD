@@ -1,4 +1,4 @@
-###                                                 Nodo Raiz
+###                                                 Nodo Raíz
 
 Un árbol es un conjunto de uno o más nodos tales que:
 1. Hay un nodo diseñado especialmente llamado raíz.

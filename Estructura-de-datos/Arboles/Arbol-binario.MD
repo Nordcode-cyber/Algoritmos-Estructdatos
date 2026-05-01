@@ -1,5 +1,5 @@
-###                             Arbol Binario
-*un arbol binario no puede tener mas de 2 subarboles*
+###                             Árbol Binario
+*un árbol binario no puede tener mas de 2 subárboles*
 
 Un árbol binario es un árbol cuyos nodos no pueden tener más de dos subárboles. En un árbol
 binario, cada nodo puede tener cero, uno o dos hijos (subárboles). Se conoce el nodo de la izquierda
@@ -8,13 +8,13 @@ Un árbol binario es una estructura recursiva. Cada nodo es la raíz de su propi
 tiene hijos, que son raíces de árboles, llamados subárboles derecho e izquierdo del nodo, respectivamente.
 Un árbol binario se divide en tres subconjuntos disjuntos:
 
-1. `{R}`           *Nodo Raiz*
-2. `{I1, I2, In}`  *Subarbol Izquierdo de R*
-3. `{D1, D2, Dn}`  *Subarbol Derecho de R*
+1. `{R}`           *Nodo Raíz*
+2. `{I1, I2, In}`  *Subárbol Izquierdo de R*
+3. `{D1, D2, Dn}`  *Subárbol Derecho de R*
 
-####                        Arbol Binario completo
-Un arbol binario completo de profundidad `n` es un arbol que para cada nivel, del `0` al nivel `n-1` , tiene un conjunto,
-lleno de nodos y todos los nodos hojas a nivel `n`  es un arbol lleno, un arbol lleno contiene maximo `n` de entradas,
+####                        Árbol Binario completo
+Un árbol binario completo de profundidad `n` es un árbol que para cada nivel, del `0` al nivel `n-1` , tiene un conjunto,
+lleno de nodos y todos los nodos hojas a nivel `n`  es un árbol lleno, un árbol lleno contiene máximo `n` de entradas,
 para su altura.
 
 ####                        Equilibrio 

@@ -1,4 +1,4 @@
-###                           TAD Arbol Binarios
+###                           TAD Árbol Binarios
 
 La estructura de árbol binario constituye un tipo abstracto de datos; las operaciones básicas que
 definen el TAD árbol binario son las siguientes:
