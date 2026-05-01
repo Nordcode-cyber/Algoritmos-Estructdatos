@@ -183,8 +183,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b7984c37d882d289",
+  "active": "be051f113c3b1b4a",
   "lastOpenFiles": [
+    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-binario.MD",
     "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
     "Estructura-de-datos/Grafos/Ciclo.MD",
     "Estructura-de-datos/Lista-Enlazada/Sorted_list.jpg",
@@ -213,7 +215,6 @@
     "Estructura-de-datos/Arboles/TAD.MD",
     "Estructura-de-datos/Arboles/Recorrido.MD",
     "Estructura-de-datos/Arboles/Arbol-general.MD",
-    "Estructura-de-datos/Arboles/Arbol-binario.MD",
     "Algoritmos/Radisort/Radixsort.MD",
     "Algoritmos/Heapsort/Heapsort.MD",
     "Estructura-de-datos/tabla-hash/Colisiones.MD",
