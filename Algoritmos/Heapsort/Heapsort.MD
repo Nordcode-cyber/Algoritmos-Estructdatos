@@ -14,10 +14,18 @@ La fase de extracción de los elementos en orden tarda O(n log n) tiempo en el p
 
 En total, el tiempo de ejecución de Heapsort en el peor de los casos es O(n log n), ya que la fase de construcción del montículo y la fase de extracción de los elementos en orden tienen complejidades de O(n) y O(n log n), respectivamente. En resumen, el análisis logarítmico de Heapsort se basa en el hecho de que la extracción de cada elemento del montículo toma O(log n) tiempo en el peor de los casos debido a la altura del árbol binario completo que representa el montículo. Esto da lugar a una complejidad total de O(n log n) para el algoritmo en el peor de los casos.
 
-###                                   Notación asintótica complejidad temporal O(log n) ?
+###                    Notación asintótica complejidad temporal O(n log n) ?
 
-*O(log n)* es una notación asintótica que describe la complejidad temporal de un algoritmo en términos del tamaño de la entrada, n. En este caso, log n representa el logaritmo en base 2 de n. La notación O se utiliza para describir la complejidad temporal en el peor de los casos de un algoritmo. Por lo tanto, *O(log n)* significa que el tiempo de ejecución del algoritmo crece proporcionalmente al logaritmo en base 2 del tamaño de la entrada, n.
+*O(n log n)*El algoritmo de ordenación por montículos es sencillo de implementar, realiza una ordenación in situ de O(n·lg(n)), pero no es estable.
 
-En términos prácticos, esto significa que a medida que el tamaño de la entrada aumenta, el tiempo de ejecución del algoritmo aumenta lentamente. En contraste, si la complejidad fuera O(n), el tiempo de ejecución del algoritmo crecería proporcionalmente al tamaño de la entrada, lo que sería significativamente más lento a medida que la entrada se hace más grande.
+El primer bucle, la fase de "apilamiento" Θ(n), ordena el arreglo en forma de montón. El segundo bucle, la fase de "ordenación" O(n·lg(n)), extrae repetidamente el máximo y restablece el orden del montón.
 
-Un ejemplo de un algoritmo con *complejidad O(log n)* es la búsqueda binaria, que utiliza la división en mitades de un conjunto de datos ordenado para buscar un elemento en particular. En cada iteración, el tamaño del conjunto de datos se reduce a la mitad, lo que implica un crecimiento logarítmico en el número de iteraciones necesarias para encontrar el elemento buscado.  
+La función sink se escribe de forma recursiva para mayor claridad. Por lo tanto, como se muestra, el código requiere un espacio de Θ(lg(n)) para la pila de llamadas recursivas. Sin embargo, la recursión de cola en sink() se puede convertir fácilmente en iteración, lo que da como resultado un límite de espacio de O(1).
+
+Ambas fases son ligeramente adaptativas, aunque no de una manera particularmente útil. En el caso de un orden casi perfecto, la fase de agrupamiento destruye el orden original. En el caso inverso, la fase de agrupamiento es lo más rápida posible, ya que el array comienza en orden de agrupamiento, pero luego la fase de ordenación es la típica. En el caso de pocas claves únicas, se observa cierta aceleración, pero no tanta como en el algoritmo de ordenación Shell o Quicksort de tres vías.
+
+| Caracteristica | Heapsort   | Quicksort | Mergesort  |
+| -------------- | ---------- | --------- | ---------- |
+| Peor Caso      | $O(nlogn)$ | $O(n2)$   | $O(nlogn)$ |
+| Memoria        | $O(1)$     | $O(logn)$ | $O(n)$     |
+| Estable        | No         | No        | Si         |
