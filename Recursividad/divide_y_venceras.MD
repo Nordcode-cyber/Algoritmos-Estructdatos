@@ -23,10 +23,9 @@ acciones, por lo que se puede plantear con llamadas recursivas al proceso de dib
 cada vez con un tamaño menor, exactamente la mitad.
 Un  `algoritmo divide y vencerás`  se define de manera recursiva, de tal modo que se llama a sí
 mismo sobre un conjunto menor de elementos. Normalmente, se implementan con dos llamadas
-recursivas, cada una con un tamanio menor, se alcanza el caso base, cuando el problema se resuelve directamente.
+recursivas, cada una con un tamaño menor, se alcanza el caso base, cuando el problema se resuelve directamente.
 
 ###                            Norma
 
-Un algoritmo divide y vencerás consta de dos partes. La primera, divide recursivamente, el problema original,
-en subproblemas cada vez mas pequeños. La segunda, soluciona (vencerás) el problema dando respuesta a los subproblemas. 
-Desde elcaso base se empieza a combinar soluciones de subproblemas hasta que queda resuelto el problema completo.
+Un algoritmo divide y vencerás consta de dos partes. La primera, divide recursivamente, el problema original, en subproblemas cada vez mas pequeños. La segunda, soluciona (vencerás) el problema dando respuesta a los subproblemas. 
+Desde el caso base se empieza a combinar soluciones de subproblemas hasta que queda resuelto el problema completo.

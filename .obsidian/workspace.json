@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "31293b43456d1ce5",
+        "id": "17684c7e480e20da",
         "type": "tabs",
         "children": [
           {
-            "id": "b7984c37d882d289",
+            "id": "ac736f200eb9eedf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursividad/Collat/src/main/java/Collat-teoria.md",
+                "file": "Recursividad/divide_y_venceras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collat-teoria"
+              "title": "divide_y_venceras"
             }
           }
         ]
@@ -94,17 +94,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Grafos.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Grafos"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Grafos.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Grafos"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -156,25 +154,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Grafos.MD",
+                "file": "Recursividad/divide_y_venceras.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Grafos"
+              "title": "Esquema de divide_y_venceras"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
+      "switcher:Abrir selector rápido": true,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
@@ -183,44 +181,49 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b7984c37d882d289",
+  "active": "ac736f200eb9eedf",
   "lastOpenFiles": [
-    "Api-colecciones/List/Lista.MD",
-    "Algoritmos/Quicksort/Quicksort.MD",
-    "Algoritmos/Quicksort/Quicksort.drawio.svg",
+    "Sin título 2.md",
+    "Sin título 2.canvas",
+    "Sin título 3.canvas",
+    "Sin título.md",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Sin título 1.md",
+    "Estructura-de-datos/Grafos/Recorrido.MD",
+    "Estructura-de-datos/Grafos/Grafos.MD",
+    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
+    "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
+    "Estructura-de-datos/Grafos/ejemplo-grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
+    "Estructura-de-datos/Grafos/ADT-Grafo.MD",
+    "Estructura-de-datos/Arboles/Representacion.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
+    "Sin título.base",
+    "Readme.md",
+    "Api-colecciones/Collection.MD",
+    "Sin nombre",
+    "Api-colecciones/Collection.drawio.svg",
     "Algoritmos/Heapsort/Heapsort.MD",
     "Algoritmos/Heapsort/Heapsort.drawio.svg",
+    "Recursividad/divide_y_venceras.md",
+    "Api-colecciones/List/Lista.MD",
+    "Api-colecciones/Queue/Queue.MD",
+    "Recursividad/Collat/src/main/java/Collat-teoria.md",
+    "Algoritmos/Quicksort/Quicksort.MD",
     "Estructura-de-datos/Arboles/Arbol-binario.MD",
-    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
-    "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
     "Estructura-de-datos/Grafos/Ciclo.MD",
-    "Estructura-de-datos/Lista-Enlazada/Sorted_list.jpg",
-    "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_simple.drawio.svg",
-    "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_ordenada.drawio.svg",
-    "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_doble.drawio.svg",
-    "Estructura-de-datos/Grafos/Subgrafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Subgrafo-inducido.drawio.svg",
     "Estructura-de-datos/Grafos/Subgrafo.MD",
     "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
-    "Estructura-de-datos/Grafos/Grafos.MD",
     "Estructura-de-datos/Grafos/Dijkstra.MD",
-    "Estructura-de-datos/Grafos/ADT-Grafo.MD",
-    "Readme.md",
-    "Recursividad/divide_y_venceras.MD",
-    "Recursividad/Collat/src/main/java/Collat-teoria.md",
     "Estructura-de-datos/Pilas/Stack.MD",
     "Estructura-de-datos/tabla-hash/hashtable.MD",
     "Estructura-de-datos/tabla-hash/hash-function.MD",
     "Estructura-de-datos/Arboles/Terminologia.MD",
     "Estructura-de-datos/Arboles/TAD.MD",
-    "Estructura-de-datos/Arboles/Recorrido.MD",
-    "Estructura-de-datos/Arboles/Arbol-general.MD",
-    "Algoritmos/Radisort/Radixsort.MD",
-    "Estructura-de-datos/tabla-hash/Colisiones.MD",
-    "Algoritmos/Quicksort/Quicksort.drawio",
-    "Algoritmos/ClockAngle/ClockAngle.MD",
-    "Algoritmos/Busqueda/LinearSearch.MD",
-    "Algoritmos/Busqueda/BinarySearch.MD"
+    "Algoritmos/Quicksort/Quicksort.drawio"
   ]
 }
