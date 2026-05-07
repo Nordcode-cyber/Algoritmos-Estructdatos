@@ -3,8 +3,8 @@ public class Insertsort {
         /* Metodo de Ordenamiento de Inserccion.
 		 * Author Nordeverlop
 		 */
-		int cont=12; 
-		int a[]= {8,5,1,4,2,11,9,13,6,21,7,12}; //generacion del Array
+		int cont=22; 
+		int a[]= {8,5,4,1,2,9,3,10,7,19,12,11,15,13,20,14,16,22,17,24,23,21}; //generacion del Array
 		int entrada, salida;
 		int aux;
 		 int valor=0;
@@ -28,6 +28,23 @@ public class Insertsort {
 			System.out.print(a[j] +"");
 			System.out.print(" ");
 			
+			
 		}// end for
+		 // Registrar el tiempo de fin en nanosegundos
+        long tiempoFin = System.nanoTime();
+
+        // --- FIN del algoritmo ---
+
+        // Calcular la diferencia de tiempo transcurrido
+        long tiempoInicio = 0;
+		long tiempoTranscurridoNano = tiempoFin - tiempoInicio;
+
+        // Convertir el tiempo de nanosegundos a milisegundos para mejor lectura (1 ms = 1,000,000 ns)
+        double tiempoTranscurridoMillis = (double) tiempoTranscurridoNano / 1_000_000.0;
+
+        // Imprimir el resultado
+        System.out.println();
+        System.out.println("Tiempo de ejecución metodo inserccion en nanosegundos: " + tiempoTranscurridoNano + " ns");
+        System.out.println("Tiempo de ejecución metodo inserccion en milisegundos: " + tiempoTranscurridoMillis + " ms");
     }
 }

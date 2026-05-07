@@ -7,7 +7,7 @@ public class QuicksortApp {
 		 *  Con Recursividad para la particion.
 		 * Author Nordevelop
 		 */
-		int maxSize = 16; // array size
+		int maxSize = 10; // array size
 		Qarray arr;
 		arr = new Qarray(maxSize); // create array
 		for(int j=0; j<maxSize; j++) { 
@@ -26,7 +26,9 @@ public class QuicksortApp {
             e.printStackTrace();
         }
 
-        // Registrar el tiempo de fin en nanosegundos
+        
+    }//fin for(int j=0; j<maxSize; j++)
+    // Registrar el tiempo de fin en nanosegundos
         long tiempoFin = System.nanoTime();
 
         // --- FIN del algoritmo ---
@@ -41,8 +43,6 @@ public class QuicksortApp {
         
         System.out.println("Tiempo de ejecución en nanosegundos: " + tiempoTranscurridoNano + " ns");
         System.out.println("Tiempo de ejecución en milisegundos: " + tiempoTranscurridoMillis + " ms");
-    }//fin for(int j=0; j<maxSize; j++)
-    
 		}
     }
     

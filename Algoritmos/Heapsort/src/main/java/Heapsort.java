@@ -75,8 +75,25 @@ public class Heapsort {
 		//System.out.println("se elimino un elemento del Array arr: ");
 		//System.out.println("Array "+Arrays.toString(arr));
 	        heapsort(arr); 
+             // Registrar el tiempo de fin en nanosegundos
+      
                 System.out.println("Array Ordenado con el metodo Heapsort");
-		System.out.println(Arrays.toString(arr)); // mostrar el array ordenado
+		System.out.println(Arrays.toString(arr)); // mostrar el array ordenado\
+          long tiempoFin = System.nanoTime();
+
+        // --- FIN del algoritmo ---
+
+        // Calcular la diferencia de tiempo transcurrido
+        long tiempoInicio = 0;
+		long tiempoTranscurridoNano = tiempoFin - tiempoInicio;
+
+        // Convertir el tiempo de nanosegundos a milisegundos para mejor lectura (1 ms = 1,000,000 ns)
+        double tiempoTranscurridoMillis = (double) tiempoTranscurridoNano / 1_000_000.0;
+
+        // Imprimir el resultado
+        
+        System.out.println("Tiempo de ejecución en nanosegundos: " + tiempoTranscurridoNano + " ns");
+        System.out.println("Tiempo de ejecución en milisegundos: " + tiempoTranscurridoMillis + " ms");
 
 
         

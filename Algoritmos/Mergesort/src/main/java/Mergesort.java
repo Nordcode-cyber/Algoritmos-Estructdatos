@@ -24,6 +24,21 @@ public class Mergesort {
 		arr.mergeSort(); //vector arr[] ordenado con el algoritmo de Mergesort
 		System.out.println("Array Ordenado con el metodo Merge-sort: ");
 		arr.mostrar(); // mostrar el vector ordenado
+		long tiempoFin = System.nanoTime();
+
+        // --- FIN del algoritmo ---
+
+        // Calcular la diferencia de tiempo transcurrido
+        long tiempoInicio = 0;
+		long tiempoTranscurridoNano = tiempoFin - tiempoInicio;
+
+        // Convertir el tiempo de nanosegundos a milisegundos para mejor lectura (1 ms = 1,000,000 ns)
+        double tiempoTranscurridoMillis = (double) tiempoTranscurridoNano / 1_000_000.0;
+
+        // Imprimir el resultado
+        
+        System.out.println("Tiempo de ejecución en nanosegundos: " + tiempoTranscurridoNano + " ns");
+        System.out.println("Tiempo de ejecución en milisegundos: " + tiempoTranscurridoMillis + " ms");
 
     }
 }

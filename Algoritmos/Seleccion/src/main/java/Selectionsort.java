@@ -31,7 +31,24 @@ public class Selectionsort {
        for (int j=0;j<cont;j++) {
             System.out.print(a[j] +" ");
             System.out.print(" ");
+            
        } //end for (j)
+        // Registrar el tiempo de fin en nanosegundos
+        long tiempoFin = System.nanoTime();
+
+        // --- FIN del algoritmo ---
+
+        // Calcular la diferencia de tiempo transcurrido
+        long tiempoInicio = 0;
+		long tiempoTranscurridoNano = tiempoFin - tiempoInicio;
+
+        // Convertir el tiempo de nanosegundos a milisegundos para mejor lectura (1 ms = 1,000,000 ns)
+        double tiempoTranscurridoMillis = (double) tiempoTranscurridoNano / 1_000_000.0;
+
+        // Imprimir el resultado
+        System.out.println();
+        System.out.println("Tiempo de ejecución en nanosegundos: " + tiempoTranscurridoNano + " ns");
+        System.out.println("Tiempo de ejecución en milisegundos: " + tiempoTranscurridoMillis + " ms");
 
        
 
