@@ -7,7 +7,7 @@ Las colas tienen numerosas aplicaciones en el mundo de la computación: colas de
 colas de tareas a realizar por una impresora, colas de prioridades, etc.
 ###                                    CONCEPTO DE COLA
 Una cola es una estructura de datos que almacena elementos en una lista y permite acceder a los
-datos por uno de los dos extremos.Un elemento se inserta en la cola (parte final) de la lista y 
+datos por uno de los dos extremos. Un elemento se inserta en la cola (parte final) de la lista y 
 se suprime o elimina por el frente (parte inicial, frente) de la lista. Las aplicaciones utilizan,
  una cola para almacenar elementos en su orden de aparición o concurrencia.
 
