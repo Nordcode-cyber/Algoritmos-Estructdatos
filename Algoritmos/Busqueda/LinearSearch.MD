@@ -1,4 +1,4 @@
-###                                         Busqueda Lineal:
+###                                         Búsqueda Lineal:
 
 Este algoritmo funciona secuencialmente por todo el Array, desde un extremo hasta encontrar el elemento objetivo.
 Si se encuentra el elemento en cuestion, devuelve su indice, sino devolvera (-1). 

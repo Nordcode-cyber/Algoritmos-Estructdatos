@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursividad/divide_y_venceras.md",
+                "file": "Algoritmos/Heapsort/Heapsort.MD",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "divide_y_venceras"
+              "title": "Heapsort"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursividad/divide_y_venceras.md",
+                "file": "Algoritmos/Heapsort/Heapsort.MD",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de divide_y_venceras"
+              "title": "Esquema de Heapsort"
             }
           }
         ],
@@ -183,6 +183,23 @@
   },
   "active": "ac736f200eb9eedf",
   "lastOpenFiles": [
+    "Algoritmos/Heapsort/Heapsort.drawio.svg",
+    "Algoritmos/Heapsort/Heapsort.MD",
+    "Algoritmos/Busqueda/LinearSearch.MD",
+    "Algoritmos/Busqueda/BinarySearch.MD",
+    "Estructura-de-datos/Arboles/Arbol-general.MD",
+    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
+    "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Floyd.MD",
+    "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafos.MD",
+    "Estructura-de-datos/Grafos/ejemplo-grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Arboles/Terminologia.MD",
+    "Estructura-de-datos/Arboles/Arbol-binario.MD",
+    "Api-colecciones/List/Lista.MD",
+    "Recursividad/divide_y_venceras.md",
     "Sin título 2.md",
     "Sin título 2.canvas",
     "Sin título 3.canvas",
@@ -191,39 +208,22 @@
     "Sin título.canvas",
     "Sin título 1.md",
     "Estructura-de-datos/Grafos/Recorrido.MD",
-    "Estructura-de-datos/Grafos/Grafos.MD",
-    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
-    "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
-    "Estructura-de-datos/Grafos/ejemplo-grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
     "Estructura-de-datos/Grafos/ADT-Grafo.MD",
     "Estructura-de-datos/Arboles/Representacion.drawio.svg",
-    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
     "Sin título.base",
     "Readme.md",
     "Api-colecciones/Collection.MD",
     "Sin nombre",
     "Api-colecciones/Collection.drawio.svg",
-    "Algoritmos/Heapsort/Heapsort.MD",
-    "Algoritmos/Heapsort/Heapsort.drawio.svg",
-    "Recursividad/divide_y_venceras.md",
-    "Api-colecciones/List/Lista.MD",
     "Api-colecciones/Queue/Queue.MD",
     "Recursividad/Collat/src/main/java/Collat-teoria.md",
     "Algoritmos/Quicksort/Quicksort.MD",
-    "Estructura-de-datos/Arboles/Arbol-binario.MD",
     "Estructura-de-datos/Grafos/Ciclo.MD",
     "Estructura-de-datos/Grafos/Subgrafo.MD",
     "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
     "Estructura-de-datos/Grafos/Dijkstra.MD",
-    "Estructura-de-datos/Pilas/Stack.MD",
-    "Estructura-de-datos/tabla-hash/hashtable.MD",
-    "Estructura-de-datos/tabla-hash/hash-function.MD",
-    "Estructura-de-datos/Arboles/Terminologia.MD",
-    "Estructura-de-datos/Arboles/TAD.MD",
     "Algoritmos/Quicksort/Quicksort.drawio"
   ]
 }

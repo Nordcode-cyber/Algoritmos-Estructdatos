@@ -3,7 +3,7 @@
 1. Arbol Generales
 2. Arbol de Expresion
 3. Arbol Binario
-4. Arbol Binario de busqueda
+4. Árbol Binario de búsqueda
 5. Recorrido
 
 El árbol es una estructura de datos muy importante en informática y en ciencias de la computación.
