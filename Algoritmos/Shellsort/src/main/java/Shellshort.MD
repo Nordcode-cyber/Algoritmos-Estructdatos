@@ -4,5 +4,5 @@ El método de ordenamiento Shell consiste en dividir el Vector[ ] (o la lista de
 de varios elementos para organizarlos después por medio del ordenamiento de inserción directa. El proceso se repite, 
 pero con intervalos cada vez más pequeños, de tal manera que al final, el ordenamiento se haga en un intervalo de una sola posición, 
 similar al ordenamiento por inserción directa, la diferencia entre ambos es qué, al final,
- en el método Shel Su nombre proviene de su creador, Donald Shell, 
+ en el método Shell Su nombre proviene de su creador, Donald Shell, 
  wy no tiene que ver en la forma como funciona el algoritmo. los elementos ya están casi ordenados.
