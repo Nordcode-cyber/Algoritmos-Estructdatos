@@ -11,12 +11,14 @@
             "id": "d3a60e7a4694760b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Algoritmos/Quicksort/Quicksort.drawio.svg"
+                "file": "Algoritmos/Quicksort/Quicksort.MD",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Quicksort.drawio"
+              "icon": "lucide-file",
+              "title": "Quicksort"
             }
           }
         ]
@@ -152,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmos/Quicksort/Quicksort.drawio.svg",
+                "file": "Algoritmos/Quicksort/Quicksort.MD",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Quicksort.drawio"
+              "title": "Esquema de Quicksort"
             }
           }
         ],
@@ -181,11 +183,14 @@
   },
   "active": "d3a60e7a4694760b",
   "lastOpenFiles": [
+    "Algoritmos/Mergesort/Mergesort.drawio.svg",
+    "Algoritmos/Heapsort/Heapsort.drawio.svg",
+    "Algoritmos/Heapsort/Heapsort.MD",
+    "Algoritmos/Radisort/Radixsort.MD",
+    "Algoritmos/Quicksort/Quicksort.drawio.svg",
     "Algoritmos/Quicksort/Quicksort.MD",
     "Estructura-de-datos/Grafos/Subgrafo.MD",
     "Estructura-de-datos/Grafos/Grafos.MD",
-    "Algoritmos/Heapsort/Heapsort.drawio.svg",
-    "Algoritmos/Mergesort/Mergesort.drawio.svg",
     "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
     "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
     "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
@@ -195,13 +200,11 @@
     "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Subgrafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Ciclo.MD",
-    "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
     "Algoritmos/Shellsort/src/main/java/Shellshort.MD",
     "Api-colecciones/Map/Map.MD",
     "Api-colecciones/List/Lista.MD",
     "Estructura-de-datos/Colas/Queue.MD",
     "Estructura-de-datos/Colas/Cola-prioridad.MD",
-    "Algoritmos/Heapsort/Heapsort.MD",
     "Algoritmos/Busqueda/LinearSearch.MD",
     "Algoritmos/Busqueda/BinarySearch.MD",
     "Estructura-de-datos/Arboles/Arbol-general.MD",
@@ -220,9 +223,7 @@
     "Estructura-de-datos/Grafos/ADT-Grafo.MD",
     "Sin título.base",
     "Readme.md",
-    "Api-colecciones/Collection.MD",
     "Sin nombre",
-    "Api-colecciones/Queue/Queue.MD",
     "Algoritmos/Quicksort/Quicksort.drawio"
   ]
 }

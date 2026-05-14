@@ -1,7 +1,6 @@
 import java.lang.ArrayIndexOutOfBoundsException;
 public class Matriz {
     public static void main(String[] args) throws ArrayIndexOutOfBoundsException {
-        System.out.println("puto");
         int tabla [][] = {{4,9,2},{3,6,7}};
 		int cubo [][] = {{11,13,12},{16,19,22},{14,17,24}};
 		String nombres [][] = {{"pepe","luis","jose", "beto"},{"norbert","pancho","lucho","guille"},{"bety","dany","romy","telvy"}};

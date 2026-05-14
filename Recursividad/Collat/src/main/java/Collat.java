@@ -21,10 +21,10 @@ public class Collat {
 			 n = entra.nextInt();
 			 if (n >= 1){
 			    test(n);
-			}	
+			}
+				
 		}//fin while(n >=1)
 		System.out.println("saliendo....");
-	
 	}//fin main
 	public static void test (int n) {
 		int round =0, numero = n;

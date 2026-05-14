@@ -12,6 +12,7 @@ public class Interpais {
         Paismap.put("Espania", "Es");
         Paismap.put("China", "Cn");
         Paismap.put("Israel", "Il");
+        Paismap.put("Somaliland", "Sl");
 		Set<String>paises = Paismap.keySet();
 		System.out.println("paises" + paises);
 		Collection<String>codigodominiopais = Paismap.values();
