@@ -14,9 +14,10 @@ public class Iterar {
         System.out.print("Recursividad: ");
         print1toN(n);
         System.out.println(" ");
-        System.out.print("Iterador For: ");
+          System.out.print("Iterador For: ");
         for (int i = 1; i <= 10; i++) {
             System.out.print(i + " ");
         }
+      
     }
 }

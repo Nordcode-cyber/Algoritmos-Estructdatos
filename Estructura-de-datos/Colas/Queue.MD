@@ -19,3 +19,7 @@ Cola vacía| Comprueba si la cola no tiene elementos.
 Cola llena| Comprueba si la cola está llena de elementos.
 Frente    |Obtiene el elemento frente o primero de la cola.
 Tamaño    | Número de elementos máximo que puede contener la cola
+
+|     |     |
+| --- | --- |
+|     |     |
