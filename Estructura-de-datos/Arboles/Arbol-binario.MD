@@ -1,5 +1,5 @@
 ###                             *Árbol Binario*
-*un árbol binario no puede tener mas de 2 subárboles*
+==*un árbol binario no puede tener mas de 2 subárboles*==
 
 Un árbol binario es un árbol cuyos nodos no pueden tener más de dos subárboles. En un árbol
 binario, cada nodo puede tener cero, uno o dos hijos (subárboles). Se conoce el nodo de la izquierda

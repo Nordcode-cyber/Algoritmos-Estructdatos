@@ -7,5 +7,5 @@ algoritmo, si el árbol no está vacío, son:
 `1. Recorrer el subárbol izquierdo (I) en postorden.`
 `2. Recorrer el subárbol derecho (D) en postorden.`
 `3. Visitar el nodo raíz (N).`
-Se visita primero el subarbol izquierdo, siguiendo el orden IDN, luego subarbol derecho, y por ultimo,
-el nodo padre o la Raiz.
+Se visita primero el subárbol izquierdo, siguiendo el orden IDN, luego subárbol derecho, y por ultimo,
+el nodo padre o la Raíz.

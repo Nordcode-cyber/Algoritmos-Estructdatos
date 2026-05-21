@@ -1,6 +1,6 @@
-####                               Recorrido Preorden (NID) en Arbol Binario
+####                               Recorrido Preorden (NID) en Árbol Binario
 
-El recorrido preorden (NID) 
+El recorrido Preorden (NID) 
 conlleva los siguientes pasos, en los que el nodo raíz va antes que
 los subárboles:
 `1. Visitar el nodo raíz (N).`

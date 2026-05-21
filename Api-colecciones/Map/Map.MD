@@ -1,4 +1,4 @@
-###                                          MAP Coleccion en Java API Collection Framework
+###                                          MAP Colección en Java API Collection Framework
 
 Un mapa representa una colección de pares clave-valor, en la que cada clave se asigna a un único valor. Aunque el mapa forma parte del marco Java Collection, 
 no amplía la interfaz java.util.Collection.

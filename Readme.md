@@ -1,5 +1,5 @@
 ##   🚀 ALGORITMOS y ESTRUCTURAS DE DATOS.
-####   - 🚀 Algoritmos 
+####   - 🚀 Algoritmos. 
 ####   - 🚀 Estructura de datos.  
 ######           💾Vectores.
 ######           💾Pilas.
@@ -13,4 +13,4 @@
 ######           💾List.
 ######           💾Qeue.
 ######           💾ArrayList.
-####   - 🚀 Bibliografia.       
+####   - 🚀 Bibliografía.       

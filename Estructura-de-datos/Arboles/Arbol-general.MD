@@ -1,8 +1,8 @@
 ###                Arboles, Arboles binarios y arboles generales
 
-1. Arbol Generales
-2. Arbol de Expresion
-3. Arbol Binario
+1. Árbol Generales
+2. Árbol de Expresión
+3. Árbol Binario
 4. Árbol Binario de búsqueda
 5. Recorrido
 

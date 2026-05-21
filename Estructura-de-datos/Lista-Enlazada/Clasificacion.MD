@@ -1,7 +1,7 @@
-###                       Clasificacion de Listas Enlazadas
+###                       Clasificación de Listas Enlazadas
 
 #####                      *Listas simplemente enlazadas.* 
-Cada nodo (elemento) contiene un único enlace que lo
+Cada nodo ( n elemento) contiene un único enlace que lo
 conecta al nodo siguiente o nodo sucesor. La lista es eficiente en recorridos directos
 (“adelante”).
 #####                     *Listas doblemente enlazadas.*

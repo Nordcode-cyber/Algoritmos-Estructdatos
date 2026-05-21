@@ -1,6 +1,6 @@
-###                      Introduccion a la Recursividad
+###                      Introducción a la Recursividad
 
-La Recursividad, es aquella propiedad que posee un metodo, por lo cual puede llamarse a sí mismo. 
+La Recursividad, es aquella propiedad que posee un método, por lo cual puede llamarse a sí mismo. 
 Aunque se puede utilizar la recursividad como una alternativa a la iteración, una
 solución recursiva es, normalmente, menos eficiente en términos de tiempo de computadora que
 una solución iterativa, debido a las operaciones auxiliares que llevan consigo las invocaciones
