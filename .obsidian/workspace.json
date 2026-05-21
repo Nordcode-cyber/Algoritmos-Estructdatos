@@ -11,10 +11,14 @@
             "id": "3e13056d24933a32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Estructura-de-datos/Arboles/Arbol-binario.MD",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Arbol-binario"
             }
           }
         ]
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Estructura-de-datos/Arboles/Arbol-binario.MD",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Arbol-binario"
             }
           }
         ],
@@ -176,19 +181,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "be051f113c3b1b4a",
+  "active": "3e13056d24933a32",
   "lastOpenFiles": [
+    "Estructura-de-datos/Arboles/Recorrido.MD",
+    "Estructura-de-datos/Arboles/Terminologia.MD",
+    "Estructura-de-datos/Arboles/Arbol-binario.MD",
+    "Algoritmos/Mergesort/Mergesort.drawio.svg",
+    "Algoritmos/Mergesort/Mergesort.MD",
+    "Algoritmos/Quicksort/Quicksort.drawio.svg",
     "Sin título.canvas",
     "Estructura-de-datos/Colas/Queue.MD",
     "Estructura-de-datos/Colas/Cola-prioridad.MD",
     "Estructura-de-datos/Colas/Queue.drawio.svg",
     "Estructura-de-datos/Grafos/Grafos.MD",
     "Algoritmos/Quicksort/Quicksort.MD",
-    "Algoritmos/Mergesort/Mergesort.drawio.svg",
     "Algoritmos/Heapsort/Heapsort.drawio.svg",
     "Algoritmos/Heapsort/Heapsort.MD",
     "Algoritmos/Radisort/Radixsort.MD",
-    "Algoritmos/Quicksort/Quicksort.drawio.svg",
     "Estructura-de-datos/Grafos/Subgrafo.MD",
     "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
     "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
@@ -205,8 +214,6 @@
     "Algoritmos/Busqueda/BinarySearch.MD",
     "Estructura-de-datos/Arboles/Arbol-general.MD",
     "Estructura-de-datos/Grafos/Floyd.MD",
-    "Estructura-de-datos/Arboles/Terminologia.MD",
-    "Estructura-de-datos/Arboles/Arbol-binario.MD",
     "Recursividad/divide_y_venceras.md",
     "Sin título 2.md",
     "Sin título 2.canvas",
@@ -217,7 +224,6 @@
     "Estructura-de-datos/Grafos/Recorrido.MD",
     "Estructura-de-datos/Grafos/ADT-Grafo.MD",
     "Sin título.base",
-    "Readme.md",
     "Sin nombre",
     "Algoritmos/Quicksort/Quicksort.drawio"
   ]

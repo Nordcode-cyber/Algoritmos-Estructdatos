@@ -3,12 +3,14 @@
 ####   - 🚀 Estructura de datos.  
 ######           💾Vectores.
 ######           💾Pilas.
-######           💾Colas.
+######           💾Colas.   
 ######           💾Lista Enlazada.
 ######           💾Cola de Prioridad.
 ######           💾Arboles.
 ######           💾Grafos.
 ####   - 🚀 Recursividad.  
 ####   - 🚀 Api colecciones.  
-######           💾Listas.
+######           💾List.
+######           💾Qeue.
+######           💾ArrayList.
 ####   - 🚀 Bibliografia.       

@@ -1,4 +1,4 @@
-###                             Árbol Binario
+###                             *Árbol Binario*
 *un árbol binario no puede tener mas de 2 subárboles*
 
 Un árbol binario es un árbol cuyos nodos no pueden tener más de dos subárboles. En un árbol
@@ -28,3 +28,15 @@ El factor de equilibrio de un árbol binario es la diferencia en altura entre lo
 subárboles derecho e izquierdo. Si la altura del subárbol izquierdo es hI y la altura del subárbol
 derecho hD, entonces el factor de equilibrio del árbol B se determina por la siguiente fórmula:
 .*` B = hD - hI `*
+
+#### Operaciones TAD Árbol Binario
+
+| operaciones | Descripción                                                  |
+| ----------- | ------------------------------------------------------------ |
+| CrearArbol  | Iniciar el arbol como vacio                                  |
+| Construir   | Crear árbol con una raíz, y 2 subárboles Izquierda y derecha |
+| EsVacio     | Comprueba si el árbol no tiene nodos.                        |
+| Izquierdo   | Obtiene la rama o subárbol izquierdo de un árbol dado.       |
+| Derecho     | Obtiene la rama o subárbol derecho de un árbol dado          |
+| Borrar      | Elimina del árbol el nodo con un elemento determinado        |
+| Pertenece   | Determina si un elemento se encuentra en el arbol            |

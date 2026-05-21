@@ -1,7 +1,7 @@
                                         ###Merge-Sort
                                 
                             ###Algoritmo de ordenamiento Método MergeSort (mezcla)
-El algoritmo consiste en la técnica Divide y Venceras (Divide and conquer) , el proceso es simple: 
+El algoritmo consiste en la técnica Divide y Vencerás (Divide and conquer) , el proceso es simple: 
 Si se ordena la primera mitad del vector[], se ordena la segunda mitad del vector, Y una vez ordenadas se mezclan, 
 la mezcla da lugar a una vector de elementos ordenada. A su vez, la ordenación de la subvector mitad sigue los mismos pasos. 
 Ordenar la primera mitad, ordenar la segunda mitad y mezclar. La sucesiva división del vector actual en dos hace que el problema, 

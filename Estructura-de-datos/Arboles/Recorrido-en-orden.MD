@@ -1,4 +1,4 @@
-###                            Recorrido En Orden
+###                            Recorrido En Orden (IND)
 
 El recorrido en orden (inorder) procesa primero el subárbol izquierdo, después el raíz y, a continuación,
 el subárbol derecho. El significado de in es que la raíz se procesa entre los subárboles.
