@@ -7,13 +7,13 @@ public class QuicksortApp {
 		 *  Con Recursividad para la particion.
 		 * Author Nordevelop
 		 */
-		int maxSize = 10; // array size
+		int maxSize = 10000; // array size
 		Qarray arr;
 		arr = new Qarray(maxSize); // create array
 		for(int j=0; j<maxSize; j++) { 
 			long n = (int)(java.lang.Math.random()*99);//generar pseudoaleatoriamente numeros enteros
 			arr.agregar(n);
-			arr.mostrar();
+			//arr.mostrar();
 			arr.quickSort();
 			arr.mostrar();
              try {

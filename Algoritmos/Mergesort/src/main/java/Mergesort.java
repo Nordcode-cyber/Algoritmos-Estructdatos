@@ -4,23 +4,29 @@ public class Mergesort {
 		* Algoritmo de ordenamiento Mergesort
 		* Con Recursividad
 		*/
-		int maxSize = 100; 
+		int maxSize = 10000; 
 		Darray arr; 
+		
 		arr = new Darray(maxSize); // creacion del vector
-		arr.agregar(10); // agregar elementos al Vector
-		arr.agregar(5);
-		arr.agregar(3);
-		arr.agregar(7);
-		arr.agregar(2);
-		arr.agregar(8);
-		arr.agregar(4);
-		arr.agregar(11);
-		arr.agregar(9);
-		arr.agregar(0);
-		arr.agregar(6);
-		arr.agregar(1);
-		System.out.println("Array Desordenado: ");
-		arr.mostrar(); // mostrar el vector
+		for(int j=0; j<maxSize; j++) { 
+			long n = (int)(java.lang.Math.random()*99);//generar pseudoaleatoriamente numeros enteros
+			arr.agregar(n);
+			arr.mostrar();
+			arr.mergeSort();
+			arr.mostrar();
+			try {
+				// Simulación de un algoritmo (ej: una tarea que tarda un tiempo)
+	            for (int i = 0; i < 10000; i++) {
+	                // Algoritmo de ejemplo: suma simple
+	                int suma = i + i;
+	            }
+	        } catch (Exception e) {
+	            e.printStackTrace();
+	        }
+
+
+		//System.out.println("Array Desordenado: ");
+		//arr.mostrar(); // mostrar el vector
 		arr.mergeSort(); //vector arr[] ordenado con el algoritmo de Mergesort
 		System.out.println("Array Ordenado con el metodo Merge-sort: ");
 		arr.mostrar(); // mostrar el vector ordenado
@@ -41,4 +47,5 @@ public class Mergesort {
         System.out.println("Tiempo de ejecución en milisegundos: " + tiempoTranscurridoMillis + " ms");
 
     }
+}
 }

@@ -45,7 +45,7 @@
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
 			"Algoritmos/Atrapar/src/main/java",
-			"Estructura-de-datos/Colas/Cola-prioridad/src/main/java"
+			"Algoritmos/Mergesortrandom/src/main/java"
 		]
 	}
 }

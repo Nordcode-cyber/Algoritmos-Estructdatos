@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mergerandom",
+            "request": "launch",
+            "mainClass": "Mergerandom",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "HospitalPlan",
             "request": "launch",
             "mainClass": "HospitalPlan",

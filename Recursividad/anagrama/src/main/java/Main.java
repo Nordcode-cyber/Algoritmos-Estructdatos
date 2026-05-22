@@ -18,7 +18,7 @@ public class Main {
             }	
         }//fin while(!palabra.equals(""))
         System.out.println("saliendo....");
-    
+     
     }//fin main
     public static void test (String palabra) {
         System.out.println("ingreso = "+ palabra);
@@ -34,6 +34,7 @@ public class Main {
                 anagrama(prefijo + palabra.charAt(i), palabra.substring(0, i) + palabra.substring(i + 1, n));
             }
         }
+        
         
     }//fin metodo anagrama
 
