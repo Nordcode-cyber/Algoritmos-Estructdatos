@@ -4,7 +4,7 @@ public class Mergesort {
 		* Algoritmo de ordenamiento Mergesort
 		* Con Recursividad
 		*/
-		int maxSize = 10000; 
+		int maxSize = 10; 
 		Darray arr; 
 		
 		arr = new Darray(maxSize); // creacion del vector
