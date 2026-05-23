@@ -1,23 +1,26 @@
 import java.util.Arrays;
+import java.util.Random;
 
 public class Burblesort{
     public static void main(String[] args) {
-        
-    
-
     /*Metodo de ordenamiento Burbuja
 		*Author Nordevelop
 		*/
-		int []a= {10,9,8,1,5,11,0,7,14,2,4,6,3};
+		//int []a= {10,9,8,1,5,11,0,7,14,2,4,6,3};
 		int aux=0;
+          Random random = new Random();
+		int[] arr = new int[10000];
+        for(int i=0; i< arr.length;i++){
+            arr[i] = random.nextInt(10000);
+        }
 		System.out.println("Array sin ordenar ");
-		System.out.println(Arrays.toString(a));
-		for (int i=0;i<a.length;i++) {
-		    for (int j=0;j<a.length-1;j++) {
-		       if (a[j]>a[j+1]) {
-			     aux =a[j];
-			     a[j]=a[j+1];
-		   	     a[j+1]=aux;
+		System.out.println(Arrays.toString(arr));
+		for (int i=0;i<arr.length;i++) {
+		    for (int j=0;j<arr.length-1;j++) {
+		       if (arr[j]>arr[j+1]) {
+			     aux =arr[j];
+			     arr[j]=arr[j+1];
+		   	     arr[j+1]=aux;
 			 }
 
 		    }
@@ -31,7 +34,12 @@ public class Burblesort{
             e.printStackTrace();
         }
 
-        // Registrar el tiempo de fin en nanosegundos
+       
+    }//fin for(int j=0; j<maxSize; j++)
+		
+		System.out.println("Array ordenado");
+		System.out.println(Arrays.toString(arr));
+         // Registrar el tiempo de fin en nanosegundos
         long tiempoFin = System.nanoTime();
 
         // --- FIN del algoritmo ---
@@ -47,10 +55,6 @@ public class Burblesort{
         
         System.out.println("Tiempo de ejecución en nanosegundos: " + tiempoTranscurridoNano + " ns");
         System.out.println("Tiempo de ejecución en milisegundos: " + tiempoTranscurridoMillis + " ms");
-    }//fin for(int j=0; j<maxSize; j++)
-		
-		System.out.println("Array ordenado");
-		System.out.println(Arrays.toString(a));
     }
 		
 }

@@ -1,35 +1,42 @@
+import java.util.Random;
+
 public class Selectionsort {
     public static void main(String[] args) {
         /* Algoritmo de Ordenamiento por metodo Seleccion
     *  Author Nordevelop
     */
-    int cont= 6; 
+    int cont= 10000; 
     long aux;
-    int a[]= {51,21,39,80,36,6}; //generacion del Array
+    //int a[]= {51,21,39,80,36,6}; //generacion del Array
     int temp;
-    int entrada, salida, minimo;	  
+    int entrada, salida, minimo;
+    Random random = new Random();
+		int[] arr = new int[10000];
+        for(int i=0; i< arr.length;i++){
+            arr[i] = random.nextInt(10000);
+        }	  
     System.out.println("Array Desordenado ");
     for(int i=0;i< cont;i++) {
-	    System.out.print(a[i]);
+	    System.out.print(arr[i]);
 	    System.out.print(" ");
     } //end for (i)
     for(salida=0; salida<cont-1; salida++){ 
         minimo = salida; // minimo
         for(entrada=salida+1; entrada<cont; entrada++) { 
-	    if(a[entrada] < a[minimo] )   // if minimo es mayor al nElemento de a[],
+	    if(arr[entrada] < arr[minimo] )   // if minimo es mayor al nElemento de a[],
                  minimo = entrada;
 	} //end for entrada
       /* Intercambiar el elemento con valor mínimo --> 
       * por la primera posición del array que todavia no está ordenado. 
       */
-       temp = a[minimo]; 
-       a[minimo] = a[salida]; 
-       a[salida] = temp; 		 
+       temp = arr[minimo]; 
+       arr[minimo] = arr[salida]; 
+       arr[salida] = temp; 		 
        } // end for salida
        System.out.println(" ");
        System.out.println("Array Ordenado Con el metodo de Selección ");
        for (int j=0;j<cont;j++) {
-            System.out.print(a[j] +" ");
+            System.out.print(arr[j] +" ");
             System.out.print(" ");
             
        } //end for (j)

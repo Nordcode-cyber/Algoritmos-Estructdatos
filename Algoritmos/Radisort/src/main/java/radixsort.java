@@ -1,11 +1,9 @@
-package main.java;
-
 import java.util.Arrays;
+import java.util.Random;
 
 public class radixsort {
     // A utility function to get maximum value in arr[]
-    static int getMax(int arr[], int n)
-    {
+    static int getMax(int arr[], int n){
         int mx = arr[0];
         for (int i = 1; i < n; i++)
             if (arr[i] > mx)
@@ -15,8 +13,7 @@ public class radixsort {
 
     // A function to do counting sort of arr[] according to
     // the digit represented by exp.
-    static void countSort(int arr[], int n, int exp)
-    {
+    static void countSort(int arr[], int n, int exp){
         int output[] = new int[n]; // output array
         int i;
         int count[] = new int[10];
@@ -46,8 +43,7 @@ public class radixsort {
 
     // The main function to that sorts arr[] of
     // size n using Radix Sort
-    static void radixsort(int arr[], int n)
-    {
+    static void radixsort(int arr[], int n){
         // Find the maximum number to know number of digits
         int m = getMax(arr, n);
 
@@ -66,9 +62,13 @@ public class radixsort {
     }
 
     // Main driver method
-    public static void main(String[] args)
-    {
-        int arr[] = { 170, 45, 75, 90, 802, 24, 2, 66 };
+    public static void main(String[] args){
+        Random random = new Random();
+		int[] arr = new int[10000];
+        for(int i=0; i< arr.length;i++){
+            arr[i] = random.nextInt(10000);
+        }
+        //int arr[] = { 170, 45, 75, 90, 802, 24, 2, 66 };
         int n = arr.length;
 
         // Function Call

@@ -7,7 +7,7 @@ public class QuicksortApp {
 		 *  Con Recursividad para la particion.
 		 * Author Nordevelop
 		 */
-		int maxSize = 1000; // array size
+		int maxSize = 10000; // array size
 		Qarray arr;
 		arr = new Qarray(maxSize); // create array
 		for(int j=0; j<maxSize; j++) { 

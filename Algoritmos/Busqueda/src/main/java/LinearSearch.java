@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Random;
 
 public class LinearSearch {
     public static void main(String[] args) {
@@ -11,6 +12,15 @@ public class LinearSearch {
 		 * elemento objetivo             *
 		 * ******** **********************/
 		 int[] arr = {32,13,2,7, 22,12, 15, 11, 46, 19, 45};
+		/*  Random random = new Random();
+		 * int[] arr = new int[10];
+         * for(int i=0; i< arr.length;i++){
+         *  arr[i] = random.nextInt(10);
+         *}
+		 *
+		 *
+		 */
+		
 	        int objetivo = 15;
 	        System.out.println("El Array completo"+Arrays.toString(arr));
 	        System.out.print("Elemento del Array a buscar:  "+objetivo+" "+" :"+"fue encontrado en la posicion: ");

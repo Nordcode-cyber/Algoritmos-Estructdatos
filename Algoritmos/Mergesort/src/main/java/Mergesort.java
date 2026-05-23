@@ -4,9 +4,8 @@ public class Mergesort {
 		* Algoritmo de ordenamiento Mergesort
 		* Con Recursividad
 		*/
-		int maxSize = 10; 
-		Darray arr; 
-		
+		int maxSize = 10000; 
+		Darray arr; 		
 		arr = new Darray(maxSize); // creacion del vector
 		for(int j=0; j<maxSize; j++) { 
 			long n = (int)(java.lang.Math.random()*99);//generar pseudoaleatoriamente numeros enteros

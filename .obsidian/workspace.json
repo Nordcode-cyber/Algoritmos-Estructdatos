@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Estructura-de-datos/Arboles/preorden.drawio.svg"
+                "file": "Estructura-de-datos/tabla-hash/Colision.drawio.svg"
               },
               "icon": "lucide-image",
-              "title": "preorden.drawio"
+              "title": "Colision.drawio"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Arboles/preorden.drawio.svg",
+                "file": "Estructura-de-datos/tabla-hash/Colision.drawio.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de preorden.drawio"
+              "title": "Esquema de Colision.drawio"
             }
           }
         ],
@@ -181,8 +181,19 @@
   },
   "active": "3e13056d24933a32",
   "lastOpenFiles": [
+    "Estructura-de-datos/tabla-hash/Colisiones.MD",
+    "Estructura-de-datos/tabla-hash/hash-function.MD",
+    "Estructura-de-datos/tabla-hash/hashfunction.drawio.svg",
+    "Algoritmos/Mergesort/Mergesort.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
+    "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
+    "Estructura-de-datos/Grafos/ejemplo-grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
+    "Estructura-de-datos/Arboles/preorden.drawio.svg",
+    "desktop.ini",
     "Estructura-de-datos/Arboles/postorden.drawio.svg",
-    "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg",
     "Algoritmos/test/vscode.MD",
     "Algoritmos/test/eclipse.MD",
     "Estructura-de-datos/Arboles/Recorrido-preorden.MD",
@@ -192,24 +203,14 @@
     "Algoritmos/Busqueda/BinarySearch.MD",
     "Api-colecciones/Collection.MD",
     "Api-colecciones/Queue/Queue.MD",
-    "Api-colecciones/Collection.drawio.svg",
     "Api-colecciones/Map/Map.MD",
     "Api-colecciones/List/Lista.MD",
     "Recursividad/Recursividad.MD",
     "Recursividad/divide_y_venceras.md",
     "Estructura-de-datos/Lista-Enlazada/Clasificacion.MD",
-    "Estructura-de-datos/Lista-Enlazada/Sorted_list.jpg",
     "Estructura-de-datos/Lista-Enlazada/Lista-enlazada.MD",
-    "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_simple.drawio.svg",
-    "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_ordenada.drawio.svg",
-    "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_doble.drawio.svg",
-    "Estructura-de-datos/Arboles/enorden.drawio.svg",
     "Estructura-de-datos/Arboles/Recorrido.MD",
     "Estructura-de-datos/Grafos/Recorrido.MD",
-    "Estructura-de-datos/Grafos/Subgrafo-inducido.drawio.svg",
-    "Estructura-de-datos/Grafos/Subgrafo-nodir.drawio.svg",
-    "Estructura-de-datos/tabla-hash/Colisiones.MD",
-    "Estructura-de-datos/tabla-hash/Colision.drawio.svg",
     "Readme.md",
     "Estructura-de-datos/Arboles/Arbol-general.MD",
     "Estructura-de-datos/Arboles/TAD.MD",
