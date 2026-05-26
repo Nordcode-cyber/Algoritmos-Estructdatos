@@ -1,8 +1,8 @@
-###                    Recorrido de un Arbol Binario
+###                    Recorrido de un Árbol Binario
 
 Para visualizar o consultar los datos almacenados en un árbol se necesita recorrer el árbol o visitar los nodos del mismo. 
 Al contrario que las listas enlazadas, los árboles binarios no tienen realmente un primer valor, un segundo valor, un tercer valor, etc. 
-Se puede afirmar que el nodo raíz viene el primero, pero, ¿quién viene a continuación? Existen diferentes métodos de recorrido,
+Se puede afirmar que el nodo raíz viene el primero, pero, quién viene a continuación? Existen diferentes métodos de recorrido,
 de árbol ya que la mayoría de las aplicaciones con árboles son bastante sensibles al orden en el que se visitan los nodos,
 de forma que será preciso elegir cuidadosamente el tipo de recorrido. 
 

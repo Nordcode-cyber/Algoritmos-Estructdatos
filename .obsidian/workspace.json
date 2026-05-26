@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Estructura-de-datos/tabla-hash/Colision.drawio.svg"
+                "file": "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg"
               },
               "icon": "lucide-image",
-              "title": "Colision.drawio"
+              "title": "Grafo-dir.drawio"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/tabla-hash/Colision.drawio.svg",
+                "file": "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Colision.drawio"
+              "title": "Esquema de Grafo-dir.drawio"
             }
           }
         ],
@@ -181,23 +181,32 @@
   },
   "active": "3e13056d24933a32",
   "lastOpenFiles": [
-    "Estructura-de-datos/tabla-hash/Colisiones.MD",
-    "Estructura-de-datos/tabla-hash/hash-function.MD",
-    "Estructura-de-datos/tabla-hash/hashfunction.drawio.svg",
-    "Algoritmos/Mergesort/Mergesort.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
     "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
+    "Estructura-de-datos/Grafos/Floyd.MD",
     "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
     "Estructura-de-datos/Grafos/ejemplo-grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Dijkstra.MD",
     "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
+    "Estructura-de-datos/Grafos/Ciclo.MD",
+    "Algoritmos/Heapsort/Heapsort.MD",
+    "Algoritmos/Heapsort/Heapsort.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Arboles/Recorrido-postorden.MD",
+    "Estructura-de-datos/Arboles/Recorrido-en-orden.MD",
+    "Estructura-de-datos/Arboles/Recorrido.MD",
     "Estructura-de-datos/Arboles/preorden.drawio.svg",
-    "desktop.ini",
     "Estructura-de-datos/Arboles/postorden.drawio.svg",
+    "Estructura-de-datos/Arboles/enorden.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-general.MD",
+    "Estructura-de-datos/Pilas/Stack.MD",
+    "Estructura-de-datos/Pilas/Pila-implemen-array/pila-implem-array.MD",
+    "Estructura-de-datos/tabla-hash/Colisiones.MD",
+    "Estructura-de-datos/tabla-hash/hash-function.MD",
+    "desktop.ini",
     "Algoritmos/test/vscode.MD",
     "Algoritmos/test/eclipse.MD",
     "Estructura-de-datos/Arboles/Recorrido-preorden.MD",
-    "Estructura-de-datos/Arboles/Recorrido-postorden.MD",
     "Estructura-de-datos/Arboles/Arbol-binario.MD",
     "Algoritmos/Busqueda/LinearSearch.MD",
     "Algoritmos/Busqueda/BinarySearch.MD",
@@ -208,18 +217,8 @@
     "Recursividad/Recursividad.MD",
     "Recursividad/divide_y_venceras.md",
     "Estructura-de-datos/Lista-Enlazada/Clasificacion.MD",
-    "Estructura-de-datos/Lista-Enlazada/Lista-enlazada.MD",
-    "Estructura-de-datos/Arboles/Recorrido.MD",
-    "Estructura-de-datos/Grafos/Recorrido.MD",
-    "Readme.md",
-    "Estructura-de-datos/Arboles/Arbol-general.MD",
-    "Estructura-de-datos/Arboles/TAD.MD",
-    "Estructura-de-datos/Arboles/Recorrido-en-orden.MD",
-    "Estructura-de-datos/Arboles/Terminologia.MD",
     "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio",
-    "Algoritmos/Mergesort/Mergesort.MD",
     "Sin título.canvas",
-    "Estructura-de-datos/Colas/Queue.MD",
     "Sin título 2.canvas",
     "Sin título 3.canvas",
     "Sin título 1.canvas",
