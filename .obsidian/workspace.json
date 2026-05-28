@@ -11,12 +11,14 @@
             "id": "3e13056d24933a32",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg"
+                "file": "Estructura-de-datos/Arboles/Arbol-binario.MD",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Grafo-dir.drawio"
+              "icon": "lucide-file",
+              "title": "Arbol-binario"
             }
           }
         ]
@@ -152,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
+                "file": "Estructura-de-datos/Arboles/Arbol-binario.MD",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Grafo-dir.drawio"
+              "title": "Esquema de Arbol-binario"
             }
           }
         ],
@@ -181,6 +183,24 @@
   },
   "active": "3e13056d24933a32",
   "lastOpenFiles": [
+    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-binario.MD",
+    "Algoritmos/Mergesort/Mergesort.MD",
+    "Algoritmos/Mergesort/Mergesort.drawio.svg",
+    "Algoritmos/Quicksort/Quicksort.drawio.svg",
+    "Algoritmos/Quicksort/Quicksort.MD",
+    "Algoritmos/test/eclipse.MD",
+    "Algoritmos/test/vscode.MD",
+    "Recursividad/divide_y_venceras.md",
+    "Recursividad/Recursividad.MD",
+    "Estructura-de-datos/Grafos/Subgrafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Subgrafo-inducido.drawio.svg",
+    "Estructura-de-datos/Grafos/Subgrafo.MD",
+    "Estructura-de-datos/Grafos/Recorrido.MD",
+    "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
+    "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
+    "Estructura-de-datos/Grafos/Grafos.MD",
+    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
     "Estructura-de-datos/Grafos/Floyd.MD",
     "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
@@ -188,35 +208,18 @@
     "Estructura-de-datos/Grafos/Dijkstra.MD",
     "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
     "Estructura-de-datos/Grafos/Ciclo.MD",
-    "Algoritmos/Heapsort/Heapsort.MD",
-    "Algoritmos/Heapsort/Heapsort.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
-    "Estructura-de-datos/Arboles/Recorrido-postorden.MD",
-    "Estructura-de-datos/Arboles/Recorrido-en-orden.MD",
-    "Estructura-de-datos/Arboles/Recorrido.MD",
-    "Estructura-de-datos/Arboles/preorden.drawio.svg",
-    "Estructura-de-datos/Arboles/postorden.drawio.svg",
-    "Estructura-de-datos/Arboles/enorden.drawio.svg",
-    "Estructura-de-datos/Arboles/Arbol-general.MD",
-    "Estructura-de-datos/Pilas/Stack.MD",
-    "Estructura-de-datos/Pilas/Pila-implemen-array/pila-implem-array.MD",
-    "Estructura-de-datos/tabla-hash/Colisiones.MD",
-    "Estructura-de-datos/tabla-hash/hash-function.MD",
-    "desktop.ini",
-    "Algoritmos/test/vscode.MD",
-    "Algoritmos/test/eclipse.MD",
-    "Estructura-de-datos/Arboles/Recorrido-preorden.MD",
-    "Estructura-de-datos/Arboles/Arbol-binario.MD",
-    "Algoritmos/Busqueda/LinearSearch.MD",
-    "Algoritmos/Busqueda/BinarySearch.MD",
-    "Api-colecciones/Collection.MD",
-    "Api-colecciones/Queue/Queue.MD",
-    "Api-colecciones/Map/Map.MD",
-    "Api-colecciones/List/Lista.MD",
-    "Recursividad/Recursividad.MD",
-    "Recursividad/divide_y_venceras.md",
+    "Estructura-de-datos/Grafos/ADT-Grafo.MD",
+    "Estructura-de-datos/tabla-hash/hashtable.drawio.svg",
+    "Estructura-de-datos/Lista-Enlazada/Lista-enlazada.MD",
     "Estructura-de-datos/Lista-Enlazada/Clasificacion.MD",
+    "Estructura-de-datos/Colas/Queue.MD",
+    "Estructura-de-datos/Colas/Cola-prioridad.MD",
+    "Estructura-de-datos/Colas/Cola-prioridad/Implementacion/Tarea.MD",
+    "Estructura-de-datos/Colas/Cola-prioridad/Implementacion/Paciente.MD",
+    "Estructura-de-datos/Colas/Cola-prioridad/Implementacion/AppPrioridad.MD",
+    "Estructura-de-datos/Colas/Cola-implem-array/Comparable.MD",
+    "Estructura-de-datos/Pilas/Stack.MD",
+    "desktop.ini",
     "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio",
     "Sin título.canvas",
     "Sin título 2.canvas",

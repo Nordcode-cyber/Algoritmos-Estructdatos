@@ -10,7 +10,7 @@ difíciles de resolver. Por esta causa, la recursión es una herramienta poderos
 en la resolución de problemas y en la programación. Diversas técnicas algorítmicas utilizan la
 recursión, como los algoritmos divide y vence y los algoritmos de vuelta atrás.
 
-###                               Metodos Recursivos
+###                               Métodos Recursivos
 
 Un método recursivo es un método que se invoca a sí mismo de forma directa o indirecta. En
 recursión directa, el código del método f() contiene una sentencia que invoca a f(), mientras
