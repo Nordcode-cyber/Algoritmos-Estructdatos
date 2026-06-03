@@ -12,14 +12,13 @@ se suprime o elimina por el frente (parte inicial, frente) de la lista. Las apli
  una cola para almacenar elementos en su orden de aparición o concurrencia.
 
 ###                                        OPERACIONES
-CrearCola |   Inicia la cola como vacía.
-Insertar  | Añade un elemento por el final de la cola.
-Quitar    |(extrae) el elemento frente de la cola.
-Cola vacía| Comprueba si la cola no tiene elementos.
-Cola llena| Comprueba si la cola está llena de elementos.
-Frente    |Obtiene el elemento frente o primero de la cola.
-Tamaño    | Número de elementos máximo que puede contener la cola
 
-|     |     |
-| --- | --- |
-|     |     |
+
+| CrearCola | Inicia la cola como vacía.                             |
+| --------- | ------------------------------------------------------ |
+| Insertar  | Añade un elemento por el final de la cola.             |
+| Quitar    | (extrae) el elemento frente de la cola                 |
+| ColaVacia | Comprueba si la cola no tiene elementos.               |
+| ColaLlena | Comprueba si la cola está llena de elementos.          |
+| Frente    | Obtiene el elemento frente o primero de la cola.       |
+| Tamaño    | Número de elementos máximo que puede contener la cola. |

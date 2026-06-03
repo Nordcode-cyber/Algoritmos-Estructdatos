@@ -23,7 +23,7 @@ La distancia de un nodo a la raíz determina la eficiencia con la que puede ser 
 a sus hijos se puede acceder siguiendo sólo un camino de bifurcación o de ramas, el que conduce al nodo deseado. 
 De modo similar, a los nodos en el nivel 2 de un árbol sólo puede accederse siguiendo dos ramas del árbol.
 La característica anterior nos conduce a una característica muy importante de un árbol binario, su balance o equilibrio. 
-Para determinar si un árbol está equilibrado, se calcula su factor de equilibrio. 
+Para determinar si un árbol está equilibrado, se calcula su factor de equilibrio. h
 El factor de equilibrio de un árbol binario es la diferencia en altura entre los
 subárboles derecho e izquierdo. Si la altura del subárbol izquierdo es hI y la altura del subárbol
 derecho hD, entonces el factor de equilibrio del árbol B se determina por la siguiente fórmula:
