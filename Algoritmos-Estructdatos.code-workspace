@@ -18,8 +18,6 @@
 			"Estructura-de-datos/Lista-Enlazada/Sorted-list/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Simple/Simple01/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Doble/Doble-lista02/src/main/java",
-			"Estructura-de-datos/Lista-Enlazada/Doble/Doble-lista01/src/main/java",
-			"Estructura-de-datos/Lista-Enlazada/Doble-lista03/src/main/java",
 			"Estructura-de-datos/Colas/Cola-implem-array/src/main/java",
 			"Estructura-de-datos/Arrays/operaciones/src/main/java",
 			"Estructura-de-datos/Arrays/operaciones",
@@ -29,11 +27,11 @@
 			"Api-colecciones/Queue/src/main/java",
 			"Api-colecciones/Map/src/main/java",
 			"Api-colecciones/List/src/main/java",
-			"Api-colecciones/Colas/src/main/java",
 			"Algoritmos/insercionsort/src/main/java",
 			"Algoritmos/Shellsort/src/main/java",
 			"Algoritmos/Seleccion/src/main/java",
 			"Algoritmos/Rotar/src",
+			"Algoritmos/Radisort/src/main/java",
 			"Algoritmos/Quicksort/src/main/java",
 			"Algoritmos/Mergesortrandom/src/main/java",
 			"Algoritmos/Mergesort/src/main/java",
@@ -46,7 +44,7 @@
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
 			"Algoritmos/Atrapar/src/main/java",
-			"Algoritmos/Radisort/src/main/java"
+			"Estructura-de-datos/Arboles/src/main/java"
 		]
 	}
 }
