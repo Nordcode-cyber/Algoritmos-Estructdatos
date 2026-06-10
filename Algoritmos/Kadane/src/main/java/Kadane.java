@@ -2,18 +2,16 @@
 import java.util.Arrays;
 public class Kadane {
       /**
-     * Algoritmo para encontrar la subindice contigua con la mayor suma
-     * /* en un conjunto dado de enteros
+     * Algoritmo para encontrar  la mayor suma de los subindices
+     *  en un conjunto dado de enteros
      * Author Nordevelop
-     * 
-     * @param args
      * 
      */
     public static int kadane(int[] A) {
         // almacena la suma del subindice máxima encontrado hasta el momento
-       int max_so_far = 0;
+       int max_so_far = 0;//max actual
        // almacena la suma máxima del subarray que termina en la posición actual
-       int max_ending_here = 0;
+       int max_ending_here = 0;//max global
        for (int value : A) { // recorre el array con un for each
            // actualiza la suma máxima de la submatriz "que termina" en el índice i[]
            // (añadiendo el
@@ -61,7 +59,10 @@ public class Kadane {
    }// fin runCircularKadane
 
    public static void main(String[] args) {
-       int[] A = { 2, 1, -5, 4, -3, 1, -3, 4, -2, -1, 6 }; // vector
+       int[] A = { 3,-5,5,2,-3,4,-2,6}; // vector
+       /* 3+5+2-3+4-2+6=15
+        * Suma maxima de los elementos del Vector A
+        */
 
        System.out.println("La suma de los elementos con la mayor suma es:  " + runCircularKadane(A));
 

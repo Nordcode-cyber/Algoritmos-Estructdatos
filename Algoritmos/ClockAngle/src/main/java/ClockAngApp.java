@@ -24,8 +24,8 @@ public class ClockAngApp {
     // Clock Angle Problem
     public static void main(String[] args)
     {
-        int hh = 3;
-        int mm = 21;
+        int hh = 4;
+        int mm = 15;
  
         System.out.println(findAngle(hh, mm));
     }
