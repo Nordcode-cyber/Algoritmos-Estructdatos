@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Enorden",
+            "request": "launch",
+            "mainClass": "Enorden",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Deque",
+            "request": "launch",
+            "mainClass": "Deque",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "GfG",
+            "request": "launch",
+            "mainClass": "Reuniones.src.main.java.GfG",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "R",
+            "request": "launch",
+            "mainClass": "Reuniones.src.main.java.R",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Reunion",
+            "request": "launch",
+            "mainClass": "Reuniones.src.main.java.Reunion",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Tree",
             "request": "launch",
             "mainClass": "Tree",
