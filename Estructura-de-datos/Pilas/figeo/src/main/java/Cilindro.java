@@ -1,6 +1,5 @@
 import java.util.Stack;
 import java.lang.Math; //importa la libreria de matematicas
-import java.util.Scanner; //importa la libreria de Scanner
 public class Cilindro {
     /*
 	 * Author Nordevelop

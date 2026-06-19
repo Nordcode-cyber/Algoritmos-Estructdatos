@@ -4,8 +4,8 @@ public class ReverceApp {
     /*
      *Author Nordevelop
      */
-    public static Nodo push(Nodo head, int key) {
-        Nodo nodo = new Nodo();
+    public static Nodo03 push(Nodo03 head, int key) {
+        Nodo03 nodo = new Nodo03();
         nodo.data = key;
         nodo.anterior = null;
         nodo.siguiente = head;
@@ -21,7 +21,7 @@ public class ReverceApp {
     }
 
     // Metodo para imprimir los nodos de una lista doblemente enlazada
-    public static void printDDL(String msg, Nodo head) {
+    public static void printDDL(String msg, Nodo03 head) {
         System.out.print(msg);
         while (head != null) {
             System.out.print(head.data + " —> ");
@@ -32,16 +32,16 @@ public class ReverceApp {
     }
 
     // Metodo de intercambio de  los punteros anterior(prev) siguiente(next)
-    public static void swap(Nodo node) {
-        Nodo prev = node.anterior;
+    public static void swap(Nodo03 node) {
+        Nodo03 prev = node.anterior;
         node.anterior = node.siguiente;
         node.siguiente = prev;
     }
 
     // Metodo para invertir la Doble lista enlazada
-    public static Nodo reverseDDL(Nodo head) {
-        Nodo anterior = null;
-        Nodo actual = head;
+    public static Nodo03 reverseDDL(Nodo03 head) {
+        Nodo03 anterior = null;
+        Nodo03 actual = head;
 
         // atravesar la lista
         while (actual != null) {
@@ -62,7 +62,7 @@ public class ReverceApp {
 	public static void main(String[] args) {
 		int[] claves = { 1, 2, 3, 4, 5,6,7,8,9};
 
-        Nodo head = null;
+        Nodo03 head = null;
         for (int clave : claves) {//For each
             head = push(head, clave);
         }

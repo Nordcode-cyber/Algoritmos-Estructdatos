@@ -2,6 +2,7 @@ public class SortedApp {
     public static void main(String[] args) {
         SortedLista listaordenada = new SortedLista();
 		listaordenada.agregar(8);// agregar  elementos a la lista
+		listaordenada.agregar(98);
 		listaordenada.agregar(80);
 		listaordenada.agregar(60);
 		listaordenada.agregar(20); 

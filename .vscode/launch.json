@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Appenorden",
+            "request": "launch",
+            "mainClass": "Appenorden",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Appenorden",
+            "request": "launch",
+            "mainClass": "src.main.java.Appenorden",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "src.main.java.Main",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Enoorden",
+            "request": "launch",
+            "mainClass": "Enoorden",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "nodo06",
+            "request": "launch",
+            "mainClass": "nodo06",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "EnOrden",
+            "request": "launch",
+            "mainClass": "EnOrden",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Nodo06",
+            "request": "launch",
+            "mainClass": "Nodo06",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "MainApp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Lista1",
+            "request": "launch",
+            "mainClass": "Lista1",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Nodo05",
+            "request": "launch",
+            "mainClass": "Nodo05",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "AppListar",
+            "request": "launch",
+            "mainClass": "AppListar",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Enorden",
             "request": "launch",
             "mainClass": "Enorden",

@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import main.java.*;
 
 public class Listar {
     Scanner entra=new Scanner(System.in);
