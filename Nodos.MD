@@ -9,8 +9,11 @@ Lista Enlazada
     Nodo03.java
   Doblelista03
     Nodo04.java
-  Doblelista03
+  Doblelista04
     Nodo05.java
+  Doblelista05
+    Nodo07.java
 Arbol
   EnOrden
     Nodo06.java
+

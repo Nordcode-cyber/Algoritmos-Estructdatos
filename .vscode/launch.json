@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Appmain",
+            "request": "launch",
+            "mainClass": "Appmain",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Nodo07",
+            "request": "launch",
+            "mainClass": "Nodo07",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Queue1",
+            "request": "launch",
+            "mainClass": "Queue1",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Appenorden",
             "request": "launch",
             "mainClass": "Appenorden",

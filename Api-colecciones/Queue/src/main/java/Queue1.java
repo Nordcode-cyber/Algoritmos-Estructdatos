@@ -1,5 +1,6 @@
 import java.util.LinkedList;
-public class Queue {
+import java.util.Queue;
+public class Queue1 {
       public static void main(String[] args) {
          // Create a queue using LinkedList
          //sin errores en Eclipse Ide

@@ -29,6 +29,7 @@
 			"Estructura-de-datos/Arrays/Ubicacion/src/main/java",
 			"Estructura-de-datos/Arboles/Preorden/src/main/java",
 			"Estructura-de-datos/Arboles/Implementacion",
+			"Estructura-de-datos/Arboles/Enorden/src/main/java",
 			"Api-colecciones/Set/src/main/java",
 			"Api-colecciones/Queue/src/main/java",
 			"Api-colecciones/Map/src/main/java",
@@ -50,7 +51,7 @@
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
 			"Algoritmos/Atrapar/src/main/java",
-			"Estructura-de-datos/Arboles/Enorden/src/main/java"
+			"Estructura-de-datos/Lista-Enlazada/Doble/Doblelista05/src/main/java"
 		]
 	}
 }
