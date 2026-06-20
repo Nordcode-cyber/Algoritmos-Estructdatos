@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stackrecursive",
+            "request": "launch",
+            "mainClass": "Stackrecursive",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Longitud",
+            "request": "launch",
+            "mainClass": "Longitud",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "diagonal",
+            "request": "launch",
+            "mainClass": "diagonal",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "ApiListApp",
+            "request": "launch",
+            "mainClass": "ApiListApp",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Appmain",
             "request": "launch",
             "mainClass": "Appmain",

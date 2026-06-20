@@ -1,4 +1,4 @@
-import main.java.Nodo;
+//import main.java.Nodo;
 
 public class Nodo07 {
     /*propiedades de la clase

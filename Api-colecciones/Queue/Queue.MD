@@ -22,8 +22,8 @@ Los elementos se insertan según su orden natural. Alternativamente, puede contr
 ##### *Sincronización*: 
 Una cola no está sincronizada de forma predeterminada. Sin embargo, puede utilizar una implementación ConcurrentLinkedQueue o 
 BlockingQueue para lograr la seguridad de los subprocesos.
-##### *Metodos claves*: 
-Aqui estan algunos metodos para la interface Queue: `add(E element)`, `offer(E element)`, `poll()`, and `peek()`. 
+##### *Métodos claves*: 
+Aquí están algunos métodos para la interface Queue: `add(E element)`, `offer(E element)`, `poll()`, and `peek()`. 
 ##### *Rendimiento*: 
 Las implementaciones como LinkedList y ArrayDeque suelen ser rápidas para añadir y eliminar elementos. 
 PriorityQueue es un poco más lenta porque inserta los elementos según el orden de prioridad establecido.

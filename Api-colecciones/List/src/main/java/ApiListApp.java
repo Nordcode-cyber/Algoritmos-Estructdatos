@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Lista {
+public class ApiListApp {
     public static void main(String[] args) {
         System.out.println("hola");
          List<String> list = new ArrayList<>();
@@ -10,6 +10,7 @@ public class Lista {
          list.add("Apple");
          list.add("Banana");
          list.add("Cherry");
+         list.add("Berry");
          System.out.println(list);
 
          // get(int index)

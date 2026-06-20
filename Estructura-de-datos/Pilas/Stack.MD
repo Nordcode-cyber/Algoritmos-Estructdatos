@@ -7,12 +7,14 @@ Es una colección ordenada de elementos a los cuales sólo se puede acceder por 
  No se requiere que las entradas se puedan comparar utilizando el operador “menor que” (<) y pueden ser de
 cualquier tipo. Las pilas son estructuras*LIFO* (last in, first out)
 ###                            Operaciones con pilas(stack)
- |Crear Pila    | Stack<Float> Pila_Cilindro = null | inicia.
- |Ingresar      | Pila_Cilindro.*push()*    | Pone un dato en la pila.
- |Quitar dato   | Pila_cilindro.*pop()*     | saca un dato de la pila.
- |Pila vacía    | Pila_Cilindro.*isEmpty()* | Comprueba si la pila no tiene elementos.
- |Pila Tamaño  | Pila_Cilindro.*size()*   | devuelve cuantos elementos tiene la pila.
-Pila llena Comprueba si la pila está llena de elementos.
-Limpiar pila Quita todos sus elementos y deja la pila vacía.
-Cima Pila Obtiene el elemento cima de la pila.
-Tamaño de la pila Número de elementos máximo que puede contener la pila.
+
+
+| Crear Pila | Stack<Float> Pila_Cilindro=null | declaración de la pila                   |
+| ---------- | ------------------------------- | ---------------------------------------- |
+| Ingresar   | Pila_Cilindro.push()            | agregar elementos a la pila              |
+| Quitar     | Pila_Cilindro.pop()             | sacar elementos de la pila               |
+| comprobar  | Pila_Cilindro.isEmpty()         | Comprueba si la pila no tiene elementos  |
+| tamaño     | Pila_Cilindro.size()            | devuelve cuantos elementos tiene la pila |
+
+
+ 

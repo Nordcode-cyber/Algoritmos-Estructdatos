@@ -16,7 +16,9 @@
 			"Estructura-de-datos/Pilas/Pila-implemen-array/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/reversa/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Sorted-list/src/main/java",
+			"Estructura-de-datos/Lista-Enlazada/Simple/longitud/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Simple/Simple01/src/main/java",
+			"Estructura-de-datos/Lista-Enlazada/Doble/Doblelista05/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Doble/Doblelista04/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Doble/Doblelista03/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Doble/Doblelista02/src/main/java",
@@ -51,7 +53,7 @@
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
 			"Algoritmos/Atrapar/src/main/java",
-			"Estructura-de-datos/Lista-Enlazada/Doble/Doblelista05/src/main/java"
+			"Estructura-de-datos/Pilas/Pila-Recursiva/src/main/java"
 		]
 	}
 }

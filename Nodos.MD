@@ -1,6 +1,8 @@
 Lista Enlazada
   Simple
-    Node.java
+     Node.java
+  simple=>longitud
+     Nodo08
   Doblelista02
     Nodo01
   Sorted-list
@@ -13,7 +15,7 @@ Lista Enlazada
     Nodo05.java
   Doblelista05
     Nodo07.java
-Arbol
+Árbol
   EnOrden
     Nodo06.java
 

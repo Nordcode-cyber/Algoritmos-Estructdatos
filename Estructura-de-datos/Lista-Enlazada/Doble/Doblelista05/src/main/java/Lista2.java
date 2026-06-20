@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-import main.java.Nodo;
+//import main.java.Nodo;
 
 public class Lista2{
     Scanner entra=new Scanner(System.in);
