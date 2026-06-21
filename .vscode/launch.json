@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Apppreorden",
+            "request": "launch",
+            "mainClass": "Apppreorden",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Nodo09",
+            "request": "launch",
+            "mainClass": "Nodo09",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Stackrecursive",
             "request": "launch",
             "mainClass": "Stackrecursive",
