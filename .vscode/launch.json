@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Appreco",
+            "request": "launch",
+            "mainClass": "Appreco",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Nodo11",
+            "request": "launch",
+            "mainClass": "Nodo11",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Apppostorden",
+            "request": "launch",
+            "mainClass": "Apppostorden",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Nodo10",
+            "request": "launch",
+            "mainClass": "Nodo10",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "AppPrioridad",
+            "request": "launch",
+            "mainClass": "AppPrioridad",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Paciente",
+            "request": "launch",
+            "mainClass": "Paciente",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Apppreorden",
             "request": "launch",
             "mainClass": "Apppreorden",

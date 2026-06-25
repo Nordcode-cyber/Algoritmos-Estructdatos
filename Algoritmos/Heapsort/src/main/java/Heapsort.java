@@ -72,9 +72,9 @@ public class Heapsort {
 		 * Author Nordevelop
 		 */
         Random random = new Random();
-		int[] arr = new int[10000];
+		int[] arr = new int[1000000];
         for(int i=0; i< arr.length;i++){
-            arr[i] = random.nextInt(10000);
+            arr[i] = random.nextInt(1000000);
         }
         
 		System.out.println("Array original"+Arrays.toString(arr));

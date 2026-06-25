@@ -1,3 +1,5 @@
+Huffman
+Nodo.java
 Lista Enlazada
   Simple
      Node.java
@@ -16,8 +18,14 @@ Lista Enlazada
   Doblelista05
     Nodo07.java
 Árbol
+  Ejercicio
+    PreOrden
+       Nodo11.java
   EnOrden
     Nodo06.java
   PreOrden
     Nodo09.java
+  PostOrden
+    Nodo10.java
+  
 

@@ -1,6 +1,5 @@
-###                        Implementacion como Markdown
-###### *implementacion probado en eclipse ide. conflicto de clases en vscode, por operador new*
-`public class Tarea implements Comparable<Tarea>{
+
+public class Tarea implements Comparable<Tarea>{
     private String descripcion;
     private Paciente paciente;
 public Tarea(){
@@ -15,7 +14,6 @@ public Paciente getPaciente() {
    }
 	@Override
 	public int compareTo(Tarea tarea) {
-		// TODO Auto-generated method stub
 		 // Tarea es comparada basa en la prioridad del paciente
 	      return Integer.compare(this.paciente.getPrioridad(), tarea.getPaciente().getPrioridad());
 	}
@@ -25,4 +23,4 @@ public Paciente getPaciente() {
 	    }
 	
 
-}`
+}

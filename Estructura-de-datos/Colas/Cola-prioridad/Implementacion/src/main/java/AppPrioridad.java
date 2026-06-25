@@ -1,8 +1,6 @@
-###### *implementacion probado en eclipse ide. conflicto de clases en vscode, por operador new*
-´package prioridad;
 
-import java.util.PriorityQueue;
 //import java.util.LinkedList;
+import java.util.PriorityQueue;
 
 public class AppPrioridad {
 
@@ -20,4 +18,4 @@ public class AppPrioridad {
 		 }
 	}
 
-}´
+}

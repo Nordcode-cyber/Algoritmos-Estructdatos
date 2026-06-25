@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Pilas/Pila-implemen-array/pila-implem-array.MD",
+                "file": "Algoritmos/Kadane/src/main/java/Kadane.MD",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pila-implem-array"
+              "title": "Kadane"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Pilas/Pila-implemen-array/pila-implem-array.MD",
+                "file": "Algoritmos/Kadane/src/main/java/Kadane.MD",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de pila-implem-array"
+              "title": "Esquema de Kadane"
             }
           }
         ],
@@ -183,6 +183,12 @@
   },
   "active": "3e13056d24933a32",
   "lastOpenFiles": [
+    "Algoritmos/Kadane/src/main/java/Kadane.drawio.svg",
+    "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-general.MD",
+    "Estructura-de-datos/Arboles/Arbol-binario.MD",
+    "Estructura-de-datos/Pilas/Pila-implemen-array/pila-implem-array.MD",
     "Estructura-de-datos/Pilas/Pila-Recursiva/src/main/java/Stackrecursive.java",
     "Estructura-de-datos/Pilas/Pila-Recursiva/src/main/java",
     "Estructura-de-datos/Pilas/Pila-Recursiva/src/main",
@@ -193,9 +199,7 @@
     "Estructura-de-datos/Lista-Enlazada/Simple/longitud/src/main/java",
     "Estructura-de-datos/Lista-Enlazada/Simple/longitud/src/main",
     "Estructura-de-datos/Lista-Enlazada/Simple/longitud/src",
-    "Estructura-de-datos/Lista-Enlazada/Simple/longitud",
     "Estructura-de-datos/Pilas/Stack.MD",
-    "Estructura-de-datos/Pilas/Pila-implemen-array/pila-implem-array.MD",
     "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_doble.drawio.svg",
     "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_ordenada.drawio.svg",
     "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_simple.drawio.svg",
@@ -208,7 +212,6 @@
     "Api-colecciones/Map/Map.MD",
     "Api-colecciones/List/Lista.MD",
     "Algoritmos/Kadane/src/main/java/Kadane.MD",
-    "Algoritmos/Kadane/src/main/java/Kadane.drawio.svg",
     "Algoritmos/Heapsort/Heapsort.MD",
     "Algoritmos/Mergesort/Mergesort.drawio.svg",
     "Algoritmos/Quicksort/Quicksort.MD",
@@ -223,12 +226,9 @@
     "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
     "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
     "Estructura-de-datos/Grafos/Floyd.MD",
     "Estructura-de-datos/Colas/Queue.MD",
     "Estructura-de-datos/Colas/Cola-prioridad.MD",
-    "Estructura-de-datos/Grafos/Dijkstra.MD",
-    "Estructura-de-datos/Arboles/Recorrido-preorden.MD",
     "Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 3.canvas",
