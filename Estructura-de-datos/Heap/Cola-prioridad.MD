@@ -24,6 +24,19 @@ una utilizada para encontrar algo llamado árbol de expansión mínima para un g
 las colas de prioridad se utilizan de diversas maneras en determinados sistemas informáticos. En un sistema operativo multitarea preventivo, 
 por ejemplo, los programas pueden colocarse en una cola de prioridad para que el programa con mayor prioridad sea el
 siguiente en recibir una porción de tiempo que le permita ejecutarse.
+###                               TABLA DE PRIORIDADES
+Quizás la forma más intuitiva de implementar una cola de prioridades es con una tabla o array de listas, donde cada elemento de la tabla,
+ se organiza a la manera de una cola (primero en entrar, primero en salir) y representa a los objetos con la misma prioridad. 
+tabla en la que cada elemento se corresponde con una prioridad y de la que emerge una cola.
+La operación inserEnPrioridad añade un nuevo 
+#elemento `T` de prioridad `m` a la estructura,
+siguiendo estos pasos:
+1. Buscar la prioridad m en la tabla.
+2. Si existe, poner el elemento T al final de la cola m.
+3. Si la prioridad m está fuera del rango de prioridades, generar un error
+La operación elementoMin devuelve el elemento frente de la cola no vacía que tiene la
+máxima prioridad. La operación quitarMin también devuelve el elemento de máxima prioridad
+y, además, lo extrae de la cola
 
 
 

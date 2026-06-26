@@ -21,6 +21,5 @@ public Paciente getPaciente() {
 	    public String toString() {
 	        return "Tarea: " + descripcion + " para " + paciente;
 	    }
-	
 
 }

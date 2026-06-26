@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tarea",
+            "request": "launch",
+            "mainClass": "Tarea",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Appreco",
             "request": "launch",
             "mainClass": "Appreco",

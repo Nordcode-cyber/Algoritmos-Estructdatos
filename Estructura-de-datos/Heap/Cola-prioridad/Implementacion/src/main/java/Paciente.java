@@ -18,5 +18,5 @@ public class Paciente {
 	public String toString() {
 		return "Paciente [nombre=" + nombre + ", prioridad=" + prioridad + "]";
 	}
-  
+ 
 }

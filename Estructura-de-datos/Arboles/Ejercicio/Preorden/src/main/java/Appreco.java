@@ -25,6 +25,12 @@ public class Appreco {
         return res;
      }
     public static void main(String[] args) {
+        /* Recorrido Preorden
+         *       +
+         *      / \  
+         *     *  /
+         *    ikii
+         */
         Nodo11 raiz = new Nodo11("+");
         raiz.izq = new Nodo11("*");
         raiz.der = new Nodo11("/");
