@@ -5,7 +5,7 @@ Sin embargo, es una herramienta útil en un número sorprendente de situaciones.
  una cola de prioridad tiene una parte delantera y una trasera, y los elementos se eliminan de la parte delantera.
 Sin embargo, en una cola de prioridad, los elementos se ordenan por valor clave, de modo que el elemento con
 la clave más baja (o, en algunas implementaciones, la clave más alta) siempre se encuentra en la parte delantera.
-Los elementos se insertan en la posición adecuada para mantener el orden.Así es como la analogía de la clasificación,
+Los elementos se insertan en la posición adecuada para mantener el orden. Así es como la analogía de la clasificación,
 del correo se aplica a una cola de prioridad. Cada vez que el cartero te entrega una carta, la insertas en tu pila, 
 de cartas pendientes según su prioridad. 
 
@@ -28,15 +28,28 @@ siguiente en recibir una porción de tiempo que le permita ejecutarse.
 Quizás la forma más intuitiva de implementar una cola de prioridades es con una tabla o array de listas, donde cada elemento de la tabla,
  se organiza a la manera de una cola (primero en entrar, primero en salir) y representa a los objetos con la misma prioridad. 
 tabla en la que cada elemento se corresponde con una prioridad y de la que emerge una cola.
-La operación inserEnPrioridad añade un nuevo 
+La operación insertEnPrioridad añade un nuevo 
 #elemento `T` de prioridad `m` a la estructura,
 siguiendo estos pasos:
-1. Buscar la prioridad m en la tabla.
-2. Si existe, poner el elemento T al final de la cola m.
-3. Si la prioridad m está fuera del rango de prioridades, generar un error
-La operación elementoMin devuelve el elemento frente de la cola no vacía que tiene la
-máxima prioridad. La operación quitarMin también devuelve el elemento de máxima prioridad
-y, además, lo extrae de la cola
+1. Buscar la prioridad `m` en la tabla.
+2. Si existe, poner el elemento `T` al final de la cola `m`.
+3. Si la prioridad `m` está fuera del rango de prioridades, generar un *error*
+La operación `elementoMin` devuelve el elemento frente de la cola no vacía que tiene la
+máxima prioridad. La operación `quitarMin` también devuelve el elemento de máxima prioridad
+y, además, lo extrae de la cola.
+
+###                            Declaración del TAD Cola de Prioridad
+
+
+| Operaciones        | Descripción de la operaciones                                    |
+| ------------------ | ---------------------------------------------------------------- |
+| CrearColaPrioridad | Inicia la estructura con las prioridades sin elementos           |
+| InsertEnPrioridad  | Agrega un elemento a la cola segun prioridad                     |
+| ElementoMin        | Devuelve el elemento de la cola en la prioridad mas alta.        |
+| QuitarMin          | Devuelve y retira el elemento de la cola con prioridad mas alta. |
+| ColaVacia          | Comprueba si una determinada cola no tiene elementos.            |
+| ColaPrioridadVacia | Comprueba si todas las colas,  de la estructura están vacias.    |
+
 
 
 
