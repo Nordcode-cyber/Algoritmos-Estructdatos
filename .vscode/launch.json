@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aprioridad",
+            "request": "launch",
+            "mainClass": "Aprioridad",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Apriority",
             "request": "launch",
             "mainClass": "Apriority",

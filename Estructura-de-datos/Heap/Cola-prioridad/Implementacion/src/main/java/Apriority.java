@@ -1,7 +1,6 @@
 import java.util.PriorityQueue;
-
-public class AppPrioridad {
-
+public class Apriority {
+   
 	public static void main(String[] args) {
 		PriorityQueue<Tarea> tareaPrioridad = new PriorityQueue<>();
 		 Paciente paciente1 = new Paciente("Carlos", 1); // Critical
@@ -17,3 +16,5 @@ public class AppPrioridad {
 	}
 
 }
+    
+
