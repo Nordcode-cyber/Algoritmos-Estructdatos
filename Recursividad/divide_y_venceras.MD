@@ -16,9 +16,9 @@ medio del segmento, dibujar dicho punto y dibujar los dos segmentos mitad obteni
 el segmento original por el punto mitad. El tamaño del problema se ha reducido a la mitad, el
 hecho de dibujar un segmento se ha transformado en dibujar dos segmentos con un tamaño de
 justamente la mitad. 
-Sobre cada segmento mitad se vuelve aplicar el mismo procedimiento, de
-tal forma que llega un momento en que, a base de dividir el segmento, se alcanza uno de longitud
-cercana a cero, se ha llegado al caso base, y se dibuja un punto. Cada tarea realiza las mismas
+Sobre cada segmento mitad se vuelve aplicar el mismo procedimiento, de tal forma que llega un momento en que, 
+a base de dividir el segmento, se alcanza uno de longitud cercana a cero, se ha llegado al caso base, 
+y se dibuja un punto. Cada tarea realiza las mismas
 acciones, por lo que se puede plantear con llamadas recursivas al proceso de dibujar el segmento
 cada vez con un tamaño menor, exactamente la mitad.
 Un  `algoritmo divide y vencerás`  se define de manera recursiva, de tal modo que se llama a sí
@@ -27,5 +27,6 @@ recursivas, cada una con un tamaño menor, se alcanza el caso base, cuando el pr
 
 ###                            Norma
 
-Un algoritmo divide y vencerás consta de dos partes. La primera, divide recursivamente, el problema original, en subproblemas cada vez mas pequeños. La segunda, soluciona (vencerás) el problema dando respuesta a los subproblemas. 
+Un algoritmo divide y vencerás consta de dos partes. La primera, divide recursivamente, el problema original, 
+en subproblemas cada vez mas pequeños. La segunda, soluciona (vencerás) el problema dando respuesta a los subproblemas. 
 Desde el caso base se empieza a combinar soluciones de subproblemas hasta que queda resuelto el problema completo.

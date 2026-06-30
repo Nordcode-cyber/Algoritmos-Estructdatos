@@ -20,7 +20,8 @@ trata como una pila, el recorrido es en profundidad.*
 
 ###                            Recorrido en anchura
 Se utiliza una cola como estructura en la que se mantienen los vértices marcados que se van a
-procesar posteriormente. El proceso de los elementos en una cola (First in, First out ) hace que, a partir del vértice de partida v se procesen primero todos los vértices adyacentes a
+procesar posteriormente. El proceso de los elementos en una cola (First in, First out ) hace que, 
+a partir del vértice de partida v se procesen primero todos los vértices adyacentes a
 v, después los adyacentes de éstos que no estuvieran ya marcados o visitados, y así sucesivamente
 con los adyacentes de los adyacentes.
 El orden en que se visitan los nodos en el recorrido en anchura se expresa de manera más

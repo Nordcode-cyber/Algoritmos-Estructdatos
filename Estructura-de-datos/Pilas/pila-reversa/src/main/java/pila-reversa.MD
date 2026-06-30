@@ -1,4 +1,5 @@
-###Invertir una palabra
+###                        Invertir una palabra
+
 Para nuestro primer ejemplo de uso de una pila, examinaremos una tarea muy simple: invertir una palabra.
 Cuando ejecute el programa, le pedirá que escriba una palabra. Al pulsar Intro
 muestra la palabra con las letras en orden inverso.

@@ -11,14 +11,12 @@
             "id": "3e13056d24933a32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Estructura-de-datos/Heap/Cola-prioridad.MD",
-                "mode": "source",
-                "source": false
+                "file": "Estructura-de-datos/Colas/Queue.drawio.svg"
               },
-              "icon": "lucide-file",
-              "title": "Cola-prioridad"
+              "icon": "lucide-image",
+              "title": "Queue.drawio"
             }
           }
         ]
@@ -154,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Heap/Cola-prioridad.MD",
+                "file": "Estructura-de-datos/Colas/Queue.drawio.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Cola-prioridad"
+              "title": "Esquema de Queue.drawio"
             }
           }
         ],
@@ -181,10 +179,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3e13056d24933a32",
+  "active": "be051f113c3b1b4a",
   "lastOpenFiles": [
-    "Api-colecciones/Queue/Queue.MD",
+    "Estructura-de-datos/Colas/Cola-implem-array/Comparable.MD",
     "Estructura-de-datos/Heap/Cola-prioridad.MD",
+    "Api-colecciones/Queue/Queue.MD",
     "Estructura-de-datos/Arboles/Recorrido-preorden.MD",
     "Estructura-de-datos/Arboles/Recorrido-postorden.MD",
     "Estructura-de-datos/Arboles/Recorrido-en-orden.MD",
@@ -228,7 +227,6 @@
     "Algoritmos/Quicksort/Quicksort.MD",
     "Nodos.MD",
     "Algoritmos/Mergesort/Mergesort.MD",
-    "Algoritmos/Atrapar/src/main/java/Atrapar.MD",
     "Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 3.canvas",

@@ -6,12 +6,14 @@ public class Apriority {
 		 Paciente paciente1 = new Paciente("Carlos", 1); // Critical
 		 Paciente paciente2 = new Paciente("Jose", 2);//alto
 		 Paciente paciente3 = new Paciente("Karina",3);//media
-		 tareaPrioridad.add(new Tarea("Cirugia de Emergencia",paciente1));
-		 tareaPrioridad.add(new Tarea("Examinación de Rayos X",paciente2));
-		 tareaPrioridad.add(new Tarea("Analisis de Sangre",paciente3));
+		 Paciente paciente4 = new Paciente("Maria",4);
+		 tareaPrioridad.add(new Tarea("Fractura aplastamiento",paciente1));
+		 tareaPrioridad.add(new Tarea("Fractura leve via publica",paciente2));
+		  tareaPrioridad.add(new Tarea("Hemodialisis",paciente3));
+		 tareaPrioridad.add(new Tarea("Examinacion rayos X",paciente4));
 		 while(!tareaPrioridad.isEmpty()) {
 			 Tarea tarea = tareaPrioridad.poll();
-			 System.out.println("procesanto.." + tarea);
+			 System.out.println("procesando.." + tarea);
 		 }
 	}
 

@@ -2,11 +2,12 @@
 ####   - 🚀 Algoritmos. 
 ######           💾Atrapar
 ######           💾K'adane
-####   - 🚀 Estructura de datos.  
+####   - 🚀 Estructura de datos Lineal.  
 ######           💾Vectores.
 ######           💾Pilas.
 ######           💾Colas.   
 ######           💾Lista Enlazada.
+####   - 🚀 Estructura de datos No Lineal.  
 ######           💾Cola de Prioridad.
 ######           💾Arboles.
 ######           💾Grafos.
