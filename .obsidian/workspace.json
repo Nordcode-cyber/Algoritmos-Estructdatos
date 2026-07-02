@@ -11,12 +11,14 @@
             "id": "3e13056d24933a32",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Colas/Queue.drawio.svg"
+                "file": "Estructura-de-datos/Arboles/Arbol-general.MD",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Queue.drawio"
+              "icon": "lucide-file",
+              "title": "Arbol-general"
             }
           }
         ]
@@ -152,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Colas/Queue.drawio.svg",
+                "file": "Estructura-de-datos/Arboles/Arbol-general.MD",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Queue.drawio"
+              "title": "Esquema de Arbol-general"
             }
           }
         ],
@@ -179,8 +181,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "be051f113c3b1b4a",
+  "active": "3e13056d24933a32",
   "lastOpenFiles": [
+    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-binario.MD",
+    "Estructura-de-datos/Arboles/Arbol-general.MD",
+    "Readme.md",
+    "Nodos.MD",
+    "Estructura-de-datos/Heap/Cola-prioridad/Heap.MD",
+    "Estructura-de-datos/Heap/Cola-prioridad/Max-prioridad.MD",
+    "Estructura-de-datos/Colas/Queue.drawio.svg",
     "Estructura-de-datos/Colas/Cola-implem-array/Comparable.MD",
     "Estructura-de-datos/Heap/Cola-prioridad.MD",
     "Api-colecciones/Queue/Queue.MD",
@@ -188,7 +198,6 @@
     "Estructura-de-datos/Arboles/Recorrido-postorden.MD",
     "Estructura-de-datos/Arboles/Recorrido-en-orden.MD",
     "Estructura-de-datos/Arboles/Recorrido.MD",
-    "Estructura-de-datos/Arboles/Arbol-binario.MD",
     "Estructura-de-datos/tabla-hash/hashtable.MD",
     "Estructura-de-datos/tabla-hash/hashfunction.drawio.svg",
     "Estructura-de-datos/tabla-hash/hash-function.MD",
@@ -196,11 +205,9 @@
     "Estructura-de-datos/tabla-hash/Colisiones.MD",
     "Estructura-de-datos/tabla-hash/Colision.drawio.svg",
     "Estructura-de-datos/Arboles/enorden.drawio.svg",
-    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
     "Algoritmos/Kadane/src/main/java/Kadane.MD",
     "Algoritmos/Kadane/src/main/java/Kadane.drawio.svg",
     "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg",
-    "Estructura-de-datos/Arboles/Arbol-general.MD",
     "Estructura-de-datos/Pilas/Pila-implemen-array/pila-implem-array.MD",
     "Estructura-de-datos/Pilas/Pila-Recursiva/src/main/java/Stackrecursive.java",
     "Estructura-de-datos/Pilas/Pila-Recursiva/src/main/java",
@@ -216,17 +223,11 @@
     "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_doble.drawio.svg",
     "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_ordenada.drawio.svg",
     "Estructura-de-datos/Lista-Enlazada/Lista_enlazada_simple.drawio.svg",
-    "Estructura-de-datos/Lista-Enlazada/Sorted_list.jpg",
     "Estructura-de-datos/Lista-Enlazada/Lista-enlazada.MD",
     "Estructura-de-datos/Lista-Enlazada/Clasificacion.MD",
     "Recursividad/Collat/src/main/java/Collat-teoria.md",
     "Recursividad/divide_y_venceras.md",
     "Api-colecciones/Map/Map.MD",
-    "Api-colecciones/List/Lista.MD",
-    "Algoritmos/Heapsort/Heapsort.MD",
-    "Algoritmos/Quicksort/Quicksort.MD",
-    "Nodos.MD",
-    "Algoritmos/Mergesort/Mergesort.MD",
     "Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 3.canvas",

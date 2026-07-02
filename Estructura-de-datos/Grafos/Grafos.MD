@@ -21,7 +21,7 @@ los pares de `E` son ordenados, se llaman `Arcos`, y se representan con puntos y
 #### `Vi` *es extremo inicial de* `(Vi,Vj)`
 #### `Vj` *es extremo  final  de* `(Vi,Vj)`
 ##### `Si Vi=Vj, (Vi,Vj) se llama:`*bucle*
- *Un grafo sin `bucle` se llama simple*
+##### *Un grafo sin `bucle` se llama simple*
 
  ###                      Multigrafo
  Decimos que G es un  `multigrafo`si se permite, que entre un mismo par de vertices, se trace,

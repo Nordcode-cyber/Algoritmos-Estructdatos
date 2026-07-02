@@ -1,4 +1,4 @@
-###                               Elemento de maxima prioridad
+###                               Elemento de máxima prioridad
 
 
 La operaciones `elementoMin` y `quitarMin` buscan, en primer lugar, el elemento de `máxima prioridad`; 

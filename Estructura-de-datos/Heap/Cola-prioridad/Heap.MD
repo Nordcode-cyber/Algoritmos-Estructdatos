@@ -1,4 +1,4 @@
-###                             Definicion de Monticulo (HEAP)
+###                             Definición de Montículo (HEAP)
 
 
 Un montículo binario de tamaño ` n`  se define como un ` árbol binario`  casi completo de ` n` nodos ,
