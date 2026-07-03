@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Heap",
+            "request": "launch",
+            "mainClass": "Heap",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
+            "name": "Nodo12",
+            "request": "launch",
+            "mainClass": "Nodo12",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Aprioridad",
             "request": "launch",
             "mainClass": "Aprioridad",
