@@ -7,7 +7,7 @@ Normalmente, el array se utiliza para almacenar tipos tales como `char`, `int` o
 Un array puede contener, por ejemplo, la edad de los alumnos de una clase, las temperaturas
 de cada día de un mes en una ciudad determinada o el número de personas que residen en cada una
 de las diecisiete comunidades autónomas españolas. Cada ítem del array se denomina elemento.
-####                             Subindices
+####                             Subíndices
 Los elementos de un array se numeran, como ya se ha comentado, consecutivamente `0, 1, 2, 3,...n`,
 estos números se denominan valores índice o subíndice del array. El término “subíndice” se utiliza ya que especifica, 
 igual que en matemáticas, una secuencia tal como a0, a1, a2...an Estos números localizan la posición del elemento,
@@ -17,7 +17,7 @@ Si el nombre del array es a, entonces a[0] es el nombre del elemento que está e
 está en la posición i-1, de modo que si el array tiene n elementos, sus nombres son a[0],
 a[1],...,a[n-1]. Gráficamente, se representa así el array a con seis elementos.
 
-#####                           Declaracion de un Array
+#####                           Declaración de un Array
 
 ```int[] arr = { 2,3,4,5,8,9);```
 ```char[] arrchar = {"a","i","k","n"};```

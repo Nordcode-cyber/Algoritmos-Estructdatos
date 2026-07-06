@@ -23,8 +23,8 @@ los pares de `E` son ordenados, se llaman `Arcos`, y se representan con puntos y
 ##### `Si Vi=Vj, (Vi,Vj) se llama:`*bucle*
 ##### *Un grafo sin `bucle` se llama simple*
 
- ###                      Multigrafo
- Decimos que G es un  `multigrafo`si se permite, que entre un mismo par de vertices, se trace,
+ ###                      Multígrafo
+ Decimos que G es un  `multigrafo`si se permite, que entre un mismo par de vértices, se trace,
  mas de una arista, y un `pseudografo` si se permiten aristas de `(v,v)`, `bucles`
  
 
