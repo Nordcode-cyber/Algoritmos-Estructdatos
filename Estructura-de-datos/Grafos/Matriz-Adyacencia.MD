@@ -10,7 +10,7 @@ matriz de adyacencia, tal que todo elemento `aij` puede tomar los valores:
 `aij{1 si hay un arco(Vi,Vj)}`
 `aij{0 si no hay arco(Vi, Vj)}`
 
-En los Grafos no dirigidos la matriz de adyacencia siempre es simétrica ya que las relaciones entre vértices no son ordenadas
+`En los Grafos no dirigidos la matriz de adyacencia siempre es simétrica` ya que las relaciones entre vértices no son ordenadas
  si `Vi` está relacionado con `Vj`, entonces `Vj` está relacionado con `Vi`.
 Los grafos que modelan problemas en los que un arco tiene asociado una magnitud, un factor de peso, también se representan,
  mediante una matriz de tantas filas/columnas como nodos. 
@@ -22,3 +22,7 @@ Los grafos que modelan problemas en los que un arco tiene asociado una magnitud,
  Es una matriz de unos y ceros, que indican si dos vértices son adyacentes o no.
 En un grafo valorado, cada elemento representa el peso de la arista, y por ello se la
 denomina matriz de pesos.
+
+
+
+

@@ -8,15 +8,15 @@ Un árbol binario es una estructura recursiva. Cada nodo es la raíz de su propi
 tiene hijos, que son raíces de árboles, llamados subárboles derecho e izquierdo del nodo, respectivamente.
 Un árbol binario se divide en tres subconjuntos disjuntos:
 
-1. `{R}`           *Nodo Raíz*
-2. `{I1, I2, In}`  *Subárbol Izquierdo de R*
-3. `{D1, D2, Dn}`  *Subárbol Derecho de R*
+1. ${R}$           *Nodo Raíz*
+2. ${I1, I2, In}$  *Subárbol Izquierdo de R*
+3. ${D1, D2, Dn}$  *Subárbol Derecho de R*
 
 ####                        Árbol Binario completo
 Un árbol binario completo de profundidad `n` es un árbol que para cada nivel, del `0` al nivel `n-1` , tiene un conjunto,
-lleno de nodos y todos los nodos hojas a nivel `n` ocupan las posiciones mas a la `izquierda` del Arbol.
-Un arbol binario completo que contiene $2n$ nodos a nivel `n` es **un arbol lleno**.
-Un arbol lleno es un arbol binario que tiene el maximo de numero de entrada para su altura, 
+lleno de nodos y todos los nodos hojas a nivel `n` ocupan las posiciones mas a la `izquierda` del Árbol.
+Un árbol binario completo que contiene $2n$ nodos a nivel `n` es **un árbol lleno**.
+Un arbol lleno es un árbol binario que tiene el máximo de numero de entrada para su altura, 
 esto sucede cuando el ultimo nivel esta lleno.
 
 ####                        Equilibrio 
