@@ -28,8 +28,9 @@ public class Appreco {
         /* Recorrido Preorden
          *       +
          *      / \  
-         *     *  /
-         *    ikii
+         *     *   a
+         *    /\  / \ 
+         *   a  b c  d
          */
         Nodo11 raiz = new Nodo11("+");
         raiz.izq = new Nodo11("*");

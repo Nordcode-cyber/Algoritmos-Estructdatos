@@ -24,6 +24,7 @@
 			"Estructura-de-datos/Lista-Enlazada/Doble/Doblelista03/src/main/java",
 			"Estructura-de-datos/Lista-Enlazada/Doble/Doblelista02/src/main/java",
 			"Estructura-de-datos/Heap/Cola-prioridad/src/main/java",
+			"Estructura-de-datos/Heap/Cola-prioridad/heap-array/src/main/java",
 			"Estructura-de-datos/Heap/Cola-prioridad/Implementacion/src/main/java",
 			"Estructura-de-datos/Colas/deque/src/main/java",
 			"Estructura-de-datos/Colas/Cola-implem-array/src/main/java",
@@ -56,7 +57,7 @@
 			"Algoritmos/Busqueda/src/main/java",
 			"Algoritmos/Burblesort/src/main/java",
 			"Algoritmos/Atrapar/src/main/java",
-			"Estructura-de-datos/Heap/Cola-prioridad/heap-array/src/main/java"
+			"Estructura-de-datos/Arboles/Ejercicio/Postorden/src/main/java"
 		]
 	}
 }

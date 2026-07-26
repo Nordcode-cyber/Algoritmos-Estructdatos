@@ -16,7 +16,7 @@ Un árbol binario se divide en tres subconjuntos disjuntos:
 Un árbol binario completo de profundidad `n` es un árbol que para cada nivel, del `0` al nivel `n-1` , tiene un conjunto,
 lleno de nodos y todos los nodos hojas a nivel `n` ocupan las posiciones mas a la `izquierda` del Árbol.
 Un árbol binario completo que contiene $2n$ nodos a nivel `n` es **un árbol lleno**.
-Un arbol lleno es un árbol binario que tiene el máximo de numero de entrada para su altura, 
+Un árbol lleno es un árbol binario que tiene el máximo de numero de entrada para su altura, 
 esto sucede cuando el ultimo nivel esta lleno.
 
 ####                        Equilibrio 
