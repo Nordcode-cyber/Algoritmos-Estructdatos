@@ -1,6 +1,5 @@
 public class Operaciones {
     public static void main(String[] args) {
-        System.out.println("puto");
         int rest = 0;
         int division = 21;
         int []arr = new int []{10,5,3,1};
