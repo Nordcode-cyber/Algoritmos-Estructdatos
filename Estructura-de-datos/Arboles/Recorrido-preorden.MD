@@ -7,7 +7,7 @@ los subárboles:
 `2. Recorrer el subárbol izquierdo (I) en preorden.`
 `3. Recorrer el subárbol derecho (D) en preorden.`
 Dadas las características recursivas de los árboles, el algoritmo de recorrido tiene naturaleza recursiva. 
-Primero se procesa la `raíz`; a continuación, el `subárbol izquierdo` y, posteriormente,
+Primero se procesa  ${R}$, a continuación, el `subárbol izquierdo` y, posteriormente,
 el `subárbol derecho`. Para procesar el subárbol izquierdo, se siguen los mismos pasos:
 `raíz, subárbol izquierdo y subárbol derecho` (proceso recursivo). Luego se hace lo mismo con
 el subárbol derecho.

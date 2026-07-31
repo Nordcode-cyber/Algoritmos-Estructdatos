@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Arboles/Arbol-general.MD",
+                "file": "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arbol-general"
+              "title": "Matriz-Adyacencia"
             }
           }
         ]
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Arboles/Arbol-general.MD",
+                "file": "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,29 +185,30 @@
   },
   "active": "3e13056d24933a32",
   "lastOpenFiles": [
-    "Estructura-de-datos/Arboles/Representacion.drawio.svg",
-    "Estructura-de-datos/Arboles/Representacion.svg",
-    "Estructura-de-datos/Arboles/Arbol-general.MD",
-    "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
-    "Estructura-de-datos/Arboles/Arbol-binario-busqueda.drawio.svg",
-    "Estructura-de-datos/Arboles/ABB01.drawio",
+    "Estructura-de-datos/Grafos/Lista-adyacencia.MD",
     "Estructura-de-datos/Grafos/Grafos.MD",
-    "Estructura-de-datos/Arboles/Arbol-binario.MD",
+    "Estructura-de-datos/Grafos/Ciclo.MD",
+    "Estructura-de-datos/Arboles/Arbol-general.MD",
+    "Estructura-de-datos/Arboles/TAD.MD",
     "Estructura-de-datos/Arboles/Terminologia.MD",
-    "Estructura-de-datos/Arboles/recorrido2.drawio.svg",
     "Estructura-de-datos/Arboles/Recorrido-preorden.MD",
     "Estructura-de-datos/Arboles/Recorrido-postorden.MD",
     "Estructura-de-datos/Arboles/Recorrido-en-orden.MD",
+    "Estructura-de-datos/Arboles/Arbol-binario.MD",
+    "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
+    "Estructura-de-datos/Arboles/Representacion.svg",
+    "Estructura-de-datos/Arboles/Representacion.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-binario-busqueda.drawio.svg",
+    "Estructura-de-datos/Arboles/ABB01.drawio",
+    "Estructura-de-datos/Arboles/recorrido2.drawio.svg",
     "Estructura-de-datos/Arboles/Recorrido.MD",
     "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
     "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg",
     "Estructura-de-datos/Arboles/postorden.drawio.svg",
     "Estructura-de-datos/Arboles/enorden.drawio.svg",
     "Estructura-de-datos/Arboles/preorden.drawio.svg",
-    "Estructura-de-datos/Arboles/TAD.MD",
     "Estructura-de-datos/Arboles/Equilibrio-Arbol-Binario.drawio.svg",
     "Estructura-de-datos/Heap/Cola-prioridad/Max-prioridad.MD",
-    "Estructura-de-datos/Heap/Cola-prioridad/Heap.drawio.svg",
     "Estructura-de-datos/Heap/Cola-prioridad/Heap.MD",
     "Recursividad/Recursividad.MD",
     "Recursividad/divide_y_venceras.md",
@@ -221,7 +222,6 @@
     "Api-colecciones/Map/Map.MD",
     "Api-colecciones/List/Lista.MD",
     "Estructura-de-datos/Grafos/Recorrido.MD",
-    "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Estructura-de-datos/Grafos/Ejercicio-grafos.drawio",
     "Estructura-de-datos/Grafos/Lista-adyacencia.drawio",
     "Estructura-de-datos/Grafos/Lista-Adyacencia.drawio",

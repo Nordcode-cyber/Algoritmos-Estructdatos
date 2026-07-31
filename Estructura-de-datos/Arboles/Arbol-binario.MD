@@ -13,10 +13,10 @@ Un árbol binario se divide en tres subconjuntos disjuntos:
 3. ${D1, D2, Dn}$  *Subárbol Derecho de R*
 
 ####                        Árbol Binario completo
-Un árbol binario completo de profundidad `n` es un árbol que para cada nivel, del `0` al nivel `n-1` , tiene un conjunto,
-lleno de nodos y todos los nodos hojas a nivel `n` ocupan las posiciones mas a la `izquierda` del Árbol.
-Un árbol binario completo que contiene $2n$ nodos a nivel `n` es **un árbol lleno**.
-Un árbol lleno es un árbol binario que tiene el máximo de numero de entrada para su altura, 
+Un árbol binario completo de profundidad ${n}$ es un árbol que para cada nivel, del ${0}$ al nivel ${n-1}$ , tiene un conjunto,
+lleno de nodos y todos los nodos hojas a nivel ${n}$ ocupan las posiciones mas a la `izquierda` del Árbol.
+Un árbol binario completo que contiene ${2n}$ nodos a nivel ${n}$ es **un árbol lleno**.
+Un árbol lleno es un ${árbol}$ ${ binario}$ que tiene el máximo de numero de entrada para su altura, 
 esto sucede cuando el ultimo nivel esta lleno.
 
 ####                        Equilibrio 
@@ -25,7 +25,7 @@ La distancia de un nodo a la raíz determina la eficiencia con la que puede ser 
 a sus hijos se puede acceder siguiendo sólo un camino de bifurcación o de ramas, el que conduce al nodo deseado. 
 De modo similar, a los nodos en el nivel 2 de un árbol sólo puede accederse siguiendo dos ramas del árbol.
 La característica anterior nos conduce a una característica muy importante de un árbol binario, su balance o equilibrio. 
-Para determinar si un árbol está equilibrado, se calcula su factor de equilibrio. h
+Para determinar si un árbol está equilibrado, se calcula su factor de equilibrio. ${h}$
 El factor de equilibrio de un árbol binario es la diferencia en altura entre los
 subárboles derecho e izquierdo. Si la altura del subárbol izquierdo es hI y la altura del subárbol
 derecho hD, entonces el factor de equilibrio del árbol B se determina por la siguiente fórmula:

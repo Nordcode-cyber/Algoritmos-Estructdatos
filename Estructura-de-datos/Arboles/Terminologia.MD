@@ -2,12 +2,12 @@
 
 Un árbol es un conjunto de uno o más nodos tales que:
 1. Hay un nodo diseñado especialmente llamado raíz.
-2. Los nodos restantes se dividen en n ≥ 0 conjuntos disjuntos, T1 ... Tn, tal que
-cada uno de estos conjuntos es un árbol. A T1 ... Tn se les denomina subárboles
-del raíz si un árbol no está vacío, entonces el primer nodo se llama raíz. Obsérvese en la definición 
+2. Los nodos restantes se dividen en ${n ≥ 0}$ conjuntos disjuntos, ${T1}$ ... ${Tn}$, tal que
+cada uno de estos conjuntos es un árbol. A ${T1}$ ... ${Tn}$ se les denomina subárboles
+del raíz si un árbol no está vacío, entonces el primer nodo se llama raíz ${R}$. Obsérvese en la definición 
 que el árbol ha sido definido de modo recursivo, ya que los subárboles se definen como árboles.
 
-###                                                 Nodos sucesores
+###                                            Nodos sucesores
 
 Estos nodos sucesores se llaman hijos. Por ejemplo, el nodo B es el padre de los hijos E y F. El
 padre de H es el nodo D. Un árbol puede representar diversas generaciones en la familia. Los hijos

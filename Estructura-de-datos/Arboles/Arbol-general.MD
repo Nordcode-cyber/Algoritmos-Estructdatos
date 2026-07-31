@@ -58,4 +58,3 @@ utilizada con expresiones ${algebraicas}$. En esta representación, cada parént
 indica el comienzo de un nuevo nivel y cada paréntesis cerrado completa un nivel y se mueve
 hacia arriba un nivel en el árbol. La notación en paréntesis correspondiente al árbol de la
 ${A(B (C, D), E, F, (G, H, I))}$.
-![Representacion grafica de un Arbol](https://www.ejemplo.com/imagen.png)
