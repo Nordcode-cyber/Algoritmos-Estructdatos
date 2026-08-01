@@ -1,9 +1,9 @@
-Conjetura de Collatz
+###                               Conjetura de Collatz
 
 Nuestro siguiente ejemplo es el programa para probar la Conjetura de Collatz, también conocida como el Problema de 3x + 1
 Problema, debido a Lothar Collatz.1 La conjetura afirma que todo número entero positivo puede transformarse
 a 1 aplicando sucesivamente la siguiente transformación:
-(*) si el número es par, se divide por 2; en caso contrario, se multiplica por 3 y luego se le suma 1.
+(*) ${si el}$ ${número es par}$, se divide por 2; en caso contrario, se multiplica por 3 y luego se le suma 1.
 Por ejemplo, 7 se transforma en 1 siguiendo el procedimiento siguiente:
 7 → 22 → 11 → 34 → 17 → 52 → 26 → 13 → 40 →
 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1

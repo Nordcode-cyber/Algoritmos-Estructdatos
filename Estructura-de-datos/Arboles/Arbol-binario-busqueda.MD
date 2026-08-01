@@ -21,22 +21,9 @@ cuyo objetivo es permitir la búsqueda de elementos en tiempos sublineales con e
 
 Árbol lleno $0(log2(N))$.
 todos los niveles completos.
-       1
-    /     \
-   2       3
-  /  \    / \
- 4   5   6   7
-Árbol degenerado
-1
- \
-  2
-   \
-    3
-     \
-      4
-       \
-        5
+
 ${0(N)}$
+ver: Arbol-binario-busqueda.SVG
 *La altura del árbol binario viene dado por la forma en la que se ha construido:* 
 *los casos extremos aporta cota inferior y superior a la altura del árbol binario*
 
@@ -44,25 +31,6 @@ ${0(N)}$
 Queremos ingresar los elementos ${[3,5,4,7,6]}$ en un `ABB`, la selección de la raíz determina,
 la estructura del árbol:
 **_si el primer Elemento ${R}$ del árbol, es el mínimo, o máximo elemento:_**
-Orden de Inserción:   ${[3,4,5,6,7]}$            ${R=3}$
-
-3
- \
-  4
-   \
-    5
-     \
-      6
-       \
-        7
-*si la raíz es la media:*
-Orden de Inserción:   ${[5,6,3,4,7]}$            ${R=5}$
-ABB01.svg
-       5
-    /     \
-    3       6
-  /         \
- 4           7
 
 ####                         Búsqueda de un ABB
 

@@ -29,13 +29,13 @@ Quizás la forma más intuitiva de implementar una cola de prioridades es con un
  se organiza a la manera de una cola (primero en entrar, primero en salir) y representa a los objetos con la misma prioridad. 
 tabla en la que cada elemento se corresponde con una prioridad y de la que emerge una cola.
 La operación insertEnPrioridad añade un nuevo 
-#elemento `T` de prioridad `m` a la estructura,
+#elemento ${T}$ de prioridad ${m}$ a la estructura,
 siguiendo estos pasos:
-1. Buscar la prioridad `m` en la tabla.
-2. Si existe, poner el elemento `T` al final de la cola `m`.
-3. Si la prioridad `m` está fuera del rango de prioridades, generar un *error*
-La operación `elementoMin` devuelve el elemento frente de la cola no vacía que tiene la
-máxima prioridad. La operación `quitarMin` también devuelve el elemento de máxima prioridad
+1. Buscar la prioridad ${m}$ en la tabla.
+2. Si existe, poner el elemento ${T}$ al final de la cola ${m}$.
+3. Si la prioridad ${m}$ está fuera del rango de prioridades, generar un *error*
+La operación ${elementoMin}$ devuelve el elemento frente de la cola no vacía que tiene la ${máxima}$ ${prioridad}$. 
+La operación ${quitarMin}$ también devuelve el elemento de ${máxima}$ ${prioridad}$
 y, además, lo extrae de la cola.
 
 ###                            Declaración del TAD Cola de Prioridad

@@ -8,7 +8,7 @@ el nombre de tablas o matrices. Sin embargo, es posible crear arrays de tantas d
 requieran sus aplicaciones, ya sean tres, cuatro o más.
 Un array de dos dimensiones (m × n) equivale a una tabla con múltiples filas y múltiples
 columnas.
-*<tipo de datoElemento> <nombre array> [][];*
+${<tipo de datoElemento>}$ ${<nombre}$ ${array>}$ ${[][]}$;
 
 *pantalla = new char[80][24]; // matriz con 80 filas y 24 columnas*
 *puestos = new int[10][5]; // matriz de 10 filas por 5 columnas*

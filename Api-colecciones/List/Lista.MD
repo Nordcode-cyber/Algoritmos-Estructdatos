@@ -17,7 +17,7 @@ Una lista mantiene el orden de inserción, lo que significa que los elementos se
  en el mismo orden en que se añaden. 
  Esto resulta útil cuando se desea recuperar elementos en el orden exacto en que se insertaron.
 ##### *Métodos claves*:
-Aquí están los métodos para la interface Lista: `add(E element)`, `get(int index)`, `set(int index, E element)`, `remove(int index),` and `size()`.
+Aquí están los métodos para la interface Lista: `add(E element), get(int index), set(int index, E element), remove(int index), and size()`.
 `List<String> list = new ArrayList<>();`
 ##### *Rendimiento*: 
 Por lo general, las operaciones de inserción y eliminación son rápidas tanto en ArrayList como en LinkedList. 

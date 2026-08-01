@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
+                "file": "Estructura-de-datos/Grafos/TAD-Grafo.MD",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matriz-Adyacencia"
+              "title": "TAD-Grafo"
             }
           }
         ]
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
+                "file": "Estructura-de-datos/Grafos/TAD-Grafo.MD",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,6 +185,8 @@
   },
   "active": "3e13056d24933a32",
   "lastOpenFiles": [
+    "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
+    "Recursividad/Collat/src/main/java/Collat-teoria.MD",
     "Estructura-de-datos/Grafos/Lista-adyacencia.MD",
     "Estructura-de-datos/Grafos/Grafos.MD",
     "Estructura-de-datos/Grafos/Ciclo.MD",
@@ -220,8 +222,6 @@
     "Estructura-de-datos/Colas/Cola-implem-array/Comparable.MD",
     "Api-colecciones/Collection.MD",
     "Api-colecciones/Map/Map.MD",
-    "Api-colecciones/List/Lista.MD",
-    "Estructura-de-datos/Grafos/Recorrido.MD",
     "Estructura-de-datos/Grafos/Ejercicio-grafos.drawio",
     "Estructura-de-datos/Grafos/Lista-adyacencia.drawio",
     "Estructura-de-datos/Grafos/Lista-Adyacencia.drawio",

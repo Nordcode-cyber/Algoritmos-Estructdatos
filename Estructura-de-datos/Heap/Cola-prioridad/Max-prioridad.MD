@@ -24,6 +24,6 @@ respectivamente, para `elementoMin` y `quitarMin` de la cola terminan el proceso
     ```  throw new Exception("Cola de prioridades vacía");```
 ```}```
 La operación `quitarMin` sigue los mismos pasos que `elementoMin`, con la diferencia de que devuelve y retira,
- el elemento frente de la cola de mayor prioridad:`return (Tarea)` tabla`[indiceCola]`.quitar();
+ el elemento frente de la cola de mayor prioridad:${return}$ ${(Tarea)}$ ${tabla[indiceCola]}$.${quitar();}$
 La complejidad de las operaciones frenteCola y quitar de una cola es constante, y el proceso de búsqueda,
 de la cola de máxima prioridad es lineal, por esa razón la complejidad de `elementoMin` y `quitarMin` es lineal.

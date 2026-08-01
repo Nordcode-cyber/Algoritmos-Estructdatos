@@ -5,7 +5,7 @@ Es una colección ordenada de elementos a los cuales sólo se puede acceder por 
  lo que se quiere decir es que hay un elemento al que se puede acceder primero (el que está encima de la pila), 
  otro elemento al que se puede acceder en segundo lugar (justo el elemento que está debajo de la cima), un tercero, etc.
  No se requiere que las entradas se puedan comparar utilizando el operador “menor que” (<) y pueden ser de
-cualquier tipo. Las pilas son estructuras*LIFO* (last in, first out)
+cualquier tipo. Las pilas son estructuras ${LIFO}$ *(last in, first out)*
 ###                            Operaciones con pilas(stack)
 
 

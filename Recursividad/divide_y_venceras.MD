@@ -1,11 +1,11 @@
 ###                         ALGORITMOS DIVIDE Y VENCERÁS
 
 Una de las técnicas más importantes para la resolución de muchos problemas de computadora
-es la denominada `divide y vencerás`. El diseño de algoritmos basados en esta técnica
-consiste en transformar `(dividir)`  un problema de tamaño  ` n ` en problemas más pequeños,
-de tamaño menor que  ` n` , pero similares al problema original, de modo que resolviendo los
+es la denominada ${divide}$ ${y}$ ${vencerás}$`. El diseño de ${algoritmo}$ basados en esta técnica
+consiste en transformar ${(dividir)}$ un problema de tamaño  ${n}$ en problemas más pequeños,
+de tamaño menor que  ${n}$ , pero similares al problema original, de modo que resolviendo los
 subproblemas y combinando las soluciones se pueda construir fácilmente una solución del
-problema completo ( `vencerás` ).
+problema completo ${vencerás}$
 Normalmente, el proceso de división de un problema en otros de tamaño menor va a dar lugar
 a que se llegue al caso base, cuya solución es inmediata. A partir de la obtención de la solución
 del problema para el caso base, se combinan soluciones que amplían el tamaño del problema

@@ -2,7 +2,7 @@
 En este capítulo se estudia el tipo abstracto de datos Cola, estructura muy utilizada en la vida
 cotidiana y también en la resolución de problemas en programación. Esta estructura, al igual que
 las pilas, almacena y recupera sus elementos atendiendo a un orden estricto. Las colas se conocen
-como estructuras FIFO ( first-in, first-out,), debido a la forma y orden de inserción y de extracción de elementos. 
+como estructuras ${FIFO}$ ( first-in, first-out,), debido a la forma y orden de inserción y de extracción de elementos. 
 Las colas tienen numerosas aplicaciones en el mundo de la computación: colas de mensajes, 
 colas de tareas a realizar por una impresora, colas de prioridades, etc.
 ###                                    CONCEPTO DE COLA

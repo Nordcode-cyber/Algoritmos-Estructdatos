@@ -1,5 +1,5 @@
 ###                             *Árbol Binario*
-==*un árbol binario no puede tener mas de 2 subárboles*==
+*un árbol binario no puede tener mas de 2 subárboles*
 
 Un árbol binario es un árbol cuyos nodos no pueden tener más de dos subárboles. En un árbol
 binario, cada nodo puede tener cero, uno o dos hijos (subárboles). Se conoce el nodo de la izquierda
@@ -13,8 +13,9 @@ Un árbol binario se divide en tres subconjuntos disjuntos:
 3. ${D1, D2, Dn}$  *Subárbol Derecho de R*
 
 ####                        Árbol Binario completo
-Un árbol binario completo de profundidad ${n}$ es un árbol que para cada nivel, del ${0}$ al nivel ${n-1}$ , tiene un conjunto,
-lleno de nodos y todos los nodos hojas a nivel ${n}$ ocupan las posiciones mas a la `izquierda` del Árbol.
+Un árbol binario completo de profundidad ${n}$ es un árbol que para cada nivel, del ${0}$ al nivel ${n-1}$ , 
+tiene un conjunto, lleno de nodos y todos los nodos hojas a nivel ${n}$ ocupan las posiciones mas a la `izquierda` 
+del Árbol.
 Un árbol binario completo que contiene ${2n}$ nodos a nivel ${n}$ es **un árbol lleno**.
 Un árbol lleno es un ${árbol}$ ${ binario}$ que tiene el máximo de numero de entrada para su altura, 
 esto sucede cuando el ultimo nivel esta lleno.
@@ -31,14 +32,3 @@ subárboles derecho e izquierdo. Si la altura del subárbol izquierdo es hI y la
 derecho hD, entonces el factor de equilibrio del árbol B se determina por la siguiente fórmula:
 .*` B = hD - hI `*
 
-#### Operaciones TAD Árbol Binario
-
-| operaciones | Descripción                                                  |
-| ----------- | ------------------------------------------------------------ |
-| CrearArbol  | Iniciar el arbol como vacio                                  |
-| Construir   | Crear árbol con una raíz, y 2 subárboles Izquierda y derecha |
-| EsVacio     | Comprueba si el árbol no tiene nodos.                        |
-| Izquierdo   | Obtiene la rama o subárbol izquierdo de un árbol dado.       |
-| Derecho     | Obtiene la rama o subárbol derecho de un árbol dado          |
-| Borrar      | Elimina del árbol el nodo con un elemento determinado        |
-| Pertenece   | Determina si un elemento se encuentra en el arbol            |

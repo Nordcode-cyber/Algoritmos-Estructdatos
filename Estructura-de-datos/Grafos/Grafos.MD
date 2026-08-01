@@ -12,7 +12,7 @@ los pares de ${E}$ son ordenados, se llaman `Arcos`, y se representan con puntos
 ###                                Mas Notaciones
 ####  `Grafos no dirigidos ` ,
  Si $(Vi, Vj)$ representa una ${arista}$
- ${Vi}$ y ${Vj}$ son ${extremos}$ de ${Vi, Vj}$
+ ${Vi}$ y ${Vj}$ son ${extremos}$ de ${Vi, Vj}$ ,
  ${Vi, Vj}$ son ${adyacente}$ porque están unidos por una arista.
 ##### `(Vi, Vj)` es incidente de Vi, Vj
 ##### Si ${Vi=Vj}$, ${(Vi,Vj)}$ se llama: ${Bucle}$
