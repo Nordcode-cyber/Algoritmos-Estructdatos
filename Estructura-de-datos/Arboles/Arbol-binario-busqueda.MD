@@ -10,7 +10,7 @@ cuyo objetivo es permitir la búsqueda de elementos en tiempos sublineales con e
 
 ####                       Operaciones en Arboles binario de búsqueda
 
-| Operacion            | Descripcion                            |
+| Operacion            | Descripcion                                                 |
 | -------------------- | ----------------------------------------------------------- |
 | Busqueda de un nodo  | Devuelve la referencia al nodo del arbol o ```null```       |
 |Inserccion de un nodo | Crea nodo con dato asociado, y lo agrega, en orden, al arbol|

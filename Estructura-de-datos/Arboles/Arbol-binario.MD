@@ -20,6 +20,16 @@ Un árbol binario completo que contiene ${2n}$ nodos a nivel ${n}$ es **un árbo
 Un árbol lleno es un ${árbol}$ ${ binario}$ que tiene el máximo de numero de entrada para su altura, 
 esto sucede cuando el ultimo nivel esta lleno.
 
+####                        Arbol Binario degenerado
+
+El último caso de árbol es un tipo especial, denominado árbol degenerado, en el que hay una
+sola hoja ${(E)}$ y cada ${nodo}$ no hoja sólo tiene un hijo. Un árbol degenerado es equivalente a
+una lista enlazada.
+Los árboles binarios completos y llenos de profundidad ${k+1}$ proporcionan algunos datos matemáticos
+de interés. En cada caso, existe un ${nodo}$ ${(2º)}$ al nivel 0 ${(raíz)}$, dos nodos (21 ) a nivel 1,
+cuatro nodos (22 ) a nivel 2, etc. A través de los primeros ${k-1}$ niveles se puede demostrar, considerando
+la suma de los términos de una progresión geométrica de razón 2, que hay ${2}$ ${k - 1}$ ${nodos}$.
+
 ####                        Equilibrio 
 
 La distancia de un nodo a la raíz determina la eficiencia con la que puede ser localizado. Por ejemplo, dado cualquier nodo de un árbol, 

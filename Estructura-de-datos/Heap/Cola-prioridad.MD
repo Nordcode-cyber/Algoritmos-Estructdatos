@@ -8,6 +8,16 @@ la clave más baja (o, en algunas implementaciones, la clave más alta) siempre 
 Los elementos se insertan en la posición adecuada para mantener el orden. Así es como la analogía de la clasificación,
 del correo se aplica a una cola de prioridad. Cada vez que el cartero te entrega una carta, la insertas en tu pila, 
 de cartas pendientes según su prioridad. 
+###                             Definición de Montículo (HEAP)
+
+
+Un montículo binario de tamaño ` n`  se define como un ` árbol binario`  casi completo de ` n` nodos ,
+tal que el contenido de cada nodo es menor o igual que el contenido de su hijos.
+La definición formal de la estructura ` montículo`  está relacionada con los ` árboles binarios` . Así,
+en la Figura Heap.svg se puede observar un árbol binario con todos los niveles completos excepto el último, 
+que puede no estar completo y tener los nodos situados lo más a la izquierda posible, que forma un montículo binario.
+Un árbol binario completo 3 es un árbol con todos los niveles llenos con la excepción del último nivel, que se llena de izquierda a derecha. 
+Tienen la propiedad importante de que la altura de un árbol binario, completo de ${n}$ nodos es ${log n}$
 
 Si debe responderse inmediatamente (la compañía telefónica está a punto de desconectar tu línea de módem), 
 va en la parte superior, mientras que si puede esperar una respuesta tranquila(una carta de tu tía Mabel), va en la parte inferior. 
