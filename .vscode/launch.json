@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pepe",
+            "request": "launch",
+            "mainClass": "pepe",
+            "projectName": "Algoritmos-Estructdatos_5a5d18ef"
+        },
+        {
+            "type": "java",
             "name": "Postorden",
             "request": "launch",
             "mainClass": "Postorden",

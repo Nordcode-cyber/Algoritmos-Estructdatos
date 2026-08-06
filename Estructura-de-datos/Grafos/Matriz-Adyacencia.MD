@@ -8,8 +8,8 @@ y ${A =}$ ${(Vi, Vj)}$ el conjunto de arcos.
 Los nodos están numerados consecutivamente de 0 a n-1. La representación de los arcos se hace con una matriz A de n x n elementos, denominada
 matriz de adyacencia, tal que todo elemento `aij` puede tomar los valores:
 
-`aij{1 si hay un arco(Vi,Vj)}`
-`aij{0 si no hay arco(Vi, Vj)}`
+${aij}$  ` 1 si hay un arco ` ${(Vi,Vj)}$
+${aij}$  ` 0 si no hay arco ` ${(Vi, Vj)}$
 
 `En los Grafos no dirigidos la matriz de adyacencia siempre es simétrica` ya que las relaciones entre vértices no son ordenadas
  si ${Vi}$ `está relacionado con` ${Vj}$, entonces ${Vj}$` está relacionado con ` ${Vi}$.
