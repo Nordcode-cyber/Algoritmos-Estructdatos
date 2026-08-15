@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Estructura-de-datos/Arboles/Equilibrio-Arbol-Binario.drawio.svg"
+                "file": "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg"
               },
               "icon": "lucide-image",
-              "title": "Equilibrio-Arbol-Binario.drawio"
+              "title": "ejercicio-recorrido.drawio"
             }
           }
         ]
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Arboles/Equilibrio-Arbol-Binario.drawio.svg",
+                "file": "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,6 +183,12 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
+    "Estructura-de-datos/Arboles/Arbol-binario.MD",
+    "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
+    "Estructura-de-datos/Arboles/Equilibrio-Arbol-Binario.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-binario-busqueda.drawio.svg",
+    "Estructura-de-datos/Arboles/enorden.drawio.svg",
     "Estructura-de-datos/tabla-hash/hashfunction.drawio.svg",
     "Estructura-de-datos/Colas/Cola-implem-array/Comparable.MD",
     "Estructura-de-datos/Colas/deque/Deque.MD",
@@ -200,25 +206,19 @@
     "Estructura-de-datos/Grafos/Recorrido.MD",
     "Estructura-de-datos/Grafos/Lista-adyacencia.MD",
     "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
     "Estructura-de-datos/Grafos/Floyd.MD",
     "Estructura-de-datos/Grafos/Dijkstra.MD",
-    "Estructura-de-datos/Grafos/ejemplo-grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Ciclo.MD",
     "Estructura-de-datos/Lista-Enlazada/Sorted-list/src/main/java/lista-enlazada-ord.md",
     "Api-colecciones/Queue/Queue.MD",
     "Api-colecciones/Collection.MD",
-    "Api-colecciones/Collection.drawio.svg",
     "Api-colecciones/List/Lista.MD",
     "Estructura-de-datos/Arrays/Arrays.MD",
     "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
-    "Estructura-de-datos/Arboles/Arbol-binario.drawio 2.svg",
     "Recursividad/Collat/src/main/java/Collat-teoria.MD",
     "Estructura-de-datos/Arboles/Arbol-general.MD",
     "Estructura-de-datos/Arboles/TAD.MD",
     "Estructura-de-datos/Arboles/Terminologia.MD",
-    "Estructura-de-datos/Arboles/Recorrido-preorden.MD",
     "Estructura-de-datos/Arboles/ABB01.drawio",
     "Estructura-de-datos/Grafos/Ejercicio-grafos.drawio",
     "Estructura-de-datos/Grafos/Lista-adyacencia.drawio",

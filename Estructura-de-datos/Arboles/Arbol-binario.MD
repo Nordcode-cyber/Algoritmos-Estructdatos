@@ -20,7 +20,7 @@ Un árbol binario completo que contiene ${2n}$ nodos a nivel ${n}$ es **un árbo
 Un árbol lleno es un ${árbol}$ ${ binario}$ que tiene el máximo de numero de entrada para su altura, 
 esto sucede cuando el ultimo nivel esta lleno.
 
-####                        Arbol Binario degenerado
+####                        Árbol Binario degenerado
 
 El último caso de árbol es un tipo especial, denominado árbol degenerado, en el que hay una
 sola hoja ${(E)}$ y cada ${nodo}$ no hoja sólo tiene un hijo. Un árbol degenerado es equivalente a

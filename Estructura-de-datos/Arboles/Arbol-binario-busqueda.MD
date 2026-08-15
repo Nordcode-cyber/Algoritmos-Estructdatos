@@ -23,7 +23,7 @@ cuyo objetivo es permitir la búsqueda de elementos en tiempos sublineales con e
 todos los niveles completos.
 
 ${0(N)}$
-ver: Arbol-binario-busqueda.SVG
+ver: Árbol-binario-búsquedas. SVG
 *La altura del árbol binario viene dado por la forma en la que se ha construido:* 
 *los casos extremos aporta cota inferior y superior a la altura del árbol binario*
 
@@ -39,23 +39,26 @@ recursiva por el ${Subarbol}$ Izquierdo. Si ${X>R}$, la búsqueda prosigue de ma
 recursiva por el ${Subarbol}$ Derecho. La búsqueda termina cuando se encuentra el elemento,
 o cuando ya no se encuentran mas ${nodos}$ por visitar.
 ${[1,2,3,5,7,9]}$ 
-La busqueda del ${3}$ recorre los siguientes ${nodos}$ del arbol ${5-2-3}$ 
-La busqueda del ${9}$ recorre los siguientes ${nodos}$ del arbol ${5-7-9}$ 
+La búsqueda del ${3}$ recorre los siguientes ${nodos}$ del árbol ${5-2-3}$ 
+La búsqueda del ${9}$ recorre los siguientes ${nodos}$ del árbol ${5-7-9}$ 
 
 ####                        Complejidad Temporal de un ABB
 
 > [Caso mejor]:  
-El elemento buscado esta en la ${R}$ del `ABB` se realiza ${1}$ comparacion ----> Coste Constante
+El elemento buscado esta en la ${R}$ del `ABB` se realiza ${1}$ comparación ----> Coste Constante
 > [Caso peor]:  
 El elemento esta en cualquier hoja del nivel, o el nivel mas alto o el elemento no esta en el `ABB`,
 en el peor de los casos la complejidad temporal es proporcional a la altura de un `ABB`.
 
-####                             Inserccion de un ABB
+####                             Inserción de un ABB
 
-La insercion de un `ABB` requiere buscar el lugar de insercion, y crear nueva hoja en el caso de que,
-no este el elemento. La insercion en un `ABB` requiere un coste temporal, en el peor de los casos,
-lineal con la altura del arbol similar al de la busqueda:
+La inserción de un `ABB` requiere buscar el lugar de inserción, y crear nueva hoja en el caso de que,
+no este el elemento. La inserción en un `ABB` requiere un coste temporal, en el peor de los casos,
+lineal con la altura del árbol similar al de la búsqueda:
 
-Para un Arbol equilibrado: $0{(log2(N)}$
-Para un Arbol degenenrado: ${0(N)}$
+Para un Árbol equilibrado: $0{(log2(N)}$
+Para un Árbol degenerando: ${0(N)}$
+
+####                             Obtencion del minimo y maximo en un ABB
+
 
