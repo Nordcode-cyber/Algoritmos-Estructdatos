@@ -42,4 +42,20 @@ ${[1,2,3,5,7,9]}$
 La busqueda del ${3}$ recorre los siguientes ${nodos}$ del arbol ${5-2-3}$ 
 La busqueda del ${9}$ recorre los siguientes ${nodos}$ del arbol ${5-7-9}$ 
 
+####                        Complejidad Temporal de un ABB
+
+> [Caso mejor]:  
+El elemento buscado esta en la ${R}$ del `ABB` se realiza ${1}$ comparacion ----> Coste Constante
+> [Caso peor]:  
+El elemento esta en cualquier hoja del nivel, o el nivel mas alto o el elemento no esta en el `ABB`,
+en el peor de los casos la complejidad temporal es proporcional a la altura de un `ABB`.
+
+####                             Inserccion de un ABB
+
+La insercion de un `ABB` requiere buscar el lugar de insercion, y crear nueva hoja en el caso de que,
+no este el elemento. La insercion en un `ABB` requiere un coste temporal, en el peor de los casos,
+lineal con la altura del arbol similar al de la busqueda:
+
+Para un Arbol equilibrado: $0{(log2(N)}$
+Para un Arbol degenenrado: ${0(N)}$
 
