@@ -56,8 +56,8 @@ La inserción de un `ABB` requiere buscar el lugar de inserción, y crear nueva 
 no este el elemento. La inserción en un `ABB` requiere un coste temporal, en el peor de los casos,
 lineal con la altura del árbol similar al de la búsqueda:
 
-Para un Árbol equilibrado: $0{(log2(N)}$
-Para un Árbol degenerando: ${0(N)}$
+###### Para un Árbol equilibrado: $0{(log2(N)}$
+###### Para un Árbol degenerando: ${0(N)}$
 
 ####                             Obtencion del minimo y maximo en un ABB
 
