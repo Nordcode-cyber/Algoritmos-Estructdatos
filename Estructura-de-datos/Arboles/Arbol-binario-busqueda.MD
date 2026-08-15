@@ -44,9 +44,9 @@ La búsqueda del ${9}$ recorre los siguientes ${nodos}$ del árbol ${5-7-9}$
 
 ####                        Complejidad Temporal de un ABB
 
-> [Caso mejor]:  
+Caso mejor  
 El elemento buscado esta en la ${R}$ del `ABB` se realiza ${1}$ comparación ----> Coste Constante
-> [Caso peor]:  
+Caso peor:
 El elemento esta en cualquier hoja del nivel, o el nivel mas alto o el elemento no esta en el `ABB`,
 en el peor de los casos la complejidad temporal es proporcional a la altura de un `ABB`.
 
