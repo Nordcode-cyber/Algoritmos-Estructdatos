@@ -41,4 +41,19 @@ El factor de equilibrio de un árbol binario es la diferencia en altura entre lo
 subárboles derecho e izquierdo. Si la altura del subárbol izquierdo es hI y la altura del subárbol
 derecho hD, entonces el factor de equilibrio del árbol B se determina por la siguiente fórmula:
 .*` B = hD - hI `*
+###                           ${TAD}$ ${Arbol}$ ${Binario}$
+
+La estructura de árbol binario constituye un tipo abstracto de datos; 
+las operaciones básicas que definen el TAD árbol binario son las siguientes:
+
+| Operaciones    |Descripcion                                                 |
+|----------------|------------------------------------------------------------|
+| CrearArbol     | inicia Arbol como vacio                                    | 
+| DeclararArbol  | Crea un árbol con un elemento raíz y dos ramas, izq y der  | 
+| IsEmpty        | EsVacio Comprueba si el Arbol no tiene nodos               | 
+| Root           | Devuelve el nodo raiz                                      | 
+| Izquierdo      | Obtiene la rama o subárbol izquierdo de un árbol dado.     | 
+| Derecho        | Obtiene la rama o subárbol derecho de un árbol dado.       | 
+| Borrar         |  Elimina del árbol el nodo con un elemento determinado.    | 
+| Pertenece      | Determina si un elemento se encuentra en el árbol.         |
 

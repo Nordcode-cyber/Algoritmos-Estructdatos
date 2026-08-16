@@ -11,12 +11,14 @@
             "id": "fce6516e19affbfc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg"
+                "file": "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ejercicio-recorrido.drawio"
+              "icon": "lucide-file",
+              "title": "Arbol-binario-busqueda"
             }
           }
         ]
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg",
+                "file": "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,6 +186,8 @@
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
     "Estructura-de-datos/Arboles/Arbol-binario.MD",
+    "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg",
+    "demo/target/classes/mis/clases/Main.class",
     "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
     "Estructura-de-datos/Arboles/Equilibrio-Arbol-Binario.drawio.svg",
     "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
@@ -205,7 +209,6 @@
     "Estructura-de-datos/Grafos/TAD-Grafo.MD",
     "Estructura-de-datos/Grafos/Recorrido.MD",
     "Estructura-de-datos/Grafos/Lista-adyacencia.MD",
-    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Floyd.MD",
     "Estructura-de-datos/Grafos/Dijkstra.MD",
     "Estructura-de-datos/Grafos/Ciclo.MD",
@@ -218,7 +221,6 @@
     "Recursividad/Collat/src/main/java/Collat-teoria.MD",
     "Estructura-de-datos/Arboles/Arbol-general.MD",
     "Estructura-de-datos/Arboles/TAD.MD",
-    "Estructura-de-datos/Arboles/Terminologia.MD",
     "Estructura-de-datos/Arboles/ABB01.drawio",
     "Estructura-de-datos/Grafos/Ejercicio-grafos.drawio",
     "Estructura-de-datos/Grafos/Lista-adyacencia.drawio",
@@ -228,7 +230,6 @@
     "Estructura-de-datos/Pilas/Pila-Recursiva/src/main",
     "Estructura-de-datos/Pilas/Pila-Recursiva/src",
     "Estructura-de-datos/Pilas/Pila-Recursiva",
-    "Estructura-de-datos/Lista-Enlazada/Simple/longitud/src/main/java/Nodo08.java",
     "Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 3.canvas",

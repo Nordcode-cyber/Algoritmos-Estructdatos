@@ -56,9 +56,14 @@ La inserción de un `ABB` requiere buscar el lugar de inserción, y crear nueva 
 no este el elemento. La inserción en un `ABB` requiere un coste temporal, en el peor de los casos,
 lineal con la altura del árbol similar al de la búsqueda:
 
-###### Para un Árbol equilibrado: $0{(log2(N)}$
+###### Para un Árbol equilibrado: $0{(log2(N))}$
 ###### Para un Árbol degenerando: ${0(N)}$
 
-####                             Obtencion del minimo y maximo en un ABB
+####                             Obtención del mínimo y máximo en un ABB
+
+El mínimo dato se encuentra en el ${nodo}$ situado mas a la `izquierda`. si existiera algún elemento mas pequeño,
+que el situado en ${Subarbol}$ `izquierdo` (por definición de ABB), el máximo  `dato` se encuentra en el ${nodo}$,
+situado mas a la `derecha`. Si existiera algún elemento mas grande que el estaría situado en el ${Subarbol}$ `derecho`,
+por definición de `ABB`.
 
 
