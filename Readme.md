@@ -11,7 +11,9 @@
 ######           💾Cola de Prioridad.
 ######           💾Arboles.
 ######           💾Grafos.
-####   - 🚀 Recursividad.  
+####   - 🚀 Recursividad.
+######           💾collat.
+######           💾Anagrama.
 ####   - 🚀 Api colecciones.  
 ######           💾List.
 ######           💾Qeue.
