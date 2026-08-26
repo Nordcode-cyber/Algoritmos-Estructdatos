@@ -6,6 +6,31 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Collat",
+            "request": "launch",
+            "mainClass": "Collat"
+        },
+        {
+            "type": "java",
+            "name": "Applist",
+            "request": "launch",
+            "mainClass": "Applist"
+        },
+        {
+            "type": "java",
+            "name": "Longitud",
+            "request": "launch",
+            "mainClass": "Longitud"
+        },
+        {
+            "type": "java",
+            "name": "ReverseApp",
+            "request": "launch",
+            "mainClass": "ReverseApp",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "pepe",
             "request": "launch",
             "mainClass": "pepe",
