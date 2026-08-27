@@ -14,4 +14,4 @@ Si la arista es un bucle en v, contribuye con dos unidades al valor de grado.
 
 
 
-$$ \sum_{i=1}^{n} x_i $$
+$$ \sum =d(v)=2card(E)$$

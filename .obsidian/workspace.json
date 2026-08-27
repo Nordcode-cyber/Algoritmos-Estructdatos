@@ -11,14 +11,12 @@
             "id": "fce6516e19affbfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
-                "mode": "source",
-                "source": false
+                "file": "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio.svg"
               },
-              "icon": "lucide-file",
-              "title": "Arbol-binario-busqueda"
+              "icon": "lucide-image",
+              "title": "Grado-Grafo-nodir.drawio"
             }
           }
         ]
@@ -156,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
+                "file": "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,10 +183,18 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
+    "Estructura-de-datos/Grafos/Grado-Grafo-dir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grado.MD",
+    "Estructura-de-datos/Grafos/Grafos.MD",
+    "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio",
+    "Estructura-de-datos/Grafos/Grado",
+    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
+    "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
     "Estructura-de-datos/Arboles/Arbol-binario.MD",
     "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg",
     "demo/target/classes/mis/clases/Main.class",
-    "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
     "Estructura-de-datos/Arboles/Equilibrio-Arbol-Binario.drawio.svg",
     "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
     "Estructura-de-datos/Arboles/Arbol-binario-busqueda.drawio.svg",
@@ -199,11 +205,7 @@
     "Estructura-de-datos/Colas/Queue.drawio.svg",
     "Estructura-de-datos/Heap/Cola-prioridad.MD",
     "Estructura-de-datos/Pilas/Stack.MD",
-    "Estructura-de-datos/Pilas/Stack.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafos.MD",
     "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
-    "Estructura-de-datos/Grafos/Lista-Adyacencia.drawio.svg",
-    "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
     "Estructura-de-datos/Arrays/matriz/matriz.MD",
     "Estructura-de-datos/Heap/Cola-prioridad/Max-prioridad.MD",
     "Estructura-de-datos/Grafos/TAD-Grafo.MD",
@@ -220,7 +222,6 @@
     "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Recursividad/Collat/src/main/java/Collat-teoria.MD",
     "Estructura-de-datos/Arboles/Arbol-general.MD",
-    "Estructura-de-datos/Arboles/TAD.MD",
     "Estructura-de-datos/Arboles/ABB01.drawio",
     "Estructura-de-datos/Grafos/Ejercicio-grafos.drawio",
     "Estructura-de-datos/Grafos/Lista-adyacencia.drawio",
@@ -228,8 +229,6 @@
     "Estructura-de-datos/Pilas/Pila-Recursiva/src/main/java/Stackrecursive.java",
     "Estructura-de-datos/Pilas/Pila-Recursiva/src/main/java",
     "Estructura-de-datos/Pilas/Pila-Recursiva/src/main",
-    "Estructura-de-datos/Pilas/Pila-Recursiva/src",
-    "Estructura-de-datos/Pilas/Pila-Recursiva",
     "Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 3.canvas",
