@@ -66,4 +66,13 @@ que el situado en ${Subarbol}$ `izquierdo` (por definición de ABB), el máximo 
 situado mas a la `derecha`. Si existiera algún elemento mas grande que el estaría situado en el ${Subarbol}$ `derecho`,
 por definición de `ABB`.
 
+###                              Conclusiones del Arbol Binario de busqueda
+
+El `ABB` es una Estructura de datos orientada a la busqueda de datos comparables.
+Permite realizar las principales operaciones,(insertar, buscar y eliminar) en tiempo ${0(log2(N))}$ siempre que:
+*El `ABB` sea equilibrado*
+*Si no esta equilibrado, el coste puede llegar a* ${0(N)}$, como en un array.
+Para tener un `ABB` equilibrado la elección de la ${Raiz}$ es fundamental.
+Elemento mediano en la ${Raiz}$ de cada ${Subarbol}$.
+
 

@@ -26,7 +26,13 @@ los pares de ${E}$ son ordenados, se llaman ${Arcos}$, y se representan con punt
  ###                      Multígrafo
  Decimos que G es un  `multigrafo`si se permite, que entre un mismo par de vértices, se trace,
  mas de una arista, y un `pseudografo` si se permiten aristas de `(v,v)`, `bucles`
- 
+
+ ####                    Caminos, cadenas y ciclos
+ _Cadena_: a toda sucesion finita alterna de vertices y aristas (resp. arcos).
+ _Cadena_ _cerrada_: a toda cadena en la que los vertices inicial y final  coinciden.
+ _Camino_: a toda cadena en la que no se repiten ni vertices, ni aristas(resp. arcos).
+ _Ciclo_: Cadena en la que no se repiten ninguna arista(resp. arcos), ni vertices a excepcion del inicial y final.
+ _Longitud de cadena_: numero de aristas(resp. arcos), que la forman.
 
 
 
