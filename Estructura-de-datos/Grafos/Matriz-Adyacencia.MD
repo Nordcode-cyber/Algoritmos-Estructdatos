@@ -24,34 +24,6 @@ Los ${grafos}$ que modelan problemas en los que un arco tiene asociado una magni
 En un grafo valorado, cada elemento representa el peso de la arista, y por ello se la
 denomina matriz de pesos.
 Ver Matriz-adyacencia.SVG
-`Matriz de adyacencia para: grafo no dirigido` ${V={V1,V2,V3,V4,V5}}$
-$$
-\begin{bmatrix}
-1 & 1 & 0 & 1 & 1 \\
-1 & 0 & 1 & 1 & 1 \\
-0 & 1 & 0 & 1 & 0 \\
-0 & 1 & 1 & 0 & 1 \\
-1 & 1 & 0 & 1 & 0
-\end{bmatrix}
-$$
-`Matriz de adyacencia para: grafo  dirigido` ${V={V1,V2,V3,V4,V5}}$
-$$
-\begin{bmatrix}
-0 & 1 & 0 & 0 & 0 \\
-0 & 0 & 1 & 0 & 0 \\
-1 & 0 & 0 & 1 & 0 \\
-0 & 0 & 1 & 1 & 1 \\
-1 & 0 & 1 & 0 & 0
-\end{bmatrix}
-$$
-`vemos otro ejemplo`
-$$
-\begin{bmatrix}
-1 & 2 & 3 \\
-4 & 5 & 6 \\
-7 & 8 & 9
-\end{bmatrix}
-$$
 
 
 
