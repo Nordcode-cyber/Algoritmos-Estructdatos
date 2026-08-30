@@ -11,14 +11,12 @@
             "id": "fce6516e19affbfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Recorrido.MD",
-                "mode": "source",
-                "source": false
+                "file": "Estructura-de-datos/Grafos/Grado-Grafo-dir.drawio.svg"
               },
-              "icon": "lucide-file",
-              "title": "Recorrido"
+              "icon": "lucide-image",
+              "title": "Grado-Grafo-dir.drawio"
             }
           }
         ]
@@ -156,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Recorrido.MD",
+                "file": "Estructura-de-datos/Grafos/Grado-Grafo-dir.drawio.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,25 +184,31 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
-    "Estructura-de-datos/Grafos/Matriz-Adyacencia.drawio.svg",
-    "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
-    "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Grado-Grafo-dir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
     "Estructura-de-datos/Grafos/Grado.MD",
+    "Estructura-de-datos/Grafos/Funcion-Adyacencia.MD",
+    "Estructura-de-datos/Grafos/Subgrafo-inducido.drawio.svg",
+    "Estructura-de-datos/Grafos/Subgrafo.MD",
+    "Estructura-de-datos/Grafos/Recorrido.MD",
+    "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
+    "Estructura-de-datos/Grafos/Matriz-Adyacencia.drawio.svg",
+    "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
+    "Estructura-de-datos/Grafos/Lista-adyacencia.drawio.svg",
+    "Estructura-de-datos/Grafos/Lista-adyacencia.MD",
     "Estructura-de-datos/Grafos/Grafos.MD",
-    "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio",
-    "Estructura-de-datos/Grafos/Grado",
     "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
+    "Estructura-de-datos/Grafos/Floyd.MD",
+    "Estructura-de-datos/Grafos/Función-Adyacencia.md",
+    "Estructura-de-datos/Grafos/Subgrafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Ejercicio-grafos.drawio.svg",
+    "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio",
+    "Estructura-de-datos/Grafos/Grado",
     "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
     "Estructura-de-datos/Arboles/Arbol-binario.MD",
-    "Estructura-de-datos/Arboles/ejercicio-recorrido.drawio.svg",
     "demo/target/classes/mis/clases/Main.class",
-    "Estructura-de-datos/Arboles/Equilibrio-Arbol-Binario.drawio.svg",
-    "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
-    "Estructura-de-datos/Arboles/Arbol-binario-busqueda.drawio.svg",
-    "Estructura-de-datos/Arboles/enorden.drawio.svg",
     "Estructura-de-datos/Colas/Cola-implem-array/Comparable.MD",
     "Estructura-de-datos/Colas/deque/Deque.MD",
     "Estructura-de-datos/Heap/Cola-prioridad.MD",
@@ -211,18 +216,12 @@
     "Estructura-de-datos/Arrays/matriz/matriz.MD",
     "Estructura-de-datos/Heap/Cola-prioridad/Max-prioridad.MD",
     "Estructura-de-datos/Grafos/TAD-Grafo.MD",
-    "Estructura-de-datos/Grafos/Recorrido.MD",
-    "Estructura-de-datos/Grafos/Lista-adyacencia.MD",
-    "Estructura-de-datos/Grafos/Floyd.MD",
     "Estructura-de-datos/Grafos/Dijkstra.MD",
     "Estructura-de-datos/Grafos/Ciclo.MD",
     "Estructura-de-datos/Lista-Enlazada/Sorted-list/src/main/java/lista-enlazada-ord.md",
     "Api-colecciones/Queue/Queue.MD",
     "Api-colecciones/Collection.MD",
     "Api-colecciones/List/Lista.MD",
-    "Estructura-de-datos/Arrays/Arrays.MD",
-    "Recursividad/Collat/src/main/java/Collat-teoria.MD",
-    "Estructura-de-datos/Arboles/Arbol-general.MD",
     "Estructura-de-datos/Arboles/ABB01.drawio",
     "Estructura-de-datos/Grafos/Ejercicio-grafos.drawio",
     "Estructura-de-datos/Grafos/Lista-adyacencia.drawio",
