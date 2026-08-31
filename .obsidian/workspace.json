@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Grado-Grafo-dir.drawio.svg"
+                "file": "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg"
               },
               "icon": "lucide-image",
-              "title": "Grado-Grafo-dir.drawio"
+              "title": "Grafo-dir.drawio"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 204.83334350585938
   },
   "right": {
     "id": "24a001fba4626965",
@@ -184,26 +184,28 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
+    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
     "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Grado-Grafo-dir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
     "Estructura-de-datos/Grafos/Grado.MD",
     "Estructura-de-datos/Grafos/Funcion-Adyacencia.MD",
+    "Estructura-de-datos/Grafos/Floyd.MD",
+    "Estructura-de-datos/Grafos/Ejercicio-grafos.drawio.svg",
+    "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
+    "Estructura-de-datos/Grafos/ejemplo-grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Dijkstra.MD",
+    "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
     "Estructura-de-datos/Grafos/Subgrafo-inducido.drawio.svg",
     "Estructura-de-datos/Grafos/Subgrafo.MD",
     "Estructura-de-datos/Grafos/Recorrido.MD",
     "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Estructura-de-datos/Grafos/Matriz-Adyacencia.drawio.svg",
     "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
-    "Estructura-de-datos/Grafos/Lista-adyacencia.drawio.svg",
     "Estructura-de-datos/Grafos/Lista-adyacencia.MD",
     "Estructura-de-datos/Grafos/Grafos.MD",
-    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
-    "Estructura-de-datos/Grafos/Floyd.MD",
     "Estructura-de-datos/Grafos/Función-Adyacencia.md",
-    "Estructura-de-datos/Grafos/Subgrafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Ejercicio-grafos.drawio.svg",
     "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio",
     "Estructura-de-datos/Grafos/Grado",
     "Estructura-de-datos/Arboles/Arbol-binario-busqueda.MD",
@@ -216,7 +218,6 @@
     "Estructura-de-datos/Arrays/matriz/matriz.MD",
     "Estructura-de-datos/Heap/Cola-prioridad/Max-prioridad.MD",
     "Estructura-de-datos/Grafos/TAD-Grafo.MD",
-    "Estructura-de-datos/Grafos/Dijkstra.MD",
     "Estructura-de-datos/Grafos/Ciclo.MD",
     "Estructura-de-datos/Lista-Enlazada/Sorted-list/src/main/java/lista-enlazada-ord.md",
     "Api-colecciones/Queue/Queue.MD",
