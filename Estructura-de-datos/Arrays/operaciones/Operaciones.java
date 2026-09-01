@@ -17,7 +17,7 @@ public class Operaciones {
         System.out.println("El producto de los elementos del Array arr: " + prod);
         System.out.println("la resta de los elementos del array es: " + rest);
         System.out.println("la division de los elementos del arrays es: " + division);
-        
+       
     }
     
 }

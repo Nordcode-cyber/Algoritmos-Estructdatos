@@ -6,6 +6,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Figeo",
+            "request": "launch",
+            "mainClass": "Figeo"
+        },
+        {
+            "type": "java",
+            "name": "StackApp",
+            "request": "launch",
+            "mainClass": "StackApp"
+        },
+        {
+            "type": "java",
+            "name": "Stackrecursive",
+            "request": "launch",
+            "mainClass": "Stackrecursive"
+        },
+        {
+            "type": "java",
+            "name": "Ubicacion",
+            "request": "launch",
+            "mainClass": "Ubicacion"
+        },
+        {
+            "type": "java",
+            "name": "Operaciones",
+            "request": "launch",
+            "mainClass": "Operaciones"
+        },
+        {
+            "type": "java",
             "name": "LinearSearch",
             "request": "launch",
             "mainClass": "LinearSearch"

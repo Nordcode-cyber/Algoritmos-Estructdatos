@@ -16,9 +16,24 @@ Si el nombre del array es a, entonces a[0] es el nombre del elemento que está e
 0, a[1] es el nombre del elemento que está en la posición 1, etc. En general, el elemento i-ésimo
 está en la posición i-1, de modo que si el array tiene n elementos, sus nombres son a[0],
 a[1],...,a[n-1]. Gráficamente, se representa así el array a con seis elementos.
+Se accede a los ${subíndice}$ del array, a traves de los ciclos ${For}$, ${For each}$.
 
-#####                           Declaración de un Array
-
+#####                           Declaración  y recorrido de un Array
+```public class Ubicacion{```
+```public static void main(String[] args) {```
 ```int[] arr = { 2,3,4,5,8,9);```
 ```char[] arrchar = {"a","i","k","n"};```
 ```String[] words = {"C++","Java", "python"};```
+```System.out.println(" los elementos del Array Completo. ");```
+```for (int i=0; i<arr.length; i++ )```
+```    System.out.print(arr[i] + " ");```
+```//2,3,4,5,8,9```
+```for (int j=0; j<arrchar.length; j++ )```
+```    System.out.print(arrchar[j] + " ");```
+```//"a","i","k","n"```
+```for (int j=0; j<words.length; j++ )```
+```    System.out.print(words[j] + " ");```
+```//"C++","Java", "python"```
+   ```}```
+ ```}```
+
