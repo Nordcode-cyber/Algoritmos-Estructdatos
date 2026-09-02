@@ -11,12 +11,14 @@
             "id": "fce6516e19affbfc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg"
+                "file": "Estructura-de-datos/Arboles/Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Grafo-dir.drawio"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ]
@@ -184,8 +186,8 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
-    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Grafo-conexa.drawio.svg",
     "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Grado-Grafo-dir.drawio.svg",
