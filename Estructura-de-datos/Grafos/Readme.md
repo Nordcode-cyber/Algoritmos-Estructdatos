@@ -109,5 +109,25 @@ Se llama grado de entrada de ${v}$ al numero de arcos,
 cuyo extremo final es ${v}$. 
 Se llama grado de salida de ${v}$ al numero de arcos, cuyo extremo inicial es ${v}$.
 
+###                   Conexion en grafos no dirigidos
+Sea ${G =(V,E)}$  un ${grafo}$ no dirigido, se dice que el vertice ${u}$ esta conectado al ${v}$ si ${u}$ alcanza a ${v}$.
+La anterior relacion binaria definida ${VxV}$ es una relacion binaria de equivalencia en ${V}$.
+Se llama ${Componente conexa }$ de ${G}$ a todo ${subgrafo}$ inducido por los ${vertices}$ de una clase de equivalencia.
+Se dice  que un ${Grafo}$ es ${Conexo}$ si tiene un unica componente ${conexa}$.
+Sea ${G =(V,E)}$  un ${grafo}$ no dirigido, conexo, ${card(V)=n >1}$
+(a) ${G}$ posee un ciclo o un vertice de grado 1.
+(b) Si la arista e, pertenece a un ciclo, entonces ${G-e}$ es tambien ${conexa}$.
+(c) ${card(E)}$ >=${card(V)}$-1. en un ${grafo}$ conexo ${no dirigido}$, siempre hay un numero mayor o igual de aristas que numero de vertices -1.
 
+###                   Conexion en grafos  dirigidos
+#####                   Grafos fuertemente conexos
+Sea ${G =(V,E)}$  un ${grafo}$  dirigido se dice que el vertice ${u}$ esta fuertemente conectado al ${v}$ si ${u}$ alcanza a ${v}$ y ${v}$ alcanza a ${u}$.
+La anterior relacion binaria definida ${VxV}$ es una relacion binaria de equivalencia en ${V}$.
+Se llama ${Componente fuertemente conexa }$ de ${G}$ a todo ${subgrafo}$ inducido por los ${vertices}$ de una clase de equivalencia.
+Se dice  que un ${Grafo}$ es ${fuertemente Conexo}$ si tiene un unica componente ${conexa}$.
 
+#####                   Equivalencia
+Una forma equivalente de definir ${grafo}$ fuertemente ${conexo}$ y componentes fuertemente conexas es la siguiente:
+ un ${grafo}$  dirigido ${G}$ es fuertemente conexo si todos los ${vertices}$ se alcanzan mutuamente,
+se llama componente fuertemente ${conexa}$ de ${G}$ a todo ${subgrafo}$ maximal fuertemente conexo de ${G}$
+Sea ${G =(V,E)}$ un grafo dirigido, fuertemente conexo, ${card}$ (V)=${n>1}$.

@@ -38,7 +38,7 @@ cerca de la condición ${n == 1}$.
 ###                         ALGORITMOS DIVIDE Y VENCERÁS
 
 Una de las técnicas más importantes para la resolución de muchos problemas de computadora
-es la denominada ${divide}$ ${y}$ ${vencerás}$`. El diseño de ${algoritmo}$ basados en esta técnica
+es la denominada ${divide}$ ${y}$ ${vencerás}$. El diseño de ${algoritmo}$ basados en esta técnica
 consiste en transformar ${(dividir)}$ un problema de tamaño  ${n}$ en problemas más pequeños,
 de tamaño menor que  ${n}$ , pero similares al problema original, de modo que resolviendo los
 subproblemas y combinando las soluciones se pueda construir fácilmente una solución del
