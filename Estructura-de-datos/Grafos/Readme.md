@@ -47,8 +47,9 @@ arcos de H son un subconjunto de los arcos de G.
 ######                   Sea ${G=(V,E)}$ ${grafo}$
 ######    Dado ${V'⊆V,V'}$ = 0, se llama *Subgrafo generado o inducido por V' al subgrafo maximal de G cuyo conjunto de vertices es V'*`
 ######                  Se denota ${G[V']}$
- ###                                    Matriz de Adyacencia
 
+ ###                                    Matriz de Adyacencia
+ 
 La característica mas importante de un grafo, que distingue a uno de otro, es el conjunto de pares de vértices que están relacionados, 
 o que son adyacentes. Por ello, la forma más sencilla de representación es mediante una matriz, de tantas filas/columnas como nodos, 
 que permite modelar fácilmente esa cualidad.
@@ -109,25 +110,36 @@ Se llama grado de entrada de ${v}$ al numero de arcos,
 cuyo extremo final es ${v}$. 
 Se llama grado de salida de ${v}$ al numero de arcos, cuyo extremo inicial es ${v}$.
 
-###                   Conexion en grafos no dirigidos
-Sea ${G =(V,E)}$  un ${grafo}$ no dirigido, se dice que el vertice ${u}$ esta conectado al ${v}$ si ${u}$ alcanza a ${v}$.
-La anterior relacion binaria definida ${VxV}$ es una relacion binaria de equivalencia en ${V}$.
+###                   Conexión en grafos no dirigidos
+Sea ${G =(V,E)}$  un ${grafo}$ no dirigido, se dice que el vértice ${u}$ esta conectado al ${v}$ si ${u}$ alcanza a ${v}$.
+La anterior relación binaria definida ${VxV}$ es una relación binaria de equivalencia en ${V}$.
 Se llama ${Componente conexa }$ de ${G}$ a todo ${subgrafo}$ inducido por los ${vertices}$ de una clase de equivalencia.
-Se dice  que un ${Grafo}$ es ${Conexo}$ si tiene un unica componente ${conexa}$.
+Se dice  que un ${Grafo}$ es ${Conexo}$ si tiene un única componente ${conexa}$.
 Sea ${G =(V,E)}$  un ${grafo}$ no dirigido, conexo, ${card(V)=n >1}$
-(a) ${G}$ posee un ciclo o un vertice de grado 1.
-(b) Si la arista e, pertenece a un ciclo, entonces ${G-e}$ es tambien ${conexa}$.
-(c) ${card(E)}$ >=${card(V)}$-1. en un ${grafo}$ conexo ${no dirigido}$, siempre hay un numero mayor o igual de aristas que numero de vertices -1.
+(a) ${G}$ posee un ciclo o un vértice de grado 1.
+(b) Si la arista e, pertenece a un ciclo, entonces ${G-e}$ es también ${conexa}$.
+(c) ${card(E)}$ >=${card(V)}$-1. en un ${grafo}$ conexo ${no dirigido}$, siempre hay un numero mayor o igual de aristas que numero de vértices -1.
 
-###                   Conexion en grafos  dirigidos
+###                   Conexión en grafos  dirigidos
 #####                   Grafos fuertemente conexos
-Sea ${G =(V,E)}$  un ${grafo}$  dirigido se dice que el vertice ${u}$ esta fuertemente conectado al ${v}$ si ${u}$ alcanza a ${v}$ y ${v}$ alcanza a ${u}$.
-La anterior relacion binaria definida ${VxV}$ es una relacion binaria de equivalencia en ${V}$.
+Sea ${G =(V,E)}$  un ${grafo}$  dirigido se dice que el vértice ${u}$ esta fuertemente conectado al ${v}$ si ${u}$ alcanza a ${v}$ y ${v}$ alcanza a ${u}$.
+La anterior relación binaria definida ${VxV}$ es una relación binaria de equivalencia en ${V}$.
 Se llama ${Componente fuertemente conexa }$ de ${G}$ a todo ${subgrafo}$ inducido por los ${vertices}$ de una clase de equivalencia.
-Se dice  que un ${Grafo}$ es ${fuertemente Conexo}$ si tiene un unica componente ${conexa}$.
+Se dice  que un ${Grafo}$ es fuertemente ${Conexo}$ si tiene un única componente ${conexa}$.
 
 #####                   Equivalencia
 Una forma equivalente de definir ${grafo}$ fuertemente ${conexo}$ y componentes fuertemente conexas es la siguiente:
  un ${grafo}$  dirigido ${G}$ es fuertemente conexo si todos los ${vertices}$ se alcanzan mutuamente,
 se llama componente fuertemente ${conexa}$ de ${G}$ a todo ${subgrafo}$ maximal fuertemente conexo de ${G}$
 Sea ${G =(V,E)}$ un grafo dirigido, fuertemente conexo, ${card}$ (V)=${n>1}$.
+
+#####                  Grafo débilmente conexo
+
+Sea ${G =(V,E)}$  un ${grafo}$  dirigido
+
+Se dice que el vértice ${u}$ esta débilmente conectado al ${v}$ si ${u}$ y ${v}$ están conectado en el ${grafo}$ subyacente $\bar{G}$
+La anterior relación binaria definida ${VxV}$ es una relación binaria de equivalencia en ${V}$.
+se llama componente  débilmente ${conexa}$ de ${G}$  a todo ${Subgrafo}$ inducido por los vertices de una clase de equivalencia, o 
+de forma equivalente a todo ${Subgrafo}$ ta que su ${subyacente}$ sea una componente conexa en $\bar{G}$
+
+

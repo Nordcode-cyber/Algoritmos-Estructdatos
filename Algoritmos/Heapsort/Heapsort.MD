@@ -10,17 +10,17 @@ El algoritmo Heapsort es un algoritmo de ordenamiento basado en la estructura de
 
 ###                                    Método de Intercambio del algoritmo Heapsort
 
-La fase de extracción de los elementos en orden tarda O(n log n) tiempo en el peor de los casos. La razón de esto se debe al hecho de que cada extracción de un elemento del montículo toma O(log n) tiempo en el peor de los casos. Esto se debe a que después de cada extracción, el montículo debe ser restaurado a un estado válido mediante una serie de intercambios y comparaciones de elementos. En el peor de los casos, esto implica descender por la altura completa del árbol binario completo que representa el montículo, lo que tiene una complejidad de O(log n).
+La fase de extracción de los elementos en orden tarda $O(n log n)$ tiempo en el peor de los casos. La razón de esto se debe al hecho de que cada extracción de un elemento del montículo toma $O(log n)$ tiempo en el peor de los casos. Esto se debe a que después de cada extracción, el montículo debe ser restaurado a un estado válido mediante una serie de intercambios y comparaciones de elementos. En el peor de los casos, esto implica descender por la altura completa del árbol binario completo que representa el montículo, lo que tiene una complejidad de $O(log n)$.
 
-En total, el tiempo de ejecución de Heapsort en el peor de los casos es O(n log n), ya que la fase de construcción del montículo y la fase de extracción de los elementos en orden tienen complejidades de O(n) y O(n log n), respectivamente. En resumen, el análisis logarítmico de Heapsort se basa en el hecho de que la extracción de cada elemento del montículo toma O(log n) tiempo en el peor de los casos debido a la altura del árbol binario completo que representa el montículo. Esto da lugar a una complejidad total de O(n log n) para el algoritmo en el peor de los casos.
+En total, el tiempo de ejecución de Heapsort en el peor de los casos es $O(n log n)$, ya que la fase de construcción del montículo y la fase de extracción de los elementos en orden tienen complejidades de $O(n)$ y $O(n log n)$, respectivamente. En resumen, el análisis logarítmico de Heapsort se basa en el hecho de que la extracción de cada elemento del montículo toma $O(log n)$ tiempo en el peor de los casos debido a la altura del árbol binario completo que representa el montículo. Esto da lugar a una complejidad total de O(n log n) para el algoritmo en el peor de los casos.
 
-###                    Notación asintótica complejidad temporal O(n log n) ?
+###                    Notación asintótica complejidad temporal $O(n log n)$ ?
 
-*O(n log n)*El algoritmo de ordenación por montículos es sencillo de implementar, realiza una ordenación in situ de O(n·lg(n)), pero no es estable.
+*$O(n log n)$*El algoritmo de ordenación por montículos es sencillo de implementar, realiza una ordenación in situ de O(n·lg(n)), pero no es estable.
 
-El primer bucle, la fase de "apilamiento" Θ(n), ordena el arreglo en forma de montón. El segundo bucle, la fase de "ordenación" O(n·lg(n)), extrae repetidamente el máximo y restablece el orden del montón.
+El primer bucle, la fase de "apilamiento" $Θ(n)$, ordena el arreglo en forma de montón. El segundo bucle, la fase de "ordenación" $O(n·lg(n))$, extrae repetidamente el máximo y restablece el orden del montón.
 
-La función sink se escribe de forma recursiva para mayor claridad. Por lo tanto, como se muestra, el código requiere un espacio de Θ(lg(n)) para la pila de llamadas recursivas. Sin embargo, la recursión de cola en sink() se puede convertir fácilmente en iteración, lo que da como resultado un límite de espacio de O(1).
+La función sink se escribe de forma recursiva para mayor claridad. Por lo tanto, como se muestra, el código requiere un espacio de $Θ(lg(n))$ para la pila de llamadas recursivas. Sin embargo, la recursión de cola en sink() se puede convertir fácilmente en iteración, lo que da como resultado un límite de espacio de $O(1)$.
 
 Ambas fases son ligeramente adaptativas, aunque no de una manera particularmente útil. En el caso de un orden casi perfecto, la fase de agrupamiento destruye el orden original. En el caso inverso, la fase de agrupamiento es lo más rápida posible, ya que el array comienza en orden de agrupamiento, pero luego la fase de ordenación es la típica. En el caso de pocas claves únicas, se observa cierta aceleración, pero no tanta como en el algoritmo de ordenación Shell o Quicksort de tres vías.
 
