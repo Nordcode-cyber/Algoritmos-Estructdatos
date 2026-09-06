@@ -59,6 +59,7 @@
 			"Algoritmos/Burblesort/src/main/java",
 			"Algoritmos/Atrapar/src/main/java",
 			""
-		]
+		],
+		"java.debug.settings.onBuildFailureProceed": true
 	}
 }

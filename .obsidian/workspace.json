@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Heap/Readme.md",
+                "file": "Estructura-de-datos/Grafos/Readme.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,14 +186,14 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
+    "Estructura-de-datos/Arboles/Readme.md",
+    "Estructura-de-datos/Heap/Readme.md",
     "Estructura-de-datos/Pilas/Readme.md",
     "Estructura-de-datos/Lista-Enlazada/Readme.md",
     "Estructura-de-datos/Grafos/Readme.md",
     "Recursividad/Readme.md",
-    "Estructura-de-datos/Heap/Readme.md",
     "Estructura-de-datos/Arboles/recorrido2.drawio.svg",
     "Estructura-de-datos/Arboles/Representacion.drawio.svg",
-    "Estructura-de-datos/Arboles/Readme.md",
     "Estructura-de-datos/Arboles/preorden.drawio.svg",
     "Estructura-de-datos/Arboles/postorden.drawio.svg",
     "Estructura-de-datos/Arboles/Equilibrio-Arbol-Binario.drawio.svg",

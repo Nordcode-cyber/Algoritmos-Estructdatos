@@ -6,6 +6,54 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Appreco",
+            "request": "launch",
+            "mainClass": "Appreco"
+        },
+        {
+            "type": "java",
+            "name": "Arbol",
+            "request": "launch",
+            "mainClass": "Arbol"
+        },
+        {
+            "type": "java",
+            "name": "Apppreorden",
+            "request": "launch",
+            "mainClass": "Apppreorden"
+        },
+        {
+            "type": "java",
+            "name": "Apppostorden",
+            "request": "launch",
+            "mainClass": "Apppostorden"
+        },
+        {
+            "type": "java",
+            "name": "Appenorden",
+            "request": "launch",
+            "mainClass": "Appenorden"
+        },
+        {
+            "type": "java",
+            "name": "AppArbol",
+            "request": "launch",
+            "mainClass": "AppArbol"
+        },
+        {
+            "type": "java",
+            "name": "Nodo12",
+            "request": "launch",
+            "mainClass": "Nodo12"
+        },
+        {
+            "type": "java",
+            "name": "Nodo12",
+            "request": "launch",
+            "mainClass": "main.java.Nodo12"
+        },
+        {
+            "type": "java",
             "name": "Figeo",
             "request": "launch",
             "mainClass": "Figeo"

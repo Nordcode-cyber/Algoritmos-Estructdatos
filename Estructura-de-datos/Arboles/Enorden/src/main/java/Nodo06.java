@@ -1,4 +1,4 @@
-//import main.java.Nodo;
+
 
 public class Nodo06 {
    int data;

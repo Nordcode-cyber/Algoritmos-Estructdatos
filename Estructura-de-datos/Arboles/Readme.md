@@ -1,10 +1,11 @@
 ##                Arboles, Arboles binarios y arboles generales
 
-1. Árbol Generales
-2. Árbol de Expresión
-3. Árbol Binario
-4. Árbol Binario de búsqueda
-5. Recorrido
+1. Árbol Generales.
+2. Árbol de Expresión.
+3. Árbol Binario.
+4. Recorridos Arbol Binario.
+4. Árbol Binario de búsqueda.
+
 
 El árbol es una estructura de datos muy importante en informática y en ciencias de la computación.
 Los árboles son estructuras no lineales, al contrario que los vectores y las listas enlazadas,
@@ -231,6 +232,13 @@ lineal con la altura del árbol similar al de la búsqueda:
 
 ###### Para un Árbol equilibrado: $0{(log2(N))}$
 ###### Para un Árbol degenerando: ${0(N)}$
+####                             Borrado de un ABB
+
+el dato esta en un ${nodo}$ que tiene 2 hijos, se substituye, el dato del ${nodo}$ a borrar, por su sucesor y despues,
+se elimina el ultimo ${nodo}$.
+El sucesor es el menor dato de todos aquellos que son mayores que el nodo a borrar.
+Para este caso en particular, es el menor dato del ${subarbol}$ derecho. El ${nodo} que lo contiene, no puede tener,
+hijo ${Izquierdo}$ poorque sino este seria aun menor
 
 ####                             Obtención del mínimo y máximo en un ABB
 
