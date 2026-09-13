@@ -121,12 +121,12 @@ derecho hD, entonces el factor de equilibrio del árbol B se determina por la si
 ###                                  Recorrido de un Arbol Binario
 ####                            Recorrido En Orden (IND)
 
-El recorrido en orden ${inorder}$ procesa primero el subárbol izquierdo, después el raíz y, a continuación,
+El recorrido en orden  procesa primero el subárbol izquierdo, después el raíz y, a continuación,
 el subárbol derecho. El significado de in es que la raíz se procesa entre los subárboles.
 Si el árbol no está vacío, el método implica los siguientes pasos:
-`1. Recorrer el subárbol izquierdo (I) en orden.`
-`2. Visitar el nodo raíz (N).`
-`3. Recorrer el subárbol derecho (D) en orden.`
+1. Recorrer el ${subárbol}$ izquierdo (I) en orden.
+2. Visitar el nodo ${raíz (N)}$.
+3. Recorrer el ${subárbol}$ derecho (D) en orden.
 El primer subárbol recorrido es el `subárbol izquierdo` del nodo raíz, siguiendo el orden ${IND}$,
 luego visita el nodo `Raiz`, y por ultimo el `subarbol derecho`
 
@@ -135,12 +135,12 @@ luego visita el nodo `Raiz`, y por ultimo el `subarbol derecho`
 El recorrido Preorden (NID) 
 conlleva los siguientes pasos, en los que el nodo raíz va antes que
 los subárboles:
-`1. Visitar el nodo raíz (N).`
-`2. Recorrer el subárbol izquierdo (I) en preorden.`
-`3. Recorrer el subárbol derecho (D) en preorden.`
+1. Visitar el nodo ${raíz (N).}$
+2. Recorrer el ${subárbol}$ izquierdo (I) en preorden.
+3. Recorrer el ${subárbol}$ derecho (D) en preorden.
 Dadas las características recursivas de los árboles, el algoritmo de recorrido tiene naturaleza recursiva. 
-Primero se procesa  ${R}$, a continuación, el `subárbol izquierdo` y, posteriormente,
-el `subárbol derecho`. Para procesar el subárbol izquierdo, se siguen los mismos pasos:
+Primero se procesa  ${R}$, a continuación, el ${subárbol}$ izquierdo y, posteriormente,
+el ${subárbol}$ derecho. Para procesar el subárbol izquierdo, se siguen los mismos pasos:
 `raíz, subárbol izquierdo y subárbol derecho` (proceso recursivo). Luego se hace lo mismo con
 el subárbol derecho.
 
@@ -151,9 +151,9 @@ El recorrido postorden (IDN) procesa el nodo raíz ${post}$ después de que los 
 y derecho se hayan procesado. Comienza situándose en la hoja más a la izquierda y se procesa. A
 continuación, se procesa su subárbol derecho. Por último, se procesa el nodo raíz. Las etapas del
 algoritmo, si el árbol no está vacío, son:
-`1. Recorrer el subárbol izquierdo (I) en postorden.`
-`2. Recorrer el subárbol derecho (D) en postorden.`
-`3. Visitar el nodo raíz (N).`
+1. Recorrer el ${subárbol}$ izquierdo (I) en postorden.
+2. Recorrer el ${subárbol}$ derecho (D) en postorden.
+3. Visitar el nodo ${raíz (N)}$.
 Se visita primero el subárbol izquierdo, siguiendo el orden IDN, luego subárbol derecho, y por ultimo,
 se visita ${N}$
 ####                           ${TAD}$ ${Arbol}$ ${Binario}$
