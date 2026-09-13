@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArbolApp",
+            "request": "launch",
+            "mainClass": "ArbolApp"
+        },
+        {
+            "type": "java",
+            "name": "Tree",
+            "request": "launch",
+            "mainClass": "Tree"
+        },
+        {
+            "type": "java",
+            "name": "ArbolAPP",
+            "request": "launch",
+            "mainClass": "main.java.ArbolAPP"
+        },
+        {
+            "type": "java",
+            "name": "Tree",
+            "request": "launch",
+            "mainClass": "main.java.Tree"
+        },
+        {
+            "type": "java",
             "name": "Appreco",
             "request": "launch",
             "mainClass": "Appreco"

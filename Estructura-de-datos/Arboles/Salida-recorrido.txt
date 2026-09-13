@@ -1,0 +1,20 @@
+ingrese inicial de las opciones show, insert, find, delete, or traverse: s
+......................................................
+                                50                                                              
+                25                              73                              
+        12              37              54              77              
+    10      18      30      43      52      56      76      80      
+......................................................
+ingrese inicial de las opciones show, insert, find, delete, or traverse: t
+Enter type 1[PreOrden], 2[EnOrden] or 3[PostOrden]: 1
+
+ Recorrido Preorden: 50 25 12 10 18 37 30 43 73 54 52 56 77 76 80 
+ingrese inicial de las opciones show, insert, find, delete, or traverse: t
+Enter type 1[PreOrden], 2[EnOrden] or 3[PostOrden]: 2
+
+ Recorrido Enorden: 10 12 18 25 30 37 43 50 52 54 56 73 76 77 80 
+ingrese inicial de las opciones show, insert, find, delete, or traverse: t
+Enter type 1[PreOrden], 2[EnOrden] or 3[PostOrden]: 3
+
+Recorrido Postorden: 10 18 12 30 43 37 25 52 56 54 76 80 77 73 50 
+ingrese inicial de las opciones show, insert, find, delete, or traverse: 
