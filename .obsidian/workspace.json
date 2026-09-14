@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Pilas/Readme.md",
+                "file": "Estructura-de-datos/Arboles/Readme.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,6 +186,7 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
+    "Estructura-de-datos/Pilas/Readme.md",
     "Estructura-de-datos/Pilas/Stack.drawio.svg",
     "Estructura-de-datos/Heap/Cola-prioridad.drawio.svg",
     "Estructura-de-datos/Arboles/recorrido2.drawio.svg",
@@ -196,13 +197,11 @@
     "Estructura-de-datos/Arboles/Readme.md",
     "Estructura-de-datos/Grafos/Readme.md",
     "Estructura-de-datos/Heap/Readme.md",
-    "Estructura-de-datos/Pilas/Readme.md",
     "Estructura-de-datos/Lista-Enlazada/Readme.md",
     "Recursividad/Readme.md",
     "Estructura-de-datos/Arboles/Representacion.drawio.svg",
     "Estructura-de-datos/Arboles/enorden.drawio.svg",
     "Estructura-de-datos/Arboles/Arbol-binario.drawio.svg",
-    "Estructura-de-datos/Arboles/Arbol-binario-busqueda.drawio.svg",
     "Algoritmos/Radisort/Radixsort.MD",
     "Algoritmos/Quicksort/Quicksort.MD",
     "Algoritmos/Mergesort/Mergesort.MD",
