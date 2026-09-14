@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Apriority",
+            "request": "launch",
+            "mainClass": "Apriority"
+        },
+        {
+            "type": "java",
+            "name": "Mergesort",
+            "request": "launch",
+            "mainClass": "Mergesort"
+        },
+        {
+            "type": "java",
+            "name": "Heapsort",
+            "request": "launch",
+            "mainClass": "Heapsort"
+        },
+        {
+            "type": "java",
+            "name": "Huffman",
+            "request": "launch",
+            "mainClass": "main.java.Huffman"
+        },
+        {
+            "type": "java",
             "name": "ArbolApp",
             "request": "launch",
             "mainClass": "ArbolApp"
