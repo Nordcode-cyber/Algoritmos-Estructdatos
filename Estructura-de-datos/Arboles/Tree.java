@@ -1,24 +1,23 @@
 import java.util.Stack;
 
 public class Tree {
-    private Nodo12 root; // first node of tree
-	// -------------------------------------------------------------
-	public Tree(){ // constructor
+    private Nodo12 root; // primer nodo del arbol
+	public Tree(){ // metodo constructor
 	 root = null;
 	 }
-	public Nodo12 find(int key){ // find node with given key
-     // (assumes non-empty tree)
-	Nodo12 current = root; // start at root
-	while(current.iData != key){ // while no match,
-	if(key < current.iData) // go left?
+	public Nodo12 find(int key){ // encontrar nodo con la clave dada
+     // (Arbol no vacio)
+	Nodo12 current = root; // iniciar la raiz
+	while(current.iData != key){
+	if(key < current.iData) // ir a la izquierda?
 	current = current.leftChild;
-	else // or go right?
+	else // o ir a la derecha?
 	current = current.rightChild;
-	if(current == null) // if no child,
-	return null; // didn’t find it
+	if(current == null) 
+	   return null; 
 	}
-	return current; // found it
-	} // end find()
+	return current; 
+	} // fin metodo find()
 	public void insert(int id, double dd){
 	Nodo12 newNode = new Nodo12(); // make new node
 	newNode.iData = id; // insert data
@@ -178,8 +177,7 @@ public class Tree {
 	System.out.print(localRoot.iData + " ");
 	}
 	}
-	public void displayTree()
-	{
+	public void displayTree(){
 	Stack globalStack = new Stack();
 	globalStack.push(root);
 	int nBlanks = 32;

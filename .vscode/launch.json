@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Matriz",
+            "request": "launch",
+            "mainClass": "Matriz"
+        },
+        {
+            "type": "java",
+            "name": "diagonal",
+            "request": "launch",
+            "mainClass": "diagonal"
+        },
+        {
+            "type": "java",
             "name": "Iterar",
             "request": "launch",
             "mainClass": "Iterar"

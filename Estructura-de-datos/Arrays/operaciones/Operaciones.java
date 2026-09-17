@@ -2,7 +2,7 @@ public class Operaciones {
     public static void main(String[] args) {
         int rest = 0;
         int division = 21;
-        int []arr = new int []{10,5,3,1};
+        int []arr = new int []{15,5,3,1};
         int sum = 0;
         int prod = 1;
         for (int i=1;i < arr.length;i++){
