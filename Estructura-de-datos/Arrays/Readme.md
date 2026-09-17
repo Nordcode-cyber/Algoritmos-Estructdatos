@@ -36,4 +36,3 @@ Se accede a los ${subíndice}$ del array, a traves de los ciclos ${For}$, ${For 
 ```//"C++","Java", "python"```
    ```}```
  ```}```
-![Representacion](/prueba.drawio.svg)

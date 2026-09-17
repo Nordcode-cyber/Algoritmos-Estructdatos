@@ -6,6 +6,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fibo",
+            "request": "launch",
+            "mainClass": "Fibo"
+        },
+        {
+            "type": "java",
+            "name": "Arrayshell",
+            "request": "launch",
+            "mainClass": "Arrayshell"
+        },
+        {
+            "type": "java",
+            "name": "QuicksortApp",
+            "request": "launch",
+            "mainClass": "QuicksortApp"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch"
+        },
+        {
+            "type": "java",
+            "name": "Subconjunto",
+            "request": "launch",
+            "mainClass": "Subconjunto"
+        },
+        {
+            "type": "java",
             "name": "Apriority",
             "request": "launch",
             "mainClass": "Apriority"
