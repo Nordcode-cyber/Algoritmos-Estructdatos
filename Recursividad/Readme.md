@@ -37,6 +37,11 @@ cerca de la condición ${n == 1}$.
 
 ###                         ALGORITMOS DIVIDE Y VENCERÁS
 
+1-[x] Dividimos el problema en subproblemas
+2-[x] Resolvemos cada subproblema recursivamente (*)
+3-[x] Combinamos las soluciones a cada subproblema. 
+
+
 Una de las técnicas más importantes para la resolución de muchos problemas de computadora
 es la denominada ${divide}$ ${y}$ ${vencerás}$. El diseño de ${algoritmo}$ basados en esta técnica
 consiste en transformar ${(dividir)}$ un problema de tamaño  ${n}$ en problemas más pequeños,
