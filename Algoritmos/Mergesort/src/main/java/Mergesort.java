@@ -6,7 +6,7 @@ public class Mergesort {
 		*/
 		int maxSize = 100; 
 		Darray arr; 		
-		arr = new Darray(maxSize); // creacion del vector
+		arr = new Darray(maxSize); 
 		for(int j=0; j<maxSize; j++) { 
 			long n = (int)(java.lang.Math.random()*99);//generar pseudoaleatoriamente numeros enteros
 			arr.agregar(n);
@@ -26,7 +26,7 @@ public class Mergesort {
 
 		//System.out.println("Array Desordenado: ");
 		//arr.mostrar(); // mostrar el vector
-		arr.mergeSort(); //vector arr[] ordenado con el algoritmo de Mergesort
+		arr.mergeSort(); 
 		System.out.println("Array Ordenado con el metodo Merge-sort: ");
 		arr.mostrar(); // mostrar el vector ordenado
 		long tiempoFin = System.nanoTime();
@@ -37,7 +37,7 @@ public class Mergesort {
         long tiempoInicio = 0;
 		long tiempoTranscurridoNano = tiempoFin - tiempoInicio;
 
-        // Convertir el tiempo de nanosegundos a milisegundos para mejor lectura (1 ms = 1,000,000 ns)
+       
         double tiempoTranscurridoMillis = (double) tiempoTranscurridoNano / 1_000_000.0;
 
         // Imprimir el resultado

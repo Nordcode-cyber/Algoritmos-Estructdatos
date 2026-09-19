@@ -13,7 +13,7 @@ public class Darray {
 	 * Métodos
 	 */
 	
-	public void agregar(long value){ //agregar elementos dentro del Array
+	public void agregar(long value){ 
 	  vector[nElementos] = value;
 	  nElementos++; // incrementar
 	}//fin metodo agregar
@@ -27,9 +27,7 @@ public class Darray {
 	long[] espacio = new long[nElementos];
 	recMergeSort(espacio, 0, nElementos-1);
 	}//fin metodo mergesort
-	/* Metodos Encapsulados
-	 * Con Acceso denegado en la clase Main()
-	 */
+	
          private void recMergeSort(long[] espacio, int Limite_inferior, int Limite_superior){
 	    if(Limite_inferior == Limite_superior) 
 		return;
@@ -51,9 +49,6 @@ public class Darray {
 	      else
 		 espacio[j++] = vector[pointer_alto++];
 	   }
-	    /*}fin while(pointer_bajo <= medio && pointer_alto <= Limite_superior)	
-	     *Ciclos while sin llaves porque tienen solo una instruccion
-	     */
 	   while(pointer_bajo <= medio)
 		espacio[j++] = vector[pointer_bajo++];
 	   while(pointer_alto <= Limite_superior)
