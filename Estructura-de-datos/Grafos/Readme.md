@@ -70,7 +70,7 @@ Los ${grafos}$ que modelan problemas en los que un arco tiene asociado una magni
  Es una matriz de unos y ceros, que indican si dos vértices son adyacentes o no.
 En un grafo valorado, cada elemento representa el peso de la arista, y por ello se la
 denomina matriz de pesos.
-Ver Matriz-adyacencia.SVG
+Ver Matriz-adyacencia.drawio.SVG
 ###                             Lista de adyacencia
 
 La representación de un ${Grafo}$ con matriz de ${adyacencia}$ no es eficiente cuando el grafo es poco denso `(disperso)`, 
@@ -80,6 +80,7 @@ Cuando esto ocurre, se elige la representación del ${grafo}$ con ${listas}$ ${e
 Las ${listas}$ de ${adyacencia}$ son una estructura multienlazada formada por una tabla directorio en la que cada elemento representa,
 un vértice del grafo, del cual emerge una lista enlazada con todos sus `vértices adyacentes`.
 Es decir, cada lista representa los arcos con el vértice origen del nodo de la lista directorio, por eso se llama lista de adyacencia.
+Ver Lista-adyencia.drawio.svg
 ###                                Función de adyacencia
 
 Sea ${G=(V,E)}$ , con ${|V|}$
@@ -141,5 +142,10 @@ Se dice que el vértice ${u}$ esta débilmente conectado al ${v}$ si ${u}$ y ${v
 La anterior relación binaria definida ${VxV}$ es una relación binaria de equivalencia en ${V}$.
 se llama componente  débilmente ${conexa}$ de ${G}$  a todo ${Subgrafo}$ inducido por los vertices de una clase de equivalencia, o 
 de forma equivalente a todo ${Subgrafo}$ ta que su ${subyacente}$ sea una componente conexa en $\bar{G}$
+#####                  Cortadura de vertices y aristas
+
+En una cortadura de vertices, se dice que un ${Grafo}$ ${G}$ no ${dirigido}$. Se dice que ${V_1 ⊂ V}$ es una cortadura de vertices,
+si ${G -V_1}$ es no conexo, i.e
+${Comp}$ ${G-V_1}$ >1
 
 
