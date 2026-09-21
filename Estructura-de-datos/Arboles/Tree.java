@@ -12,25 +12,24 @@ public class Tree {
 	if(key < current.iData) // ir a la izquierda?
 	current = current.leftChild;
 	else // o ir a la derecha?
-	current = current.rightChild;
+	current = current.rightChild; // actual.hijoDerecho
 	if(current == null) 
 	   return null; 
 	}
 	return current; 
-	} // fin metodo find()
+	} // fin metodo find(int key) 
 	public void insert(int id, double dd){
-	Nodo12 newNode = new Nodo12(); // make new node
-	newNode.iData = id; // insert data
+	Nodo12 newNode = new Nodo12(); 
+	newNode.iData = id; // ingresar dato
 	newNode.dData = dd;
-	if(root==null) // no node in root
+	if(root==null) 
 	root = newNode;
-	else {// root occupied
-	Nodo12 current = root; // start at root
+	else {// raiz ocupada
+	Nodo12 current = root; // actual = raiz
 	Nodo12 parent;
-	while(true) // (exits internally)
-	{
-	parent = current;
-	if(id < current.iData) // go left?
+	while(true)	{
+	 parent = current;
+	 if(id < current.iData) // go left?
 	{
 	current = current.leftChild;
 	if(current == null) // if end of the line,
@@ -46,17 +45,15 @@ public class Tree {
 		parent.rightChild = newNode;
 		return;
 		}
-	  } // end else go right
+	  } 
 	} // end while
-} // end else not root
+} 
 		} // end insert()
-	public boolean delete(int key){ // delete node with given key
-	// (assumes non-empty list)
+	public boolean delete(int key){ // borrar nodo con la clave dada
 	Nodo12 current = root;
 	Nodo12 parent = root;
 	boolean isLeftChild = true;
-	while(current.iData != key) // search for node
-	{
+	while(current.iData != key){
 	parent = current;
 	if(key < current.iData) // go left?
 	{
@@ -89,7 +86,7 @@ public class Tree {
 		parent.leftChild = current.leftChild;
 		else
 		parent.rightChild = current.leftChild;
-		// if no left child, replace with right subtree
+		
 		else if(current.leftChild==null)
 		if(current == root)
 		root = current.rightChild;
@@ -97,9 +94,8 @@ public class Tree {
 		parent.leftChild = current.rightChild;
 		else
 		parent.rightChild = current.rightChild;
-		else // two children, so replace with inorder successor
+		else 
 		{
-		// get successor of node to delete (current)
 		Nodo12 successor = getSuccessor(current);
 		// connect parent of current to successor instead
 		if(current == root)
