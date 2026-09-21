@@ -31,9 +31,9 @@ public class Mergerandom {
             temp[i] = arr[i];
         }
 
-        int i = izq;       // Índice para la mitad izquierda
-        int j = medio + 1; // Índice para la mitad derecha
-        int k = izq;       // Índice para escribir en el arreglo original
+        int i = izq;      
+        int j = medio + 1; 
+        int k = izq;       
 
         // Comparamos elementos de ambas mitades y los reubicamos en 'arr'
         while (i <= medio && j <= der) {

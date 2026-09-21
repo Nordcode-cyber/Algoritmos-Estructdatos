@@ -3,8 +3,6 @@ public class Knapsack {
      * Algoritmo de Knapsack
      * author Nordevelop
      * Valores almacenados en el Vector v[]
-     * Pesos almacenado Vector w[]
-     * Total numero de distintos elementos n de Vector v[]
      */
 
      public static int knapsack(int[] v, int[] w, int n, int W) {
@@ -27,13 +25,8 @@ public class Knapsack {
          */
 
         int exclude = knapsack(v, w, n - 1, W);
-
-        // dewvolver maximo valor return maximum valor
-        // cuando obtenemos al incluir o excluir el elemento actual
         return Integer.max(include, exclude);
     }
-
-    //fin metodo Knapsack 
   public static void main(String[] args) {
     // entrada: un conjunto de elementos, cada uno con un peso y un valor
         int[] v = { 20, 5, 10, 40, 15, 25 };
