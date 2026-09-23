@@ -35,7 +35,7 @@ la condición de parada ocurre cuando n es 1 o 0, ya que en ambos casos el facto
 el método factorial cada llamada supone un decrecimiento del entero n lo que supone estar más
 cerca de la condición ${n == 1}$.
 
-###                         ALGORITMOS DIVIDE Y VENCERÁS
+###                         ALGORITMOS DIVISION Y CONQUISTA
 
 1-[x] Dividimos el problema en subproblemas
 2-[x] Resolvemos cada subproblema recursivamente (*)

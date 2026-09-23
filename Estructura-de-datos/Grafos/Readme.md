@@ -120,6 +120,7 @@ Sea ${G =(V,E)}$  un ${grafo}$ no dirigido, conexo, ${card(V)=n >1}$
 (a) ${G}$ posee un ciclo o un vértice de grado 1.
 (b) Si la arista e, pertenece a un ciclo, entonces ${G-e}$ es también ${conexa}$.
 (c) ${card(E)}$ >=${card(V)}$-1. en un ${grafo}$ conexo ${no dirigido}$, siempre hay un numero mayor o igual de aristas que numero de vértices -1.
+Ver Conexion-grafo-nodir.svg
 
 ###                   Conexión en grafos  dirigidos
 #####                   Grafos fuertemente conexos
@@ -127,6 +128,7 @@ Sea ${G =(V,E)}$  un ${grafo}$  dirigido se dice que el vértice ${u}$ esta fuer
 La anterior relación binaria definida ${VxV}$ es una relación binaria de equivalencia en ${V}$.
 Se llama ${Componente fuertemente conexa }$ de ${G}$ a todo ${subgrafo}$ inducido por los ${vertices}$ de una clase de equivalencia.
 Se dice  que un ${Grafo}$ es fuertemente ${Conexo}$ si tiene un única componente ${conexa}$.
+Ver Conexion-grafo-dir.svg
 
 #####                   Equivalencia
 Una forma equivalente de definir ${grafo}$ fuertemente ${conexo}$ y componentes fuertemente conexas es la siguiente:
@@ -142,10 +144,19 @@ Se dice que el vértice ${u}$ esta débilmente conectado al ${v}$ si ${u}$ y ${v
 La anterior relación binaria definida ${VxV}$ es una relación binaria de equivalencia en ${V}$.
 se llama componente  débilmente ${conexa}$ de ${G}$  a todo ${Subgrafo}$ inducido por los vertices de una clase de equivalencia, o 
 de forma equivalente a todo ${Subgrafo}$ ta que su ${subyacente}$ sea una componente conexa en $\bar{G}$
-#####                  Cortadura de vertices y aristas
+####                  Puntos de Articulación y puentes
 
-En una cortadura de vertices, se dice que un ${Grafo}$ ${G}$ no ${dirigido}$. Se dice que ${V_1 ⊂ V}$ es una cortadura de vertices,
-si ${G -V_1}$ es no conexo, i.e
-${Comp}$ ${G-V_1}$ >1
+######                     Vertice de corte
+
+Sea ${G}$ un  ${Grafo}$  no ${dirigido}$. 
+Se dice que el ${vertice}$ v de ${G}$ es ${vertice}$ de corte si el numero de componentes conexas crece al eliminar el ${vertice}$ del ${grafo}$,ie si
+${comp(G-{v})>}$ ${comp(G)}$. ${Vertice}$ de corte tambien llamado punto de Articulación.
+
+######                     Arista de corte
+Sea ${G}$ un  ${Grafo}$  no ${dirigido}$. 
+Se dice que la ${arista}$ ${e}$ de ${G}$ es ${arista}$ de corte, si el numero de componentes conexas crece al eliminar la ${arista}$ del ${grafo}$,ie., si
+${comp(G-{e})>}$ ${comp(G)}$. ${Arista}$ de corte tambien llamado puente.
+
+
 
 

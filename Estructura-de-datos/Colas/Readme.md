@@ -1,4 +1,4 @@
-###                            INTRODUCCION
+###                            INTRODUCCIÓN
 En este capítulo se estudia el tipo abstracto de datos Cola, estructura muy utilizada en la vida
 cotidiana y también en la resolución de problemas en programación. Esta estructura, al igual que
 las pilas, almacena y recupera sus elementos atendiendo a un orden estricto. Las colas se conocen
