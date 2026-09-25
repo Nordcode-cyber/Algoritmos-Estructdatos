@@ -31,11 +31,11 @@ En este repositorio aprenderemos el maravilloso mundo del los algoritmos y estru
 -  *manipulacion de bits*.
 -  *Recursividad*.
 - *Complejidad temporal en algoritmos:*
-## 🛠️ Requisitos Previos del repositorio.
+## 🛠️ Requisitos Previos del repositorio
 Para ejecutar los ejemplos necesitas:
 - **JDK:** Versión 17 o superior.
 - **IDE / Editor:** IntelliJ IDEA, Eclipse, NetBeans o VS Code.
-## 🛠️ Requisitos Previos como programador.
+## 🛠️ Requisitos Previos como programador
 - **Programacion estructurada: ** C o similar.
    - Fundamentos de Programacion.
    - Expresiones.
@@ -47,6 +47,8 @@ Para ejecutar los ejemplos necesitas:
 
   
  
+
+##  📚Roadmap DSA
 
 ###                             Arrays (Vectores)
 
@@ -70,14 +72,16 @@ a[1],...,a[n-1]. Gráficamente, se representa así el array a con seis elementos
 Se accede a los ${subíndice}$ del array, a traves de los ciclos ${For}$, ${For each}$.
 
 ####                                           Arrays Multidimensionales
-Los arrays vistos anteriormente se conocen como arrays unidimensionales (una sola dimensión) y se caracterizan por tener un solo subíndice. Estos arrays se conocen también por el término listas. 
-Los arrays multidimensionales son aquellos que tienen más de una dimensión y, en consecuencia, más de un índice. Los más usuales son los de dos dimensiones, conocidos también por el nombre de tablas o matrices. Sin embargo, es posible crear arrays de tantas dimensiones como requieran sus aplicaciones, ya sean tres, cuatro o más. Un array de dos dimensiones (m × n) equivale a una tabla con múltiples filas y múltiples columnas. 
- pantalla = new char[80][24]; // matriz con 80 filas y 24 columnas puestos = new int[10][5]; 
- // matriz de 10 filas por 5 columnas final int N = 4; matriz = new double[N][N]; // matriz cuadrada de NN elementos*
+Los arrays vistos anteriormente se conocen como arrays unidimensionales (una sola dimensión) y se caracterizan por tener un solo subíndice. Estos arrays se conocen también por el término listas. Los arrays multidimensionales son aquellos que tienen más de una dimensión y, en consecuencia, más de un índice. Los más usuales son los de dos dimensiones, conocidos también por el nombre de tablas o matrices. Sin embargo, es posible crear arrays de tantas dimensiones como requieran sus aplicaciones, ya sean tres, cuatro o más. Un array de dos dimensiones (m × n) equivale a una tabla con múltiples filas y múltiples columnas. 
+ pantalla = new char[80][24]; // matriz con 80 filas y 24 columnas puestos = new int[10][5]; // matriz de 10 filas por 5 columnas final int N = 4; matriz = new double[N][N]; // matriz cuadrada de NN elementos*
 
 Clave
 Java requiere que cada dimensión esté encerrada entre corchetes.
 
 
 
-      
+
+```python
+
+```
+
