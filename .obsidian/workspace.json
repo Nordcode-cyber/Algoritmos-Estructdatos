@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/tabla-hash/hashtable.MD",
+                "file": "Estructura-de-datos/Arboles/Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hashtable"
+              "title": "Readme"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
+    "Estructura-de-datos/tabla-hash/hashtable.MD",
     "Estructura-de-datos/tabla-hash/hashtable.drawio.svg",
     "Estructura-de-datos/tabla-hash/hashfunction.drawio.svg",
     "Estructura-de-datos/tabla-hash/hash-function.MD",
@@ -210,7 +211,6 @@
     "Grafos.md",
     "Estructura-de-datos/Heap/Cola-prioridad.drawio.svg",
     "Estructura-de-datos/Arboles/preorden.drawio.svg",
-    "Estructura-de-datos/Arboles/postorden.drawio.svg",
     "Algoritmos/Radisort/Radixsort.MD",
     "Algoritmos/Quicksort/Quicksort.MD",
     "Algoritmos/Mergesort/Mergesort.MD",

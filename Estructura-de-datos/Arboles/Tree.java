@@ -130,8 +130,7 @@ public class Tree {
 	}
 	return successor;
 	}
-	public void traverse(int traverseType)
-	{
+	public void traverse(int traverseType){
 	switch(traverseType) {
 	case 1: System.out.print("\n Recorrido Preorden: ");
 	preOrder(root);
@@ -144,35 +143,29 @@ public class Tree {
 	break;
 	}
 	System.out.println();
-	}
-	private void preOrder(Nodo12 localRoot)
-	{
-	if(localRoot != null)
-	{
-	System.out.print(localRoot.iData + " ");
-	preOrder(localRoot.leftChild);
-	preOrder(localRoot.rightChild);
-	}
-	}
-	// -------------------------------------------------------------
-	private void inOrder(Nodo12 localRoot)
-	{
-	if(localRoot != null)
-	{
-	inOrder(localRoot.leftChild);
-	System.out.print(localRoot.iData + " ");
-	inOrder(localRoot.rightChild);
-	}
-	}
-	// -------------------------------------------------------------
+	}//end method traverse
+	private void preOrder(Nodo12 localRoot){
+	if(localRoot != null){
+	   System.out.print(localRoot.iData + " ");
+	   preOrder(localRoot.leftChild);
+	   preOrder(localRoot.rightChild);
+	 }
+	}//end of method preOrder
+	private void inOrder(Nodo12 localRoot){
+	if(localRoot != null){
+	   inOrder(localRoot.leftChild);
+	   System.out.print(localRoot.iData + " ");
+	   inOrder(localRoot.rightChild);
+	 }
+	}//end of method inOrder
+	
 	private void postOrder(Nodo12 localRoot){
-	if(localRoot != null)
-	{
+	if(localRoot != null)	{
 	postOrder(localRoot.leftChild);
 	postOrder(localRoot.rightChild);
 	System.out.print(localRoot.iData + " ");
 	}
-	}
+	}//end of method postOrder
 	public void displayTree(){
 	Stack globalStack = new Stack();
 	globalStack.push(root);
@@ -186,8 +179,7 @@ public class Tree {
 		isRowEmpty = true;
 		for(int j=0; j<nBlanks; j++)
 		System.out.print(" ");
-		while(globalStack.isEmpty()==false)
-		{
+		while(globalStack.isEmpty()==false){
 		Nodo12 temp = (Nodo12)globalStack.pop();
 		if(temp != null)
 		{
