@@ -6,6 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeAuxArr",
+            "request": "launch",
+            "mainClass": "MergeAuxArr"
+        },
+        {
+            "type": "java",
+            "name": "MergeAux",
+            "request": "launch",
+            "mainClass": "main.java.MergeAux"
+        },
+        {
+            "type": "java",
+            "name": "MergeArraux",
+            "request": "launch",
+            "mainClass": "main.java.MergeArraux"
+        },
+        {
+            "type": "java",
             "name": "Matriz",
             "request": "launch",
             "mainClass": "Matriz"

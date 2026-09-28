@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Arboles/Readme.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,6 +186,7 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
+    "Estructura-de-datos/Arboles/Readme.md",
     "Estructura-de-datos/tabla-hash/hashtable.MD",
     "Estructura-de-datos/tabla-hash/hashtable.drawio.svg",
     "Estructura-de-datos/tabla-hash/hashfunction.drawio.svg",
@@ -203,7 +204,6 @@
     "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Estructura-de-datos/Colas/Readme.md",
     "Estructura-de-datos/Arrays/Readme.md",
-    "Estructura-de-datos/Arboles/Readme.md",
     "Estructura-de-datos/Arboles/recorrido2.drawio.svg",
     "Estructura-de-datos/Arboles/Representacion.drawio.svg",
     "Nodos.MD",
