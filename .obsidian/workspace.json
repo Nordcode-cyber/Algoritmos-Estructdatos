@@ -11,14 +11,12 @@
             "id": "fce6516e19affbfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
+                "file": "Estructura-de-datos/Arboles/ArbolApp.drawio.svg"
               },
-              "icon": "lucide-file",
-              "title": "Readme"
+              "icon": "lucide-image",
+              "title": "ArbolApp.drawio"
             }
           }
         ]
@@ -186,7 +184,13 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
+    "Estructura-de-datos/Arboles/Equilibrio-Arbol-Binario.drawio.svg",
+    "Estructura-de-datos/Arboles/fig01c.jpg",
+    "Estructura-de-datos/Arboles/HUEMieFa4AAGbbb.jpg",
+    "Estructura-de-datos/Arboles/Representacion.drawio.svg",
+    "Estructura-de-datos/Arboles/recorrido2.drawio.svg",
     "Estructura-de-datos/Arboles/Readme.md",
+    "Readme.md",
     "Estructura-de-datos/tabla-hash/hashtable.MD",
     "Estructura-de-datos/tabla-hash/hashtable.drawio.svg",
     "Estructura-de-datos/tabla-hash/hashfunction.drawio.svg",
@@ -204,13 +208,9 @@
     "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Estructura-de-datos/Colas/Readme.md",
     "Estructura-de-datos/Arrays/Readme.md",
-    "Estructura-de-datos/Arboles/recorrido2.drawio.svg",
-    "Estructura-de-datos/Arboles/Representacion.drawio.svg",
     "Nodos.MD",
     "Recursividad/Readme.md",
     "Grafos.md",
-    "Estructura-de-datos/Heap/Cola-prioridad.drawio.svg",
-    "Estructura-de-datos/Arboles/preorden.drawio.svg",
     "Algoritmos/Radisort/Radixsort.MD",
     "Algoritmos/Quicksort/Quicksort.MD",
     "Algoritmos/Mergesort/Mergesort.MD",
@@ -220,8 +220,6 @@
     "Estructura-de-datos/Grafos/Floyd.MD",
     "Estructura-de-datos/Grafos/Dijkstra.MD",
     "Estructura-de-datos/Grafos/Subgrafo.MD",
-    "Estructura-de-datos/Grafos/Matriz-Adyacencia.MD",
-    "Estructura-de-datos/Grafos/Lista-adyacencia.MD",
     "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio",
     "Estructura-de-datos/Grafos/Grado",
     "demo/target/classes/mis/clases/Main.class",

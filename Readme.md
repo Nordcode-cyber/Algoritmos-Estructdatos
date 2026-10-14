@@ -31,18 +31,21 @@ En este repositorio aprenderemos el maravilloso mundo del los algoritmos y estru
 -  *manipulacion de bits*.
 -  *Recursividad*.
 - *Complejidad temporal en algoritmos:*
-## 🛠️ Requisitos Previos del repositorio
+## 🛠️ Desarrollo del Repositorio con VS Code
+- **Implementacion Java con JDK :** Versión 23.
+- **Teoria Algoritmos y Estructura de Datos:** Markdown files. + Extension Draw.io.
+## 🛠️ Requisitos Previos del repositorio.
 Para ejecutar los ejemplos necesitas:
-- **JDK:** Versión 17 o superior.
+- **JDK:** Versión 20 o superior.
 - **IDE / Editor:** IntelliJ IDEA, Eclipse, NetBeans o VS Code.
-## 🛠️ Requisitos Previos como programador
+## 🛠️ Requisitos Previos como programador.
 - **Programacion estructurada: ** C o similar.
    - Fundamentos de Programacion.
    - Expresiones.
    - Bucles, funciones.
    - Tipos de datos.
-   - Estuctura.
-   - Vectores (arrays)
+   - Estuctura de lenguajes.
+   - Vectores (arrays).
 
 
   
@@ -77,11 +80,4 @@ Los arrays vistos anteriormente se conocen como arrays unidimensionales (una sol
 
 Clave
 Java requiere que cada dimensión esté encerrada entre corchetes.
-
-
-
-
-```python
-
-```
 

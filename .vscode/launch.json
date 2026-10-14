@@ -6,6 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HeapApp",
+            "request": "launch",
+            "mainClass": "HeapApp"
+        },
+        {
+            "type": "java",
+            "name": "Heap",
+            "request": "launch",
+            "mainClass": "Heap"
+        },
+        {
+            "type": "java",
+            "name": "Nodo13",
+            "request": "launch",
+            "mainClass": "Nodo13"
+        },
+        {
+            "type": "java",
             "name": "MergeAuxArr",
             "request": "launch",
             "mainClass": "MergeAuxArr"
