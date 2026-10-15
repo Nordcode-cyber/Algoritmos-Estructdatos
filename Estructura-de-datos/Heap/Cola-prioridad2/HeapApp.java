@@ -6,13 +6,18 @@ import java.io.InputStreamReader;
 public class HeapApp {
     public static void main(String[] args)  throws IOException{
         int value, value2;
-        Heap theHeap = new Heap(31); // make a Heap; max size 31
+        Heap Heap = new Heap(31); // el monticulo con tamanio maximo de 31; max size 31
         boolean success;
-        theHeap.insert(70);
-        theHeap.insert(40);
-        theHeap.insert(80);
-        theHeap.insert(20);
-        theHeap.insert(60);
+        Heap.insert(70);
+        Heap.insert(40);
+        Heap.insert(50);
+        Heap.insert(20);
+        Heap.insert(60);
+        Heap.insert(100);
+        Heap.insert(80);
+        Heap.insert(30);
+        Heap.insert(10);
+        Heap.insert(90);
        
         while(true){ // until [Ctrl]-[C]
         System.out.print("Enter first letter of");
@@ -20,18 +25,18 @@ public class HeapApp {
 int choice = getChar();
 switch(choice){
 case 's': // show
-theHeap.displayHeap();
+Heap.displayHeap();
 break;
 case 'i': // insert
 System.out.print("Enter value to insert:");
 value = getInt();
-success = theHeap.insert(value);
+success = Heap.insert(value);
 if( !success )
 System.out.println("Cant insert; heap full");
 break;
 case 'r': // remove
-if( !theHeap.isEmpty() )
-theHeap.remove();
+if( !Heap.isEmpty() )
+Heap.remove();
 else
 System.out.println("Can’t remove; heap empty");
 break;
@@ -40,7 +45,7 @@ System.out.print("Enter current index of item:");
 value = getInt();
 System.out.print("Enter new key:");
 value2 = getInt();
-success = theHeap.change(value, value2);
+success = Heap.change(value, value2);
 if( !success )
 System.out.println("Invalid index");
 break;
