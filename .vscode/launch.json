@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "radixsort",
+            "request": "launch",
+            "mainClass": "radixsort"
+        },
+        {
+            "type": "java",
             "name": "HeapApp",
             "request": "launch",
             "mainClass": "HeapApp"
