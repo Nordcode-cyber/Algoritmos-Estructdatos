@@ -6,6 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Knapsack",
+            "request": "launch",
+            "mainClass": "Knapsack"
+        },
+        {
+            "type": "java",
+            "name": "Digito",
+            "request": "launch",
+            "mainClass": "Digito"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "main.java.Main"
+        },
+        {
+            "type": "java",
             "name": "SortedApp",
             "request": "launch",
             "mainClass": "SortedApp"

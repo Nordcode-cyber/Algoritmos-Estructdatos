@@ -2,7 +2,7 @@ public class Knapsack {
      /*
      * Algoritmo de Knapsack
      * author Nordevelop
-     * Valores almacenados en el Vector v[]
+     * Valores almacenados en los Vectores v[] w[]
      */
 
      public static int knapsack(int[] v, int[] w, int n, int W) {

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Grafos/TAD-Grafo.MD",
+                "file": "Estructura-de-datos/Grafos/Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TAD-Grafo"
+              "title": "Readme"
             }
           }
         ]
@@ -186,7 +186,10 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
+    "Estructura-de-datos/Arboles/Readme.md",
+    "Estructura-de-datos/Grafos/Readme.md",
     "Estructura-de-datos/Grafos/Recorrido.MD",
+    "Estructura-de-datos/Grafos/TAD-Grafo.MD",
     "Nodos.MD",
     "Estructura-de-datos/Grafos/Lista-adyacencia.drawio.svg",
     "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
@@ -201,15 +204,12 @@
     "Estructura-de-datos/Grafos/Conexion-grafo-dir.drawio.svg",
     "Estructura-de-datos/Grafos/Ciclo.drawio.svg",
     "Estructura-de-datos/Arboles/Equilibrio-Arbol-Binario.drawio.svg",
-    "Estructura-de-datos/Arboles/Readme.md",
     "Readme.md",
     "Estructura-de-datos/tabla-hash/hashtable.MD",
     "Estructura-de-datos/tabla-hash/hash-function.MD",
     "Estructura-de-datos/Pilas/Readme.md",
     "Estructura-de-datos/Lista-Enlazada/Readme.md",
     "Estructura-de-datos/Heap/Readme.md",
-    "Estructura-de-datos/Grafos/Readme.md",
-    "Estructura-de-datos/Grafos/TAD-Grafo.MD",
     "Estructura-de-datos/Colas/Readme.md",
     "Estructura-de-datos/Arrays/Readme.md",
     "Recursividad/Readme.md",
