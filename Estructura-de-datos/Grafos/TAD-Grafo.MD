@@ -16,6 +16,7 @@
 | borraArco(u, v)     | Elimina del grafo el arco (u, v)                                             |
 | adyacente(u, v)     | operación que devuelve true si los vértices u,v forman un arco.              |
 | nuevoVertice(u)     | Agrega el vértice u al grafo G                                               |
+| borrarVertice(u)    | Elimina el vertice u del grafo G.
 
 
 

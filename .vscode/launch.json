@@ -6,6 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortedApp",
+            "request": "launch",
+            "mainClass": "SortedApp"
+        },
+        {
+            "type": "java",
+            "name": "ListApp",
+            "request": "launch",
+            "mainClass": "ListApp"
+        },
+        {
+            "type": "java",
+            "name": "ColaApp",
+            "request": "launch",
+            "mainClass": "ColaApp"
+        },
+        {
+            "type": "java",
             "name": "radixsort",
             "request": "launch",
             "mainClass": "radixsort"

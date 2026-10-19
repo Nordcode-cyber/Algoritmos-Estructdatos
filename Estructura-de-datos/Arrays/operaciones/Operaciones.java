@@ -1,16 +1,17 @@
 public class Operaciones {
     public static void main(String[] args) {
-        int rest = 0;
-        int division = 21;
-        int []arr = new int []{15,5,3,1};
+        int rest = 30;
+        int division = 240;
+        int []arr = new int []{8,5,3,1};
         int sum = 0;
         int prod = 1;
-        for (int i=1;i < arr.length;i++){
+        for (int i=0;i < arr.length;i++){
           sum = sum + arr[i];
           prod = prod * arr[i];
           rest = rest -arr[i];
           division= division / arr[i];
         }
+        System.out.println("los elementos del vector son: ");
         for(int n:arr) //for each
           System.out.println(n);
         System.out.println("La suma de los elementos del Array arr: " + sum);
