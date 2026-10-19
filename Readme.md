@@ -2,7 +2,7 @@
 
 En este repositorio aprenderemos el maravilloso mundo del los algoritmos y estructura de datos, conoceremos diferentes  algoritmos, estructuras de datos, recorremos su complejidad, y la implementación en el lenguaje Java.
 
-[![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-20%2B-orange.svg)](https://www.oracle.com/java/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ### 1. Estructuras de Datos (`/Estructura-de-datos`)
