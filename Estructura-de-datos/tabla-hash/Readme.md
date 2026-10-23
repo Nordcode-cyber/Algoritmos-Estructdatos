@@ -1,4 +1,4 @@
-###                               Introducción a las tablas de 
+###                               Introducción a las tablas de Hash
 
 Las tablas de datos permiten el acceso directo a un elemento de una secuencia indicando la posición que ocupa. 
 Un diccionario es también una secuencia de elementos, pero éstos son, realmente, pares formados, por ejemplo, 
