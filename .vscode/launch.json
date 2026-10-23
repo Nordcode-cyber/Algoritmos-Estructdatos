@@ -6,6 +6,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HashTableApp",
+            "request": "launch",
+            "mainClass": "HashTableApp"
+        },
+        {
+            "type": "java",
+            "name": "DataItem",
+            "request": "launch",
+            "mainClass": "DataItem"
+        },
+        {
+            "type": "java",
+            "name": "HashTable",
+            "request": "launch",
+            "mainClass": "HashTable"
+        },
+        {
+            "type": "java",
+            "name": "Burblesort",
+            "request": "launch",
+            "mainClass": "Burblesort"
+        },
+        {
+            "type": "java",
             "name": "Knapsack",
             "request": "launch",
             "mainClass": "Knapsack"

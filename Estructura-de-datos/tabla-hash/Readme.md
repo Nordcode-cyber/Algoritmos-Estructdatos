@@ -65,8 +65,7 @@ hash, se pueden especificar las operaciones del tipo Tabla dispersa:
 ```retira de la tabla el elemento con clave x, T[h(x)] ← LIBRE```
 
 La ventaja de utilizar tablas de dispersión radica en la eficiencia de estas operaciones. Si la función ${hash}$ es de complejidad constante, 
-la complejidad de cada una de las tres operaciones también es constante, ${0(1)}$. Un problema potencial de la función de dispersión es el de las,
-colisiones, esto es dadas dos claves distintas ${xi, xj}$ se obtenga la misma dirección o índice: ${h(xi)}$ = ${h(xj)}$. 
+la complejidad de cada una de las tres operaciones también es constante, ${0(1)}$. Un problema potencial de la función de dispersión es el de las, colisiones, esto es dadas dos claves distintas ${xi, xj}$ se obtenga la misma dirección o índice: ${h(xi)}$ = ${h(xj)}$. 
 La operación de insertar tiene que incorporar el proceso de resolución de colisiones, no pueden estar dos elementos en la misma posición. 
 De igual forma, los procesos de búsqueda y eliminación también quedan afectados por la resolución de colisiones.
 Las tablas dispersas se diseñan considerando el problema de las colisiones. Siempre se reservan mas posiciones de memoria, m, que elementos previstos a almacenar, n. 
@@ -93,3 +92,27 @@ Es necesario valorar el hecho de que la función ${hash}$, h(x), no genere valor
 ${hash}$ implica dos hechos: la elección de funciones ${hash}$ y resolución de colisiones.
 Existe un número considerable de funciones ${hash}$. Dos criterios deben considerarse a la hora de seleccionar una función. En primer lugar, que la función, ${h(x)}$, sea fácil de evaluar (lo que dependerá del campo clave) y que su tiempo de ejecución sea mínimo, de ${complejidad}$ constante, ${O(1)}$. En segundo lugar, ${h(x)}$ debe distribuir uniformemente las direcciones sobre el conjunto${L}$ (direcciones de memoria), de forma que se minimice el número de colisiones. Nunca existirá una garantía plena de que no haya colisiones, y más sin conocer de antemano las claves y las direcciones. La experiencia enseña que siempre habrá que preparar la resolución de colisiones para cuando éstas se produzcan.
 Algunas de las funciones hash de cálculo más fácil y rápido se exponen en las secciones siguientes. Para todas ellas se sigue el criterio de considerar x una clave cualquiera, m el tamaño de la tabla y, por tanto, los índices de la tabla varían de 0 a m-1; y, por último, el número de elementos es ${n}$.
+
+###                                Aritmetica modular
+
+Una ${función}$ de ${dispersión}$ que utiliza la aritmética modular genera valores dispersos calculando
+el resto de la división entera entre la clave x y el tamaño de la tabla m.
+```h(x)= x modulo m```
+Normalmente, la clave asociada con un elemento es de tipo entero. A veces, los valores de la clave no son enteros; entonces, previamente, 
+hay que transformar la clave a un valor entero. Por ejemplo, si la clave es una cadena de caracteres, se puede transformar considerando el valor
+ASCII de cada carácter como si fuera un dígito entero de base 128.
+La operación resto(módulo) genera un numero entre 0 y m-1 cuando el segundo operando es m. Por tanto, esta función de dispersión proporciona valores enteros dentro del rango,
+ 0 ... m-1.
+Con el fin de que esta función disperse lo más uniformemente posible, es necesario tener ciertas precauciones con la elección del tamaño de la tabla, ${m}$. Así, no es recomendable escoger el valor de ${m}$ múltiplo de 2 ni tampoco de 10. Si m = 2 j, entonces la distribución de ${h(x)}$ se basa únicamente en los ${j}$ dígitos menos significativos; y si m = 10 
+${j}, ocurre lo mismo. En estos casos, la distribución de las claves se basa sólo en una parte, los j dígitos menos significativos, de la información que suministra la clave, y esto sesgará la dispersión hacia ciertos valores o índices de la tabla. Si, por ejemplo, el tamaño elegido para la tabla es m = 100 (10 2 ), entonces
+h(128) = h(228) = h(628) = 28. Las elecciones recomendadas del tamaño de la tabla, ${m}$, son números primos mayores, aunque cercano al número de elementos, ${n}$ , que tiene previsto que almacene la tabla.
+
+#####                                Ejemplo
+Considerar una aplicación en la que se deben almacenar n = 900 registros. El campo ${clave}$ elegido es el número de identificación. Elegir el tamaño de la tabla de dispersión y calcular la  posición que ocupan los elementos cuyo número de identificación es:
+```245643 245981 257135```
+Una buena elección de ${m}$, en este supuesto, es 997 al ser un número primo próximo y tener como factor de carga (n/m) aproximadamente 0.8 cuando se hayan guardado todos los elementos.Teniendo en cuenta el valor de ${m}$, se aplica la función hash de aritmética modular y se obtienen
+estas direcciones:
+```h(245643) = 245643 modulo 997 = 381```
+```h(245981) = 245981 modulo 997 = 719```
+```h(257135) = 257135 modulo 997 = 906```
+
