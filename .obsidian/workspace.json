@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/tabla-hash/Readme.md",
+                "file": "Estructura-de-datos/Readme.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,6 +186,7 @@
   },
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
+    "Estructura-de-datos/tabla-hash/Readme.md",
     "Estructura-de-datos/tabla-hash/Colision.drawio.svg",
     "Estructura-de-datos/tabla-hash/hashfunction.drawio.svg",
     "Estructura-de-datos/tabla-hash/hashtable.drawio.svg",
@@ -204,7 +205,6 @@
     "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
     "Estructura-de-datos/Grafos/Dijkstra.MD",
     "Estructura-de-datos/Grafos/Conexion-grafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Conexion-grafo-dir.drawio.svg",
     "Readme.md",
     "Estructura-de-datos/tabla-hash/hashtable.MD",
     "Estructura-de-datos/tabla-hash/hash-function.MD",

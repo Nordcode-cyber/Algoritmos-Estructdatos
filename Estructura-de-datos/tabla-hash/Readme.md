@@ -103,8 +103,8 @@ hay que transformar la clave a un valor entero. Por ejemplo, si la clave es una 
 ASCII de cada carácter como si fuera un dígito entero de base 128.
 La operación resto(módulo) genera un numero entre 0 y m-1 cuando el segundo operando es m. Por tanto, esta función de dispersión proporciona valores enteros dentro del rango,
  0 ... m-1.
-Con el fin de que esta función disperse lo más uniformemente posible, es necesario tener ciertas precauciones con la elección del tamaño de la tabla, ${m}$. Así, no es recomendable escoger el valor de ${m}$ múltiplo de 2 ni tampoco de 10. Si m = 2 j, entonces la distribución de ${h(x)}$ se basa únicamente en los ${j}$ dígitos menos significativos; y si m = 10 
-${j}, ocurre lo mismo. En estos casos, la distribución de las claves se basa sólo en una parte, los j dígitos menos significativos, de la información que suministra la clave, y esto sesgará la dispersión hacia ciertos valores o índices de la tabla. Si, por ejemplo, el tamaño elegido para la tabla es m = 100 (10 2 ), entonces
+Con el fin de que esta función disperse lo más uniformemente posible, es necesario tener ciertas precauciones con la elección del tamaño de la tabla, ${m}$. Así, no es recomendable escoger el valor de ${m}$ múltiplo de 2 ni tampoco de 10. Si m = 2 j, entonces la distribución de ${h(x)}$ se basa únicamente en los ${j}$ dígitos menos significativos; 
+y si m = 10 ${j}$, ocurre lo mismo. En estos casos, la distribución de las claves se basa sólo en una parte, los j dígitos menos significativos, de la información que suministra la clave, y esto sesgará la dispersión hacia ciertos valores o índices de la tabla. Si, por ejemplo, el tamaño elegido para la tabla es m = 100 (10 2 ), entonces
 h(128) = h(228) = h(628) = 28. Las elecciones recomendadas del tamaño de la tabla, ${m}$, son números primos mayores, aunque cercano al número de elementos, ${n}$ , que tiene previsto que almacene la tabla.
 
 #####                                Ejemplo

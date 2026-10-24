@@ -20,8 +20,7 @@ HashTable theHashTable = new HashTable(size);
 for(int j=0; j<n; j++)
  // insert data
 {
-aKey = (int)(java.lang.Math.random() *
-keysPerCell * size);
+aKey = (int)(java.lang.Math.random() * keysPerCell * size);
 aDataItem = new DataItem(aKey);
 theHashTable.insert(aDataItem);
 }

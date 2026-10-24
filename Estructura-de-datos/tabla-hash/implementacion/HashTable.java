@@ -1,6 +1,5 @@
 public class HashTable {
 private DataItem[] hashArray;
- // array holds hash table
 private int arraySize;
 private DataItem nonItem;
 public HashTable(int size){
@@ -10,7 +9,7 @@ nonItem = new DataItem(-1);
  // deleted item key is -1
 }
 public void displayTable(){
-System.out.print("Tabla");
+System.out.print("Tabla: ");
 for(int j=0; j<arraySize; j++){
 if(hashArray[j] != null)
 System.out.print(hashArray[j].getKey() + " ");
@@ -40,7 +39,6 @@ hashVal %= arraySize;
 hashArray[hashVal] = item;
  // insert item
 } // end insert()
-// -------------------------------------------------------------
 public DataItem delete(int key){ // delete a DataItem
 int hashVal = hashFunc(key); // hash the key
 while(hashArray[hashVal] != null) {
@@ -60,10 +58,7 @@ hashVal %= arraySize;
 return null;
  // can’t find item
 } // end delete()
-// -------------------------------------------------------------
 public DataItem find(int key){
- // find item with key
-
 int hashVal = hashFunc(key); // hash the key
 while(hashArray[hashVal] != null){
  // found the key?
@@ -76,9 +71,9 @@ hashVal %= arraySize;
  // wraparound if necessary
 }
 return null;
- // can’t find item
+
   }
 
-} // end class HashTable
+} 
     
 
