@@ -24,7 +24,7 @@ Así, se dirá que un algoritmo determinado emplea un tiempo O(n) que se lee "O 
 | Complejidad   | Nombre             | Calificación              | Que pasa si n crece                                |
 | ------------- | ------------------ | ------------------------- | -------------------------------------------------- |
 | $O(1)$.       | Constante          | la mas deseada            | el tiempo no cambia                                |
-| $${0(log n)}$ | Logaritmica        | muy buena                 | el tiempo crece de forma extremadamente lenta      |
+| ${0(log n)}$ | Logaritmica        | muy buena                 | el tiempo crece de forma extremadamente lenta      |
 | ${0(n)}$      | Lineal             | aceptable                 | el tiempo crece en proporsion directa a los datos  |
 | $O(n log n)$  | Lineal-Logarítmica | El límite de lo eficiente | mejor  para ordenar datos en MergeSort y QuickSort |
 | $O(n^2)$      | Cuadrática         | Mala                      | el tiempo se dispara (bucles anidados)             |

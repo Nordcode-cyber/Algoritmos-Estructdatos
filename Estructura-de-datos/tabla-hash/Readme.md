@@ -1,4 +1,4 @@
-###                               Introducción a las tablas de Hash
+### Introducción a las tablas de Hash
 
 Las tablas de datos permiten el acceso directo a un elemento de una secuencia indicando la posición que ocupa. 
 Un diccionario es también una secuencia de elementos, pero éstos son, realmente, pares formados, por ejemplo, 
@@ -12,7 +12,7 @@ permiten obtener direcciones según unan clave, que es el argumento de la funci�
 Existen diversas funciones ${hash}$ y cómo resolver el problema de obtener una misma dirección con dos o más claves, 
 lo que se conoce como colisión.
 
-###                               Tabla de Dispersión
+### Tabla de Dispersión
 
 Las tablas de dispersión o, simplemente tablas ${hash}$, son estructuras de datos que se usan en aplicaciones que manejan, 
 una secuencia de elementos, de tal forma que cada elemento tiene asociado un valor clave, que es un número entero positivo,
@@ -22,13 +22,13 @@ un campo clave para organizar la información relativa al alumnado de una univer
 El número de matrícula es único, hay una relación biunívoca, uno a uno, entre el campo y el registro alumno. 
 Puede suponerse que no existen, simultáneamente, dos registros con el mismo número de matrícula.
 
-#####                             Diccionario
+##### Diccionario
 
-Un diccionario es un tipo abstracto de dato en el que los elementos tienen asociada una clave unica en el conjunto de los numeros,
-enteros positivos de tal forma que para cualquier par de elementos distintos, sus claves tambien son distintas.
+Un diccionario es un tipo abstracto de dato en el que los elementos tienen asociada una clave única en el conjunto de los números,
+enteros positivos de tal forma que para cualquier par de elementos distintos, sus claves también son distintas.
 Con las tablas de dispersion se implementa el tipo abstracto de datos diccionario.
 
-###                             Definicion de una tabla de dispersión
+### Definición de una tabla de dispersión
 
 Las tablas de dispersión son estructuras de datos que tienen como finalidad realizar las operaciones fundamentales de búsqueda y 
 eliminación de un registro en un tiempo de ejecución constante complejidad ${O(1)}$. La organización ideal de una tabla es de tal,
@@ -46,7 +46,7 @@ Se puede concluir que el primer problema que plantea esta organización: ¿cómo
 Las funciones de transformación de claves, funciones ${hash}$, permiten que el rango posible de índices esté en proporción al número real de registros.
 Las funciones que transforman números grandes en otros más pequeños se conocen como funciones de dispersión o funciones ${hash}$.
 
-###                             Operaciones de tablas de dispersión
+### Operaciones de tablas de dispersión
 
 Las tablas dispersas implementan eficientemente los tipos de datos denominados Diccionarios. Un diccionario asocia una clave con un valor, por ejemplo, 
 el diccionario de inglés asocia una palabra con la traducción en inglés. La operación búsqueda de una palabra se realiza frecuentemente;
@@ -73,7 +73,7 @@ Cuantas más posiciones haya, menor es el riesgo de colisiones, pero mas huecos 
 El parámetro que mide la proporción entre el número de elementos almacenados, n, en una tabla dispersa y el tamaño de la tabla, m, 
 se denomina factor de carga, λ = n/m. Se recomienda elegir m de tal forma que el factor de carga sea ${λ}$ ${≤}$ 0.8.
 
-###                               Funciones de dispersión
+### Funciones de dispersión
 
 Una función de dispersión convierte el dato considerado campo clave (tipo entero o cadena de caracteres) en un índice dentro del rango de definición, 
 del array o vector que almacena los elementos, de tal forma que sea adecuado para indexar el array.
@@ -93,10 +93,9 @@ ${hash}$ implica dos hechos: la elección de funciones ${hash}$ y resolución de
 Existe un número considerable de funciones ${hash}$. Dos criterios deben considerarse a la hora de seleccionar una función. En primer lugar, que la función, ${h(x)}$, sea fácil de evaluar (lo que dependerá del campo clave) y que su tiempo de ejecución sea mínimo, de ${complejidad}$ constante, ${O(1)}$. En segundo lugar, ${h(x)}$ debe distribuir uniformemente las direcciones sobre el conjunto${L}$ (direcciones de memoria), de forma que se minimice el número de colisiones. Nunca existirá una garantía plena de que no haya colisiones, y más sin conocer de antemano las claves y las direcciones. La experiencia enseña que siempre habrá que preparar la resolución de colisiones para cuando éstas se produzcan.
 Algunas de las funciones hash de cálculo más fácil y rápido se exponen en las secciones siguientes. Para todas ellas se sigue el criterio de considerar x una clave cualquiera, m el tamaño de la tabla y, por tanto, los índices de la tabla varían de 0 a m-1; y, por último, el número de elementos es ${n}$.
 
-###                                Aritmetica modular
+### Aritmética modular
 
-Una ${función}$ de ${dispersión}$ que utiliza la aritmética modular genera valores dispersos calculando
-el resto de la división entera entre la clave x y el tamaño de la tabla m.
+Una ${función}$ de ${dispersión}$ que utiliza la aritmética modular genera valores dispersos calculando el resto de la división entera entre la clave x y el tamaño de la tabla m.
 ```h(x)= x modulo m```
 Normalmente, la clave asociada con un elemento es de tipo entero. A veces, los valores de la clave no son enteros; entonces, previamente, 
 hay que transformar la clave a un valor entero. Por ejemplo, si la clave es una cadena de caracteres, se puede transformar considerando el valor
@@ -107,7 +106,8 @@ Con el fin de que esta función disperse lo más uniformemente posible, es neces
 y si m = 10 ${j}$, ocurre lo mismo. En estos casos, la distribución de las claves se basa sólo en una parte, los j dígitos menos significativos, de la información que suministra la clave, y esto sesgará la dispersión hacia ciertos valores o índices de la tabla. Si, por ejemplo, el tamaño elegido para la tabla es m = 100 (10 2 ), entonces
 h(128) = h(228) = h(628) = 28. Las elecciones recomendadas del tamaño de la tabla, ${m}$, son números primos mayores, aunque cercano al número de elementos, ${n}$ , que tiene previsto que almacene la tabla.
 
-#####                                Ejemplo
+##### Ejemplo
+
 Considerar una aplicación en la que se deben almacenar n = 900 registros. El campo ${clave}$ elegido es el número de identificación. Elegir el tamaño de la tabla de dispersión y calcular la  posición que ocupan los elementos cuyo número de identificación es:
 ```245643 245981 257135```
 Una buena elección de ${m}$, en este supuesto, es 997 al ser un número primo próximo y tener como factor de carga (n/m) aproximadamente 0.8 cuando se hayan guardado todos los elementos.Teniendo en cuenta el valor de ${m}$, se aplica la función hash de aritmética modular y se obtienen
@@ -115,4 +115,3 @@ estas direcciones:
 ```h(245643) = 245643 modulo 997 = 381```
 ```h(245981) = 245981 modulo 997 = 719```
 ```h(257135) = 257135 modulo 997 = 906```
-
