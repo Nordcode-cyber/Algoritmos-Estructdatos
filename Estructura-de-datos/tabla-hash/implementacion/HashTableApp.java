@@ -19,6 +19,10 @@ System.out.print("Ingrese cantidad nicial de claves: ");
 n = getInt();
 keysPerCell = 10;
 // make table
+/*Tabla: 14 15 16 17 18 19 **
+ * tamaño 7
+ * el tamaño debe ser numero primo
+*/
 HashTable theHashTable = new HashTable(size);
 for(int j=0; j<n; j++){
     System.out.println("ingrese un numero entero : ");

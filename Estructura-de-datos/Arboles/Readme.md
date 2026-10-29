@@ -256,5 +256,15 @@ Permite realizar las principales operaciones,(insertar, buscar y eliminar) en ti
 Para tener un `ABB` equilibrado la elección de la ${Raiz}$ es fundamental.
 Elemento mediano en la ${Raiz}$ de cada ${Subarbol}$.
 
+###                          Eficiencia de la busqueda en un arbol ordenado 
+
+La eficiencia de una búsqueda en un árbol binario ordenado varía entre O(n) y O(log(n)), de-pendiendo de la estructura que presente el árbol.
+Si los elementos se añaden en el árbol mediante el algoritmo de inserción expuesto en el capítulo anterior, la estructura resultante del árbol,
+dependerá del orden en que sean añadidos. Así, si todos los elementos se insertan en orden creciente o decreciente, el árbol tendrá todas la 
+ramas izquierda o derecha, respectivamente, vacías. En este caso, la búsqueda en dicho árbol será  totalmente secuencial.
+
+###                          ARBOL BINARIO EQUILIBRADO, ÁRBOLES AVL
+Un árbol totalmente equilibrado se caracteriza porque la altura de la rama izquierda es igual  que la altura de la rama derecha para cada uno de, 
+los nodos del árbol. Es un árbol ideal, pero no siempre se puede conseguir que el árbol esté totalmente balanceado.
 
 
