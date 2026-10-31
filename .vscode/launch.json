@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ApiListApp",
+            "request": "launch",
+            "mainClass": "ApiListApp"
+        },
+        {
+            "type": "java",
             "name": "Colacomp",
             "request": "launch",
             "mainClass": "Colacomp"

@@ -13,7 +13,7 @@ public class HeapApp {
         Heap.insert(50);
         Heap.insert(20);
         Heap.insert(60);
-        Heap.insert(100);
+        Heap.insert(16);
         Heap.insert(80);
         Heap.insert(30);
         Heap.insert(10);

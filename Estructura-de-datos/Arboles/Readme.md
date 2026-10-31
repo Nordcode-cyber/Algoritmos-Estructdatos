@@ -7,17 +7,13 @@
 4. Árbol Binario de búsqueda.
 
 
-El árbol es una estructura de datos muy importante en informática y en ciencias de la computación.
-Los árboles son estructuras no lineales, al contrario que los vectores y las listas enlazadas,
-que constituyen estructuras lineales.
-Los árboles se utilizan para representar fórmulas algebraicas, para organizar objetos en orden
-de tal forma que las búsquedas sean muy eficientes y en aplicaciones diversas tales como
-inteligencia artificial o algoritmos de cifrado. Casi todos los sistemas operativos almacenan sus
-archivos en árboles o estructuras similares a árboles. Además de las aplicaciones citadas, los
-árboles se utilizan en diseño de compiladores, procesado de texto y algoritmos de búsqueda.
-En este capítulo se estudiarán el concepto de árbol general y los tipos de árboles más usuales,
-binario y binario de búsqueda o árbol ordenado. También se estudiarán algunas aplicaciones
-típicas del diseño y la construcción de árboles.
+Un Árbol consiste en un nodo (${r}$, denominado ${nodo}$ raiz) y una lista o conjunto de subárboles ${(A1, A2 , .. Ak)}$.
+Si el orden de los subárboles importa, entonces forman una lista,y se denomina ${árbol}$ ordenado (por defecto un árbol se supone,
+que es ordenado). En caso contrario los subárboles forman un conjunto, y se denomina árbol no ordenado.
+Se definen como ${nodos}$ hijos de ${r}$ a los ${nodos}$ raices de los ${subárboles}$ ${A1 , A2 , .. Ak}$.
+Si ${b}$ es un nodo hijo de ${a}$ entonces ${a}$ es el ${nodo}$ padre de ${b}$. 
+Un ${nodo}$ puede tener cero o más hijos, y uno o níngun padre. El único ${nodo}$ que no tiene padre es el ${nodo}$ raíz del ${árbol}$.
+Un nodo sin hijos se denomina ${nodo}$ hoja o externo. En caso contrario se denomina nodo interno.
 
 #####             Arboles de profundidades diferentes
 
@@ -27,28 +23,8 @@ sus descendientes. El primer nodo de un subárbol se conoce como el nodo raíz d
 utiliza para nombrar el subárbol. Además, los subárboles se pueden subdividir en subárboles.
 #####                  Resumen de definiciones
 
-El primer nodo de un árbol, normalmente dibujado en la posición superior, se denomina
-raíz del árbol.
-Las flechas que conectan un nodo con otro se llaman arcos o ramas.
-Los nodos terminales, esto es, nodos de los cuales no se deduce ningún nodo, se denominan
-hojas.
-Los nodos que no son hojas se denominan nodos internos.
-En un árbol donde una rama va de un nodo ${n1}$ a un nodo ${n2}$, se dice que ${n1}$ es el padre de
-${n2}$ y que ${n2}$ es un hijo de ${n1}$.
-${n1}$ se llama ascendiente de ${n2}$ si ${n1}$ es el padre de ${n2}$ o si ${n1}$ es el padre de un ascendiente de ${n2}$.
-${n2}$ se llama descendiente de ${n1}$ si ${n1}$ es un ascendiente de ${n2}$.
-Un camino de ${n1}$ a ${n2}$ es una secuencia de arcos contiguos que van de  ${n1}$ a ${n2}$.
-La longitud de un camino es el número de arcos que contiene o, de forma equivalente, el
-número de nodos del camino menos uno.
-El nivel de un nodo es la longitud del camino que lo conecta al nodo raíz.
-La profundidad o altura de un árbol es la longitud del camino más largo que conecta el
-raíz a una hoja. Un subárbol de un árbol es un subconjunto de nodos del árbol, conectados por ramas del
-propio árbol, esto es, a su vez un árbol.
-Sea S un subárbol de un árbol A: si para cada nodo n de SA, SA contiene también todos los
-descendientes de n en A, SA se llama un subárbol completo de A.
-Un árbol está equilibrado cuando, dado un número máximo ${k}$ de hijos de cada nodo y
-la altura del árbol ${h}$, cada nodo de nivel ${k < h-1}$ tiene exactamente ${k}$ hijos. El árbol está
-equilibrado perfectamente, si cada nodo de nivel ${l<h}$ tiene exactamente ${k}$ hijos.
+
+
 
 #####                 Representación de lista
 
@@ -118,7 +94,14 @@ El factor de equilibrio de un árbol binario es la diferencia en altura entre lo
 subárboles derecho e izquierdo. Si la altura del subárbol izquierdo es hI y la altura del subárbol
 derecho hD, entonces el factor de equilibrio del árbol B se determina por la siguiente fórmula:
 .*` B = hD - hI `*
-###                                  Recorrido de un Arbol Binario
+###                                  Recorrido de un Árbol Binario
+Expresiones matemáticas.
+${Preorden}$  -> Notación prefija: * 1 ^ 342
+${Postorden}$ -> Notacion postfija 134 ^ 2 + *
+${Inorden}$   -> Notacion habitual 1 * ((3 ^4) + 2)
+Se recorre el ${arbol}$ en ${postorden}$: Si es un operando, se inserta en la ${pila}.
+Si es un operador: Se extraen dos operandos Se aplica el operador
+Se inserta en pila el resultado Al final, la pila debe contener un único valor, el resultado.
 ####                            Recorrido En Orden (IND)
 
 El recorrido en orden  procesa primero el subárbol izquierdo, después el raíz y, a continuación,

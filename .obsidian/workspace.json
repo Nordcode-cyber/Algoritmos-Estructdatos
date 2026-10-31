@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Readme.md",
+                "file": "Estructura-de-datos/Arboles/Readme.md",
                 "mode": "source",
                 "source": false
               },
@@ -187,11 +187,13 @@
   "active": "fce6516e19affbfc",
   "lastOpenFiles": [
     "Estructura-de-datos/tabla-hash/Readme.md",
+    "Estructura-de-datos/Arboles/postorden.drawio.svg",
+    "Estructura-de-datos/Arboles/Readme.md",
+    "Estructura-de-datos/Readme.md",
     "Estructura-de-datos/tabla-hash/Colision.drawio.svg",
     "Estructura-de-datos/tabla-hash/hashfunction.drawio.svg",
     "Estructura-de-datos/tabla-hash/hashtable.drawio.svg",
     "Estructura-de-datos/Grafos/Readme.md",
-    "Estructura-de-datos/Arboles/Readme.md",
     "Estructura-de-datos/Grafos/Recorrido.MD",
     "Estructura-de-datos/Grafos/TAD-Grafo.MD",
     "Nodos.MD",
@@ -204,7 +206,6 @@
     "Estructura-de-datos/Grafos/Ejercicio-grafosdir.drawio.svg",
     "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
     "Estructura-de-datos/Grafos/Dijkstra.MD",
-    "Estructura-de-datos/Grafos/Conexion-grafo-nodir.drawio.svg",
     "Readme.md",
     "Estructura-de-datos/tabla-hash/hashtable.MD",
     "Estructura-de-datos/tabla-hash/hash-function.MD",
@@ -220,8 +221,6 @@
     "Algoritmos/Mergesort/Mergesort.MD",
     "Algoritmos/Heapsort/Heapsort.MD",
     "Estructura-de-datos/Grafos/Grado.MD",
-    "Estructura-de-datos/Grafos/Funcion-Adyacencia.MD",
-    "Estructura-de-datos/Grafos/Subgrafo.MD",
     "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio",
     "Estructura-de-datos/Grafos/Grado",
     "demo/target/classes/mis/clases/Main.class",
