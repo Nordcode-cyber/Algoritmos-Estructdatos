@@ -17,7 +17,7 @@ los pares de ${E}$ son ordenados, se llaman ${Arcos}$, y se representan con punt
 ##### ${(Vi, Vj)}$ es incidente de Vi, Vj
 ##### Si ${Vi=Vj}$, ${(Vi,Vj)}$ se llama: ${Bucle}$
  Un ${grafo}$ sin `bucle` se llama ${simple}$
-####  `Grafos  dirigidos ` ,
+####  Grafos  dirigidos ,
 #### ${Vi}$ es extremo inicial de ${Vi,Vj}$
 #### ${Vj}$ es extremo  final  de ${Vi,Vj}$
 ##### Si ${Vi=Vj}$, ${(Vi,Vj)}$ se llama: ${bucle}$
