@@ -217,11 +217,11 @@ lineal con la altura del árbol similar al de la búsqueda:
 ###### Para un Árbol degenerando: ${0(N)}$
 ####                             Borrado de un ABB
 
-el dato esta en un ${nodo}$ que tiene 2 hijos, se substituye, el dato del ${nodo}$ a borrar, por su sucesor y despues,
+el dato esta en un ${nodo}$ que tiene 2 hijos, se substituye, el dato del ${nodo}$ a borrar, por su sucesor y después,
 se elimina el ultimo ${nodo}$.
 El sucesor es el menor dato de todos aquellos que son mayores que el nodo a borrar.
 Para este caso en particular, es el menor dato del ${subarbol}$ derecho. El ${nodo} que lo contiene, no puede tener,
-hijo ${Izquierdo}$ poorque sino este seria aun menor
+hijo ${Izquierdo}$ porque sino este seria aun menor
 
 ####                             Obtención del mínimo y máximo en un ABB
 
@@ -239,7 +239,7 @@ Permite realizar las principales operaciones,(insertar, buscar y eliminar) en ti
 Para tener un `ABB` equilibrado la elección de la ${Raiz}$ es fundamental.
 Elemento mediano en la ${Raiz}$ de cada ${Subarbol}$.
 
-###                          Eficiencia de la busqueda en un arbol ordenado 
+###                          Eficiencia de la búsqueda en un árbol ordenado 
 
 La eficiencia de una búsqueda en un árbol binario ordenado varía entre O(n) y O(log(n)), de-pendiendo de la estructura que presente el árbol.
 Si los elementos se añaden en el árbol mediante el algoritmo de inserción expuesto en el capítulo anterior, la estructura resultante del árbol,

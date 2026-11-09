@@ -46,6 +46,16 @@ Se puede concluir que el primer problema que plantea esta organización: ¿cómo
 Las funciones de transformación de claves, funciones ${hash}$, permiten que el rango posible de índices esté en proporción al número real de registros.
 Las funciones que transforman números grandes en otros más pequeños se conocen como funciones de dispersión o funciones ${hash}$.
 
+### Notación Utilizada en tablas de hash
+
+${𝕌}$ : *Espacio de claves*. Representa todos los valores posibles del tipo de datos que representa a las ${claves}$. Usaremos el símbolo ${k}$ para representar una clave. 
+El simbolo ${u}$ es el tamaño de ${𝕌}$ , el número de posibles valores de clave.
+${𝔻}$: *Espacio de datos*. Es el ${subconjunto}$ de ${𝕌}$ que representa las ${claves}$ que se van a almacenar. ${n}$ es el tamaño de ${𝔻}$, el número de claves almacenadas.
+${m}$ : *Capacidad de la tabla de dispersión*. El objetivo es que sea proporcional a ${n}$, no a ${u}$. Es decir ${m}$ $x \in A$ ${O(n)}$.
+${h'(k)}$ *funcion de dispersion primaria*. Traduce (y posiblemente comprime) un valor de ${clave}$ a una secuencia de ${bits}$ que se interpreta como un número natural.
+${h(k, m)}$ *funcion de dispersion secundaria*. Traduce y comprime un valor de ${clave}$ a un entero en el rango ${[0..m-1]}$
+${i=h(k,m)}$ *es el indice de la tabla correspondiente a la clave ${k}$.*
+
 ### Operaciones de tablas de dispersión
 
 Las tablas dispersas implementan eficientemente los tipos de datos denominados Diccionarios. Un diccionario asocia una clave con un valor, por ejemplo, 
@@ -93,7 +103,7 @@ ${hash}$ implica dos hechos: la elección de funciones ${hash}$ y resolución de
 Existe un número considerable de funciones ${hash}$. Dos criterios deben considerarse a la hora de seleccionar una función. En primer lugar, que la función, ${h(x)}$, sea fácil de evaluar (lo que dependerá del campo clave) y que su tiempo de ejecución sea mínimo, de ${complejidad}$ constante, ${O(1)}$. En segundo lugar, ${h(x)}$ debe distribuir uniformemente las direcciones sobre el conjunto${L}$ (direcciones de memoria), de forma que se minimice el número de colisiones. Nunca existirá una garantía plena de que no haya colisiones, y más sin conocer de antemano las claves y las direcciones. La experiencia enseña que siempre habrá que preparar la resolución de colisiones para cuando éstas se produzcan.
 Algunas de las funciones hash de cálculo más fácil y rápido se exponen en las secciones siguientes. Para todas ellas se sigue el criterio de considerar x una clave cualquiera, m el tamaño de la tabla y, por tanto, los índices de la tabla varían de 0 a m-1; y, por último, el número de elementos es ${n}$.
 
-### Aritmética modular
+###                                          Aritmética modular
 
 Una ${función}$ de ${dispersión}$ que utiliza la aritmética modular genera valores dispersos calculando el resto de la división entera entre la clave x y el tamaño de la tabla m.
 ```h(x)= x modulo m```

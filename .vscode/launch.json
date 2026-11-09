@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mergerandom",
+            "request": "launch",
+            "mainClass": "Mergerandom",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "ApiListApp",
             "request": "launch",
             "mainClass": "ApiListApp"
