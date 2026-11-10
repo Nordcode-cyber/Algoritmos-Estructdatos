@@ -60,6 +60,7 @@
 			"Algoritmos/Atrapar/src/main/java",
 			""
 		],
-		"java.debug.settings.onBuildFailureProceed": true
+		"java.debug.settings.onBuildFailureProceed": true,
+		"hediet.vscode-drawio.svgAppearance": "dark"
 	}
 }
