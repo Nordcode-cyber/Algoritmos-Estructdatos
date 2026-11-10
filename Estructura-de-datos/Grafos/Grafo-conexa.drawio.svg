@@ -1,165 +1,261 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent; color-scheme: light dark;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="611px" height="454px" viewBox="-0.5 -0.5 611 454" content="&lt;mxfile&gt;&lt;diagram id=&quot;Hy4O90ZWIDr-C5NHXWEJ&quot; name=&quot;Página-1&quot;&gt;7VtLc+I4EP41VM0ckrJlDORICJPdw0B2yNQkRwULUK1sOX5MYH/9SpZly0LMGDAm7OYQbLXenz61uuVOxxn56/sIhquv1EOkAyxv3XHuOgD0By775YKNEIB+TwiWEfaEyC4FM/wPyoVWLk2xh+JKwYRSkuCwKpzTIEDzpCKDUUTfqsUWlFR7DeESbQlmc0i2pT+wl6yEdAD6pfwPhJcr2bPduxE5PpSF85nEK+jRN0XkjDvOKKI0EW/+eoQIx07iIup92ZFbDCxCQVKnAhAVfkKS5nPrgB5hVW9XNh9essnn3HtN+ZhufRgtcXCV0LDjDFkJK2SLelvms7clf7KFX1CxBGgNY9kqGwlvWJSRwlAXLCgbval3nnEVZ3zgndvOrt6/Db9MWYHRdDJ+mrLC34OMTGJM9+yP0ScfHJfEWKAG2SPDA0UJnosyKSSvKUZZnodE9RF7rOCG/aa84Tn0ccDbYahHvAgDmcbXyqTFjKqzZOKtmTcPxWj69YGhMHkczyQgw5moM8NyAhIZMQkVGj7TOI2z35esWJzxeI19th3KklkJPnVCoA8zUKgfsqwgQQUN9kMEVOYNErTOeJn4hAls9vq2wgmahXDOS7wxTcNklC3dgmRbaoU9DwVMFtE08BBnvFU0rG6RfNfwRUdrRZRvmXtEfZREfLXzXEcqolx/3eTJt1IZOINctlIVQT8XwlwBLYumyz3KXvJtat6yjmHLalCxCkwVoh0QKQjCOBT6cYHXHKDbBSZkRAmNmMxDC5iSci228DGguBMy4FYhM2FmmyBrADH3MhEbVBFznPYQ610kYvq2bJNj/ctEzDkfxwYXiRjoaoj12kPspgZigTfkBi5LBezIraLErZPNU34MZolnnrh2ZfJurWbebSonJvK2jOKtIzRh1iFKFB2yjaOCk2vAScoiRGCCf1Z7NIGX9/BAcWYoFcR2NWK71SZimkZzlNdSDWStoa62Q4r1lw2JKW81lK1lMe1ayyspcvj6rnHyVK4oSz0rOeXi8sRGXeknlSDPauJoRgicK+ewShLnrCQZ7Dgv3jNJpLF6LElshSJWPYpU1cZJKOK8Nz1yiRQxOfVHU6TQKXuRpMGz5TeapP9Bkz1pUseR3N+c+N3RURxStY+owygy2KaIe06KgF51ZbvWgRTRvRzHPR1FujUo0oiNnrOr04CBDqqWH+jnadVAByYLHTRgotut3TU0h1hXY2abTqDdmt/cIF7dHcq+Dbxa85obxEs/HAct4lXHZ35neLmWth9Be3jJrlq/YzCZBb92SzoHmQW2wXQUm+rDdqxvGICjvdCDfErzBcdJaNL/oEkDNGnKE63vLBzmlDSoS/4jfijQziD9cGmQJEf7oaajo+51ReXa81TXFdIK+dAmRxHlAr3Rrv5J0vS5SHqsVW/U3b2mta25C/RGe1qggNM1+O+nsn5b++59Orza9EZrffVu3gysr4RVhXveDwk9V/sgqd/a1VW4bq89hXuBlw3uja5wDerDNilcuwmFe4HXDX39+s9qT4FI4+Gi8ALnZJhj8rz3DBW1d4SKyoZepGA8exyzCjKadsJ/yjBSnnqYfvvrOy/z+Od4wp/dLNcUclrGeL4Y4j6r4aAaBbZDPyHBy4C9z3l8KVvfWxGxC8kwz/Cx55FdpDEFhB5n5mlWcNewhwrTz3S6HEUJk5d9YPSwNRf7hQsJH+aVB6O/P0XLl0+WCAaWj8/iyXMAP9sqeZ/r8WsyfRyKvsZFFDIPJPZwhJfYK4OKV/CFFPHXZcMybHmR8sXz1VhjqnZvbTpaPLKhBhSDD2n0miLZcYizLoWEZAMSwd78TUZ7K9HiMcpin4sJXP+/aG+42f+lUbUH7Vmy/LcIYcyU/1vijP8F&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: #FFFFFF; background-color: light-dark(#FFFFFF, #121212); color-scheme: dark;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="612px" height="454px" viewBox="0 0 612 454" id="ge-svg-of0EYPyDr8coV-zRBME_" content="&lt;mxfile&gt;&lt;diagram id=&quot;Hy4O90ZWIDr-C5NHXWEJ&quot; name=&quot;Página-1&quot;&gt;7VtbV+I6FP41rDU+6OqFAj4iomceRpzBWUcfAw2QNWmDvWg5v/7k2jYtSKm1Iyx12TY7yU7z5cvOTrrt2CMvuQ3AevWDuBB3LMNNOvZ1x7Iu+5f0ygQbIegbfSFYBsgVIjMTTNF/UAoNKY2RC0OtYEQIjtBaF86J78N5pMlAEJBXvdiCYL3VNVjCkmA6B7gs/Re50UpIB1Y/k/8D0XKlWjZ7ssMzMP+zDEjsy/YwK3TuguDPt45l3/CfjjWiz6bFfs9ENQ+oNiQA4Qq45DUnsscdexQQEoknLxlBzCBXcIp6Nzty0/4E0I+qVLDKFaSOMNoolCKY0LyrVeRhKjDp4+sKRXC6BnNW4pVSg8rICwwWmHdmhVwX+lTGEYKsLYOmhOIXgGOpuGP1MNdsag32nmPW/ysPBEvkn0eEqh/SEsY64VpUPn1asjvl5oIIlsAEhEor7TVTLMoo4booWBDa8W2ts4zzkFOWNW7au1r/NbyZ0AKjyd34cUIL//Y538U73dI/ynD5ckwSIgE4oDeOBwwiNBdlYoCfYwR5ngtFdUoiYwU29BozxXPgIZ/poQMWsCJ0QEl4keu06JHeSyou9bx5KEaTH/cUhbuH8VQBMpyKOlOkOqCQEZ3IQ8N6GsYhv854sZDPmQR5dMZmJXkJ1nWMgQc4KMRb0yw/gikNDkNEDQRMcpNATplbSDwYBWwEVnlj0Jdz+DWzHPZAyqQaWxk6aR8vZRJIu7VMVWdzlD7Iabp9ytpVpiytQm0o3DFVczMZhGthWBcoYRP1aoEwHhFMAipz4QLEOIdQfurWgayMmKkDZjk6YI0g5pw0YgMdMdtuALHeKSNWnJSNcKx/0ojZH8CxwSkjZnULiPUaQEz6ntAtObVvQui7Q+Yq05RPV0YdNuZEbB6lf8YTTyxx4ajkdZLPvN5orlxEHTQYaSajAO3bOCpjH0AMIvSi9yoHrvMGeLKFe4K485Iy1ikw1tFVhCQO5lDWyjvIBUXdAvXTgVWKBAYlRXws025XGl5FoUrjy19fW94qD3mCosdskGnqKZeTjTdLbPKD/5jnzFM+UZkk9uciyWDPQvAZSWLWI4ldjyRmjiJGNYroluTY7cgxUsRq1Y5oFEltykEkqbHc9L9o8l6a2PVoMjiQJluHfN/SkS5SlZeoMkWcT0URq6ePbNeoSZHi9sUuvkuDFOnuZkTTPrpkztYxO9xBV+ereQ9dydSAWLqLaPWd3WNa1UU3WzxraBaxvVuaboHAjWwCzRb3zW3j1d2zJtTCq8Vdc9t4FdfQQRN4XZ4sXo5RmI9WA3gpHYc6BeahzmNNR3CbX/D2vqRT8gvUHPokjsEx+o5WzV2oMvfvpElVkmgnHF80aZ8mNXeiB1uTg3cL9XYlW0hyqvtQq7C4mB9Hkpr7ULW0v4cklc8rtHPPOucVX9bk/UQ53t2oUxqyVKZwLH6UbOKDUZtfvlv2fnuFQAG728Duvc3v3n8Zr0Z2o+oUtoUvkgcb3E/2IaHnFD5IFlVUNbhOrz2De7SHDeYWg2vqBte5LBrcJgzI6R439IvHf8Xz61qxbMax4lWBYX3rAxhmV7Kw5YhdgNHSp89zFiRJ4bgSYacAD2WGh1wX78K4Yhxv5QBSc0cAqVI0U4Lx9GFMK6gY2zt2yYJLWep+8uvnb1bm4fv4jt27PHdbIGoW+TnbEg2qB4nW4IRTnkOpF7fDWy59BKpFCesUKKFiio25mK9MmIuqD5azb4YIEVa3M3FnORZbXbW8s2r8ups8DEVb4zQ2mYUXuyhAS+RmocYrMMNpVHamWAUzL2LGFS8fgUzyzRubTiFKeUsNIF5+TYLnGKqG14g3KSSYv5AIAWdPKgY8F0MeQh4RnXbg4m/Q3tlD+xpH+zSZ/VuEcGayf0mxx/8D&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <style type="text/css">
+        @supports (color: light-dark(#000, #fff)) { #ge-svg-of0EYPyDr8coV-zRBME_ { --ge-adaptive-bg: light-dark(#ffffff, var(--ge-dark-color, #121212)); --ge-adaptive-fg: light-dark(#000000, var(--ge-light-color, #ffffff)); } }
+    </style>
     <defs/>
+    <rect fill="#FFFFFF" width="100%" height="100%" x="0" y="0" style="fill: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));"/>
     <g>
-        <g>
-            <rect x="85" y="0" width="380" height="170" fill="none" stroke="none" pointer-events="all"/>
-        </g>
-        <g>
-            <g transform="translate(-0.5 -0.5)">
-                <switch>
-                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 378px; height: 1px; padding-top: 7px; margin-left: 87px;">
-                            <div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 166px; overflow: hidden; color: #000000; ">
-                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                    <h1 style="margin-top: 0px;">
+        <g data-cell-id="0">
+            <g data-cell-id="1">
+                <g data-cell-id="2">
+                    <g>
+                        <rect x="85" y="0" width="380" height="170" fill="none" stroke="none" pointer-events="all"/>
+                    </g>
+                    <g>
+                        <g>
+                            <switch>
+                                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 378px; height: 1px; padding-top: 7px; margin-left: 87px;">
+                                        <div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 166px; overflow: hidden; color: #000000; ">
+                                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                <h1 style="margin-top: 0px;">
+                                                    Grafo conexas
+                                                </h1>
+                                                <p>
+                                                    <span style="font-size: 13px;">
+                                                        GRAFO CONEXO:Un grafo G es conexo si para 2 vertices cualquiera de G, hay un camino entre ellos.
+                                                    </span>
+                                                </p>
+                                                <p>
+                                                    <span style="font-size: 13px;">
+                                                        COMPONENTES CONEXAS: Si un grafo no es conexo, sus subgrafos maximales conexos se llaman componente conexa.
+                                                    </span>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </foreignObject>
+                                <text x="87" y="19" fill="#000000" font-family="Helvetica" font-size="12px" style="fill: var(--ge-adaptive-fg, #000000);">
+                                    <tspan x="87" y="19">
                                         Grafo conexas
-                                    </h1>
-                                    <p>
-                                        <font style="font-size: 13px;">
-                                            GRAFO CONEXO:Un grafo G es conexo si para 2 vertices cualquiera de G, hay un camino entre ellos.
-                                        </font>
-                                    </p>
-                                    <p>
-                                        <font style="font-size: 13px;">
-                                            COMPONENTES CONEXAS: Si un grafo no es conexo, sus subgrafos maximales conexos se llaman componente conexa.
-                                        </font>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </foreignObject>
-                    <text x="87" y="19" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px">
-                        Grafo conexas...
-                    </text>
-                </switch>
-            </g>
-        </g>
-        <g>
-            <ellipse cx="30" cy="205" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="60" cy="245" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="90" cy="205" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="110" cy="245" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="20" cy="275" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <path d="M 110 245 L 85 205" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <path d="M 60 250 L 33.54 208.54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <path d="M 33.54 201.46 L 86.46 201.46" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <path d="M 65 245 L 105 245" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <path d="M 16.46 278.54 L 56.46 248.54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="60" cy="245" rx="60" ry="60" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="240" cy="245" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="220" cy="205" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="260" cy="195" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="280" cy="235" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <path d="M 236.46 241.46 L 255 195" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <path d="M 220 200 L 256.46 191.46" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <path d="M 236.46 248.54 L 216.46 208.54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <path d="M 275 235 L 265 195" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="247.5" cy="232.5" rx="62.5" ry="62.5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="430" cy="260" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="430" cy="205" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <path d="M 430 260 L 426.46 201.46" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="422.5" cy="232.5" rx="57.5" ry="57.5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="540" cy="215" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <ellipse cx="552.5" cy="232.5" rx="57.5" ry="57.5" fill="none" stroke="#000000" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
-        </g>
-        <g>
-            <rect x="205" y="310" width="260" height="50" fill="none" stroke="none" pointer-events="all"/>
-        </g>
-        <g>
-            <g transform="translate(-0.5 -0.5)">
-                <switch>
-                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 258px; height: 1px; padding-top: 335px; margin-left: 206px;">
-                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
-                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                    <font style="font-size: 11px;">
-                                        <b>
-                                            ESTE GRAFO NO ES CONEXO PORQUE TIENE 4 COMPONENTES CONEXAS
-                                        </b>
-                                    </font>
-                                </div>
-                            </div>
-                        </div>
-                    </foreignObject>
-                    <text x="335" y="339" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
-                        ESTE GRAFO NO ES CONEXO PORQUE TIENE 4 COMP...
-                    </text>
-                </switch>
-            </g>
-        </g>
-        <g>
-            <rect x="205" y="390" width="250" height="50" fill="none" stroke="none" pointer-events="all"/>
-        </g>
-        <g>
-            <g transform="translate(-0.5 -0.5)">
-                <switch>
-                    <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 248px; height: 1px; padding-top: 415px; margin-left: 206px;">
-                            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
-                                <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                    <font style="font-size: 13px; color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));">
-                                        <b>
-                                            NOTA: En grafos dirigidos se habla de "grafo fuertemente conexo" y componente fuertemente conexa, porque se pide que los caminos entre vertices sean dirigidos.
-                                        </b>
-                                    </font>
-                                </div>
-                            </div>
-                        </div>
-                    </foreignObject>
-                    <text x="330" y="419" fill="light-dark(#000000, #ffffff)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">
-                        NOTA: En grafos dirigidos se habla de "gr...
-                    </text>
-                </switch>
+                                    </tspan>
+                                    <tspan x="87" y="33">
+                                        GRAFO CONEXO:Un grafo G es conexo si para 2 vertices cualquiera
+                                    </tspan>
+                                    <tspan x="87" y="47">
+                                        de G, hay un camino entre ellos.
+                                    </tspan>
+                                    <tspan x="87" y="61">
+                                        COMPONENTES CONEXAS: Si un grafo no es conexo, sus subgrafos
+                                    </tspan>
+                                    <tspan x="87" y="75">
+                                        maximales conexos se llaman componente conexa.
+                                    </tspan>
+                                </text>
+                            </switch>
+                        </g>
+                    </g>
+                </g>
+                <g data-cell-id="3">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="30" cy="205" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="5">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="60" cy="245" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="6">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="90" cy="205" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="7">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="110" cy="245" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="8">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="20" cy="275" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" style="fill: var(--ge-adaptive-bg, #ffffff); stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="9">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 110 245 L 85 205" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="10">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 60 250 L 33.54 208.54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="11">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 33.54 201.46 L 86.46 201.46" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="12">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 65 245 L 105 245" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="13">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 16.46 278.54 L 56.46 248.54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="14">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="60" cy="245" rx="60" ry="60" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="15">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="240" cy="245" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="17">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="220" cy="205" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="18">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="260" cy="195" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="19">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="280" cy="235" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="20">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 236.46 241.46 L 255 195" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="21">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 220 200 L 256.46 191.46" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="22">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 236.46 248.54 L 216.46 208.54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="23">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 275 235 L 265 195" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="24">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="247.5" cy="232.5" rx="62.5" ry="62.5" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="25">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="430" cy="260" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="26">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="430" cy="205" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="27">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 430 260 L 426.46 201.46" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="28">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="422.5" cy="232.5" rx="57.5" ry="57.5" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="29">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="540" cy="215" rx="5" ry="5" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="30">
+                    <g transform="translate(0.5,0.5)">
+                        <ellipse cx="552.5" cy="232.5" rx="57.5" ry="57.5" fill="none" stroke="#000000" pointer-events="all" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="31">
+                    <g>
+                        <rect x="205" y="310" width="260" height="50" fill="none" stroke="none" pointer-events="all"/>
+                    </g>
+                    <g>
+                        <g>
+                            <switch>
+                                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 258px; height: 1px; padding-top: 335px; margin-left: 206px;">
+                                        <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                <span style="font-size: 11px;">
+                                                    <b>
+                                                        ESTE GRAFO NO ES CONEXO PORQUE TIENE 4 COMPONENTES CONEXAS
+                                                    </b>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </foreignObject>
+                                <text x="335" y="332" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                    <tspan x="335" y="332">
+                                        ESTE GRAFO NO ES CONEXO PORQUE
+                                    </tspan>
+                                    <tspan x="335" y="346">
+                                        TIENE 4 COMPONENTES CONEXAS
+                                    </tspan>
+                                </text>
+                            </switch>
+                        </g>
+                    </g>
+                </g>
+                <g data-cell-id="32">
+                    <g>
+                        <rect x="205" y="390" width="250" height="50" fill="none" stroke="none" pointer-events="all"/>
+                    </g>
+                    <g>
+                        <g>
+                            <switch>
+                                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 248px; height: 1px; padding-top: 415px; margin-left: 206px;">
+                                        <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                <span style="font-size: 13px; color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));">
+                                                    <b>
+                                                        NOTA: En grafos dirigidos se habla de "grafo fuertemente conexo" y componente fuertemente conexa, porque se pide que los caminos entre vertices sean dirigidos.
+                                                    </b>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </foreignObject>
+                                <text x="330" y="398" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                    <tspan x="330" y="398">
+                                        NOTA: En grafos dirigidos se habla de "grafo
+                                    </tspan>
+                                    <tspan x="330" y="412">
+                                        fuertemente conexo" y componente
+                                    </tspan>
+                                    <tspan x="330" y="426">
+                                        fuertemente conexa, porque se pide que los
+                                    </tspan>
+                                    <tspan x="330" y="440">
+                                        caminos entre vertices sean dirigidos.
+                                    </tspan>
+                                </text>
+                            </switch>
+                        </g>
+                    </g>
+                </g>
             </g>
         </g>
     </g>
