@@ -46,6 +46,14 @@ siguiendo estos pasos:
 La operación ${elementoMin}$ devuelve el elemento frente de la cola no vacía que tiene la ${máxima}$ ${prioridad}$. 
 La operación ${quitarMin}$ también devuelve el elemento de ${máxima}$ ${prioridad}$
 y, además, lo extrae de la cola.
+###                           PROPIEDADES DEL MONTICULO BINARIO
+
+El nodo ${raíz}$ (en primera posición del vector) es el mínimo. La altura de un ${montículo}$ es logarítmica respecto al número de elementos almacenados (por ser arbol completo).
+Si un sólo elemento no cumple la propiedad de montículo, es posible restablecer la propiedad mediante ascensos sucesivos en el ${árbol}$ (intercambiándole con su padre) 
+o mediante descensos en el ${árbol}$ (intercambiándole con el mayor de sus hijos). El número de operaciones es proporcional a la altura.
+Para insertar un nuevo elemento se situa al final del vector (última hoja del árbol) y se asciende hasta que cumpla la propiedad.
+Para eliminar la ${ raiz}$ se intercambia con el último elemento (que se elimina en ${O(1)}$) y se desciende la nueva raiz hasta que cumpla la propiedad.
+
 
 ###                            Declaración del TAD Cola de Prioridad
 
@@ -89,5 +97,12 @@ La operación `quitarMin` sigue los mismos pasos que `elementoMin`, con la difer
 La complejidad de las operaciones frenteCola y quitar de una cola es constante, y el proceso de búsqueda,
 de la cola de máxima prioridad es lineal, por esa razón la complejidad de `elementoMin` y `quitarMin` es lineal.
 
+###                          Complejidad Temporal TAD Cola de Prioridad
 
 
+| Operaciones TAD Cola de Prioridad       | Funcion              |
+| --------------------------------------- | -------------------- |
+| Acceso al minimo                        | $0(1)$               |
+| Inserccion por valor                    | $0(log n)$           |
+| Borrado del minimo                      | $0(log n)$           |
+| Creacion a partir de un vector          | $0(n)$               |

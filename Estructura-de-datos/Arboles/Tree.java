@@ -1,7 +1,8 @@
 import java.util.Stack;
 
 public class Tree {
-    private Nodo12 root; // primer nodo del arbol
+	
+	private Nodo12 root; // primer nodo del arbol
 	public Tree(){ // metodo constructor
 	 root = null;
 	 }
