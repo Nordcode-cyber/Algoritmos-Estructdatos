@@ -37,9 +37,21 @@ ${Ciclo (camino)}$ dirigido un ciclo (camino) donde las aristas, tienen direcci�
  _Longitud de cadena_: numero de aristas(resp. arcos), que la forman.
 ###                        Camino
 
-Un camino ${P}$ de longitud ${n}$ desde el ${vertice}$ V0 a $Vn$ en un ${Grafo}$ ${G}$ es la secuencia de ${n +1}$ ${vertices}$
-$V0$, $V1$, $V2$, ... $Vn$ tal que  $(Vi,Vi+1) \in A$ (arcos) para ${0}$ ${≤i≤n}$. Matemáticamente,
+Un camino ${P}$ de longitud ${n}$ desde el ${vertice}$ V0 a $Vn$ en un ${Grafo}$ ${G}$ es la secuencia de ${n +1}$ ${vertices}$,
+En un grafo valorado, la longitud del camino con pesos es la suma de los pesos de los arcos en el camino.
+$V0$, $V1$, $V2$, ... $Vn$ tal que  $(Vi,Vi+1) \in A$ (arcos) para ${0}$ ${≤i≤n}$. Matemáticamente.
 ${P}$ = $V0$, $V1$, $V2$, ... $Vn$.
+En algunos grafos se dan arcos desde un vértice a sí mismo, ${(v,v)}$; entonces, el camino ${v}$ ${→}$ ${v}$
+es un bucle. Normalmente, en los grafos no hay nodos relacionados con sí mismo, no es frecuente encontrarse grafos con bucles.
+Un camino P = ${(v1 ,v2 ,v3 ,..., vn )}$ es simple si todos los nodos que forman el camino son 0 distintos, 
+pudiendo ser iguales ${v , v}$ , es decir, los extremos del camino. 
+En un ${G}$ ${grafo dirigido}$, un ciclo es un camino simple cerrado. Por tanto, un ciclo empieza y 
+termina en el mismo ${nodo}$, o ${vertice}$ ${V0 = Vn}$ , y además, debe tener más de un ${arco}$. 
+Un ${G}$ ${grafo}$ dirigido sin ciclos ${(acíclico)}$ se acostumbra a denominar ${GDA}$ (Grafo Dirigido Acíclico). 
+La Figura Camino-grafodir.SVG muestra un ${grafo dirigido}$ en el que los ${vértices}$ ${(A, E, B, F, A)}$ forman un ciclo de longitud 4. 
+En general, un ciclo de longitud ${k}$ se denomina ${k-ciclo}$.
+
+
 ###                         Subgrafos
 Un subgrafo H de un grafo G es un grafo donde los vértice de H son un subconjunto de los vértices de G y los 
 arcos de H son un subconjunto de los arcos de G.
