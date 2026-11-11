@@ -7,7 +7,7 @@ ${V}$ es distinto de vacío, y ${E}$ es conjunto de pares de elementos de ${V}$.
 los elementos de ${V}$ se llaman ${vértices}$ o ${nodos}$.
 ${Grafos}$ ${ no}$ ${dirigidos }$
 los pares de ${E}$ No ordenados, se llaman ${Aristas}$, y se representan con puntos y líneas.
-###  `Grafos dirigidos ` 
+${Grafos}$ ${dirigidos}$ 
 los pares de ${E}$ son ordenados, se llaman ${Arcos}$, y se representan con puntos y flechas.
 ###                                Mas Notaciones
   ${Grafos}$ ${no}$ ${dirigidos}$
