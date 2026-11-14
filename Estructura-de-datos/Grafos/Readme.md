@@ -25,7 +25,7 @@ los pares de ${E}$ son ordenados, se llaman ${Arcos}$, y se representan con punt
 
  ###                      Multígrafo
  Decimos que ${G}$ es un  ${multigrafo}$ si se permite, que entre un mismo par de vértices, se trace,
- mas de una arista, y un ${pseudografo}$ si se permiten aristas de ${(v, v)} , bucles.
+ mas de una arista, y un ${pseudografo}$ si se permiten aristas de ${(v, v)}$ , bucles.
 
  ####                    Caminos, cadenas y ciclos
  _Cadena_: a toda sucesión finita alterna de vértices y aristas (resp. arcos).
@@ -74,8 +74,8 @@ y ${A =}$ ${(Vi, Vj)}$ el conjunto de arcos.
 Los nodos están numerados consecutivamente de 0 a n-1. La representación de los arcos se hace con una matriz A de n x n elementos, denominada
 matriz de adyacencia, tal que todo elemento `aij` puede tomar los valores:
 
-######  ${aij}$  ` 1 si hay un arco ` ${(Vi, Vj)}$
-######  ${aij}$  ` 0 si no hay arco ` ${(Vi, Vj)}$
+ ${aij}$  1 si hay un arco  ${(Vi, Vj)}$
+ ${aij}$  0 si no hay arco  ${(Vi, Vj)}$
 
 `En los Grafos no dirigidos la matriz de adyacencia siempre es simétrica` ya que las relaciones entre vértices no son ordenadas
  si ${Vi}$ `está relacionado con ${Vj}$, entonces ${Vj}$ está relacionado con  ${Vi}$.
@@ -87,6 +87,19 @@ Los ${grafos}$ que modelan problemas en los que un arco tiene asociado una magni
 En un grafo valorado, cada elemento representa el peso de la arista, y por ello se la
 denomina matriz de pesos.
 Ver Matriz-adyacencia.drawio.SVG
+
+###                                    Matriz de incidencia
+
+Dado  un ${grafo}$  ${G}$=${(V, E)}$ de ${n}$ ${vertices}$ ,  $v1,v2,...vn \in V$,  $e1,e2,...en\in E$ 
+llamaremos matriz de incidencia ${A}$ del ${grafo}$ ${G}$ a una matriz de,
+incidencia ${A}$ =  $[aij] \in A$ ${M}$ ${n}$ ${(R)}$ que cumple:
+Las columnas de la matriz representan las ${aristas}$ del  ${Grafo}$.
+Las filas de la matriz representan a los ${vertices}$.
+por cada ${vertice}$ unido por una ${arista}$
+
+${aij}$ 1, si ${vi}$ es adyacente a ${ei}$
+${aij}$ 0, si ${vi}$ no es adyacente a ${ei}$
+
 ###                             Lista de adyacencia
 
 La representación de un ${Grafo}$ con matriz de ${adyacencia}$ no es eficiente cuando el grafo es poco denso `(disperso)`, 
@@ -103,7 +116,7 @@ Sea ${G=(V,E)}$ , con ${|V|}$
 Llamamos una _Función gamma_ de ${G}$ que va del conjunto de vértices, al conjunto de partes,
 de vértices.
 $\Gamma$: ${V -> P(V)}$ definida
-$\Gamma$: ${(u)}$= {v $\in$ V / (u,v)$\in$ E}
+$\Gamma$: ${(u)}$= {v $\in$ V / (u,v)$\in$ E
 ###                             Concepto de Grado 
 
 Sea ${G =(V,E)}$  un ${grafo}$ no dirigido
