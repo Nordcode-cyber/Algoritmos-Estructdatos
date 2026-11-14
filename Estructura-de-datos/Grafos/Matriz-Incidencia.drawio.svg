@@ -1,346 +1,96 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: #FFFFFF; background-color: light-dark(#FFFFFF, #121212); color-scheme: dark;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="922px" height="1151px" viewBox="0 0 922 1151" id="ge-svg-WKpnI8wGGP7dSfKGcsjd" content="&lt;mxfile&gt;&lt;diagram id=&quot;_YrGemY8mEbAMLSx4Jdk&quot; name=&quot;Página-1&quot;&gt;7V3rc5s4EP9rmGk+2CPe+GPqPO46TXtzuUfvvtwoRrbVYsQJnNj9608vbMAQ4weY9Eg7DqyEHru/Xe1Ka6KZ48XqnsJo/kB8FGgG8FeaeaMZxsgdsU9OWEuCC1xJmFHsS5K+JTzi70gRgaIusY/iXMWEkCDBUZ44IWGIJkmOBiklL/lqUxLke43gDO0QHicw2KX+if1kLqme4W7pPyE8m6c9646a8BOcfJtRsgxVfwGvNPAh/fZOM8w78aMZY3atG/zflXxsAdM+FAPiOfTJS4Zk3mrmmBKSyKvFaowCzvKUnfK5u4rSzXwoCpM6D3x11tP1F/Q5Gv0TB7+RD/fPD4NBSSuKFCfrlHUJWrGy9/NkETCCzi5f5jhBjxGc8BovDC+MRp4RnQZihnPs+yhkNME2xAcA2J1s+BkGS9WwZjiBaFnPdej8u+RMeb+AdIbDQUJY89esBohWopW0nF3N+O8HmFD8nWMTsY+fwwlDGvuAafNxBMPSDqYkTAZTuMDBWvYwJmFMAhgLeTJ2OnDBp6aqj8mSYkRZySf0UiyUjyxISGLJl/cCpayDWOgCb1631AyAYOBA1eRFEc0+8qKQyEtCQhcwkIUTEhAqyXT29E73XNmtPgLphX5VyiM5nUBe3kmOpCUbMpdDnujj5yLpcty8ANPqTLlEvlUNPdH9lArxRHwmjJlxbgAPMfkkp5rp8wwDVTMOYDjLtXP7eEBHujUEkVDkmAyesI8H+WEokW/4cLchibHouno8wCEazFPp6nzhsVWrMIzxgI9yKcz/dX58ck43zO6ysS5DsTbBKb+5F4MG7/6QCLi9Sq0Hr/SsjU3tekQTPGErVomgxpuBhk9xJFnxvGHd8imtqWdluiWzBspqG5W1h8Nh2QNhQamzz7yKpRakuxHeXjFXSLdoTQrGAy6eKLfw4IGvs7vWI0YUT3cGd2x7NaZRF43araF5Hv9/cRm1poFsnH+Uaw06SGvKar+qNWUPhFUP7Fsg29SaCobvlVivNafI6HTG1ZrwOTh7gOr9ALCuO9vb4Z7JMnLUjmcFeNQ0gCxaDGXJ12Wc4Olaa9zt2m/WTxJWXVk8IigcrR3/KeeIVTldIAggi//QgsQymN5GeL2AuyHg4nKOM4E3uBbCCnIut3C1oXDFYVaovK70x1sxVV4nTJVmt+ul5+ezH0KHomG727L1qfDXKl+r+Ynvn+FJOKgv5tZw3XuWJ3qW4KEbwDROEeSP6siGreiQ0+vQETr07tcrGd7/3z2zHj/H4Ydvv37kBwV8s365EO6hiAyCnKNIUURRjMIEiiJeH1IcJ+Iq4232UWAPxdOhOMUSYlvUhSp+CURQ+oxksNqjrUfbKWj7hfBD0An04RZUIkjG4twqEsUyZJbWTg65XchdcLMD6I46SQLFIBZkIVS28wkOC0uBLjcpYqyVn+jhqieb8U1fm+9OcoE7dF3XqzzYBWJbDfprOGG2DClTVnZCctwkz4+5FpBlHY+sS8i8ih98WsexcC+LDL0CUbAeA3Y7kCYOBllzwmFWBurK3rkOA5DR1j2jqeRQ3Q6Psway2zYZo/Hkl73afqjM6vd+PmtSxrtmN2aOtgcnZ/e05yM26wZ24xjwLOzvQtJXNTmXmGcoxxGtMimcKgv0HpEFSuiaVZln8lstS6WlvmSTYRVNNeOoW5Xxm5ZClYk727S8zTplFyrxtDwJdfHXze8f/wZmeP/5A7J/GiTfg9lAV5m2yN9J4d1NSyVLOkGvNObspK/yZh/VbUhCnjKYSWVlHdD1l+zNXypdVdzcrHJ3682df82TkrdNMsod5vPOpLomkM5Q8spgvXJBURTABD/nmXF2tjt1cn9ZOziK+QTLcn4zfIznMEI/M+X0kaLAOJKJ3FO84jnA71lAHYxlMuZNPovauQYgzaIeWcbd3d2VUrS0PiuYih/eVULJN5QpMV0AxuOtKmQzjI/QDXNXNcy8Zlh6XjVcqyndcOsIqV6Cdp5tCrZZmSiS8j5uhONAM37JtSpYYN/nXddN767re+lVwcu9OkIWjo2PKZ6J0LjCUziPxHXbyYnctK2cyG3bbkjkXq+Xx+qlMcrrpWc2tma5Z1yzRmdZszY3za5ZziXXrLThDrEdDO0TGY9WOPmSud4Ik11vm+Q368NEpRuXlNWot2PH2jHby9uxUXN2zD6jQqVe0eEaBbT2nW+9QlTtaIfudILxZzZlb2EN0b0Ocr4lyJsXZTzoV4RjVwTHyq8IjtfYimCdUz1K5NtlwzS6qH7U+jZ2rx9l+uEWPCbPaUw/jF5KR++bGQW/1m1KSmlH57Fi5tF+7dZwtbnMXzTuS7nVK8jpG8teY8u8USs8391Zrr87XCbXc+8Y22nmW+YlDxkE8Pc9qCSB9JfMVBZvgjD4Fi6/sfX091X5iyDKDv/NAw//z4MXZ49b2NiyZ9Zy3nu8VOKl8mvtbeJlUyW1L40dXJlHvlqox8u+Fxu0iRfTzePFTTdPzo+XWm51j5dKvFhdwIsH2grDzFpeZo+XSrzYXcDLzkFHc3ixerychBenC3gpbiDoADQGGLsHzEmAcbsAGLOQxOiNGsNLrXy6ZvFCSQITTPhT3OC9IQAd9CKwVgFUsDhucyvUkbl+jQHoTVmgg94N1+qSVchJc7zGQqhamYOtAejt46cTW3xuewaoA1vCP5YB6kRM7hQM0KixL3JYHdjzywJIt986gDoRpBdXsFFjh1JWBzYBcwB68xaoE1F7cRe5uXRWqwO7gj/AElbx7dva4zWG6YiLXbjtIs8u7Ee7jSWcWP3+4mmWyuuCpbKL56PN4eWQxPtM2sxOhlAGSyXy38cSW82vNDUowyf7FT6oHn4hWKAs/YtBha19XbftIQteABi5ju0Yha/PySQs1caWt3ub9YbAA0B3gTfyLNMttCpTpXZaFRLbcKRMiOx2+6d5ZPXtn0Uyb/8D&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: #FFFFFF; background-color: light-dark(#FFFFFF, #121212); color-scheme: dark;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="822px" height="1649px" viewBox="0 0 822 1649" id="ge-svg-t9Ocr_632i-e4w8fRlSQ" content="&lt;mxfile&gt;&lt;diagram id=&quot;_YrGemY8mEbAMLSx4Jdk&quot; name=&quot;Página-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
     <style type="text/css">
-        @supports (color: light-dark(#000, #fff)) { #ge-svg-WKpnI8wGGP7dSfKGcsjd { --ge-adaptive-fg: light-dark(#000000, var(--ge-light-color, #ffffff)); } }
+        @supports (color: light-dark(#000, #fff)) { #ge-svg-t9Ocr_632i-e4w8fRlSQ { --ge-adaptive-fg: light-dark(#000000, var(--ge-light-color, #ffffff)); } }
     </style>
     <defs/>
     <rect fill="#FFFFFF" width="100%" height="100%" x="0" y="0" style="fill: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));"/>
     <g>
         <g data-cell-id="0">
             <g data-cell-id="1">
-                <g data-cell-id="j6yfyXeOp9_slToJGvM--1">
-                    <g>
-                        <rect x="0" y="12" width="820" height="440" fill="none" stroke="none" pointer-events="all"/>
-                    </g>
-                    <g>
-                        <g>
-                            <switch>
-                                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 818px; height: 1px; padding-top: 19px; margin-left: 2px;">
-                                        <div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 436px; overflow: hidden; color: #000000; ">
-                                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                                <h1 style="margin-top: 0px;">
-                                                    Matriz de Incidencia
-                                                    <span style="font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; white-space: pre; font-weight: normal; color: light-dark(rgb(187, 190, 191), rgb(73, 75, 76));">
-                                                    </span>
-                                                </h1>
-                                                <div>
-                                                    <span style="font-family: Consolas, &quot;Courier New&quot;, monospace; white-space: pre; font-weight: normal; color: light-dark(rgb(187, 190, 191), rgb(73, 75, 76));">
-                                                        <span style="font-size: 14px;">
-                                                            <br/>
-                                                            <br/>
-                                                        </span>
-                                                        <p class="MsoNormal" style="font-size: 14px;">
-                                                            <span lang="ES" style="font-size:14.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;line-height:107%;mso-ansi-language:ES">
-                                                                Dado un grafo G= (V, E) de n vértices
-                                                                <br/>
-                                                                ,  v
-                                                                <sub>
-                                                                    1
-                                                                </sub>
-                                                                ,v
-                                                                <sub>
-                                                                    2
-                                                                </sub>
-                                                                ,...v
-                                                                <sub>
-                                                                    n
-                                                                </sub>
-                                                            </span>
-                                                            <span lang="ES" style="font-size:14.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:107%;font-family:&quot;Cambria Math&quot;,serif;mso-bidi-font-family:&quot;Cambria Math&quot;;&lt;br/&gt;mso-ansi-language:ES">
-                                                                ∈
-                                                            </span>
-                                                            <span lang="ES" style="font-size:14.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;line-height:107%;mso-ansi-language:ES">
-                                                                V,  e
-                                                                <sub>
-                                                                    1
-                                                                </sub>
-                                                                ,e
-                                                                <sub>
-                                                                    2
-                                                                </sub>
-                                                                ,...e
-                                                                <sub>
-                                                                    n
-                                                                </sub>
-                                                            </span>
-                                                            <span lang="ES" style="font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&quot;Cambria Math&quot;,serif;mso-bidi-font-family:&quot;Cambria Math&quot;;&lt;br/&gt;mso-ansi-language:ES">
-                                                                ∈
-                                                            </span>
-                                                            <span lang="ES" style="font-family:&quot;Cambria Math&quot;,serif;&lt;br/&gt;mso-bidi-font-family:&quot;Cambria Math&quot;;mso-ansi-language:ES">
-                                                            </span>
-                                                            <span lang="ES" style="font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%;&lt;br/&gt;mso-ansi-language:ES">
-                                                                E.
-                                                            </span>
-                                                        </p>
-                                                        <p class="MsoNormal" style="font-size: 14px; text-align: justify;">
-                                                            <span lang="ES" style="font-size:&lt;br/&gt;14.0pt;mso-bidi-font-size:11.0pt;line-height:107%;mso-ansi-language:ES">
-                                                                Sea G
-                                                                <br/>
-                                                                un grafo de n vértices llamaremos matriz de
-                                                            </span>
-                                                        </p>
-                                                        <p class="MsoNormal" style="font-size: 14px; text-align: justify;">
-                                                            <span lang="ES" style="font-size:&lt;br/&gt;14.0pt;mso-bidi-font-size:11.0pt;line-height:107%;mso-ansi-language:ES">
-                                                                incidencia A del grafo G, a una matriz A =
-                                                            </span>
-                                                            <span lang="ES" style="font-size:18.0pt;mso-bidi-font-size:11.0pt;line-height:107%;&lt;br/&gt;mso-ansi-language:ES">
-                                                                [
-                                                            </span>
-                                                            <span lang="ES" style="font-size:14.0pt;line-height:&lt;br/&gt;107%;mso-ansi-language:ES">
-                                                                a
-                                                                <sub>
-                                                                    ij
-                                                                </sub>
-                                                            </span>
-                                                            <span lang="ES" style="font-size:&lt;br/&gt;18.0pt;mso-bidi-font-size:11.0pt;line-height:107%;mso-ansi-language:ES">
-                                                                ]
-                                                            </span>
-                                                            <span lang="ES" style="font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&quot;Cambria Math&quot;,serif;mso-bidi-font-family:&quot;Cambria Math&quot;;&lt;br/&gt;mso-ansi-language:ES">
-                                                                ∈ M
-                                                            </span>
-                                                            <span lang="ES" style="font-size:&lt;br/&gt;12.0pt;mso-bidi-font-size:11.0pt;line-height:107%;font-family:&quot;Cambria Math&quot;,serif;&lt;br/&gt;mso-bidi-font-family:&quot;Cambria Math&quot;;mso-ansi-language:ES">
-                                                                n
-                                                            </span>
-                                                            <span lang="ES" style="font-size:16.0pt;mso-bidi-font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&quot;Cambria Math&quot;,serif;mso-bidi-font-family:&quot;Cambria Math&quot;;&lt;br/&gt;mso-ansi-language:ES">
-                                                                (R),
-                                                            </span>
-                                                        </p>
-                                                        <p class="MsoNormal" style="font-size: 14px; text-align: justify;">
-                                                            <span lang="ES" style="font-size:16.0pt;mso-bidi-font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&quot;Cambria Math&quot;,serif;mso-bidi-font-family:&quot;Cambria Math&quot;;&lt;br/&gt;mso-ansi-language:ES">
-                                                                () Las columna de la matriz representa las aristas del grafo.
-                                                            </span>
-                                                        </p>
-                                                        <p class="MsoNormal" style="font-size: 14px; text-align: justify;">
-                                                            <span lang="ES" style="font-size:16.0pt;mso-bidi-font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&quot;Cambria Math&quot;,serif;mso-bidi-font-family:&quot;Cambria Math&quot;;&lt;br/&gt;mso-ansi-language:ES">
-                                                                () Las filas representan a los vertices.
-                                                            </span>
-                                                        </p>
-                                                        <p class="MsoNormal" style="font-size: 14px; text-align: justify;">
-                                                            <span lang="ES" style="font-size:16.0pt;mso-bidi-font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&quot;Cambria Math&quot;,serif;mso-bidi-font-family:&quot;Cambria Math&quot;;&lt;br/&gt;mso-ansi-language:ES">
-                                                                () Por cada vertice unido por una arista:
-                                                            </span>
-                                                        </p>
-                                                        <p class="MsoNormal" style="text-align: justify;">
-                                                            <span lang="ES" style="font-size: 16pt; line-height: 107%;">
-                                                                a
-                                                                <sub>
-                                                                    ij
-                                                                </sub>
-                                                                1, si v
-                                                                <sub>
-                                                                    i
-                                                                </sub>
-                                                            </span>
-                                                            <span lang="ES" style="line-height: 107%; font-size: 17.7778px;">
-                                                                es adyacente a e
-                                                                <sub>
-                                                                    i
-                                                                </sub>
-                                                            </span>
-                                                        </p>
-                                                        <p class="MsoNormal" style="">
-                                                            <span lang="ES" style="font-size: 14pt; line-height: 107%;">
-                                                            </span>
-                                                            <span lang="ES" style="line-height: 107%;">
-                                                                <span style="">
-                                                                    <span style="font-size: 21px;">
-                                                                        a
-                                                                    </span>
-                                                                    <span style="vertical-align: sub; font-size: 21px;">
-                                                                        ij 0, si
-                                                                    </span>
-                                                                    <span style="font-size: 21px;">
-                                                                        v
-                                                                        <sub>
-                                                                            i
-                                                                        </sub>
-                                                                    </span>
-                                                                    <span style="vertical-align: sub; font-size: 21px;">
-                                                                        no es adyacente a e
-                                                                    </span>
-                                                                    <span style="font-size: 21px;">
-                                                                        <sub>
-                                                                            i
-                                                                        </sub>
-                                                                    </span>
-                                                                </span>
-                                                            </span>
-                                                            <span lang="ES" style="font-size: 14pt; line-height: 107%;">
-                                                                <br/>
-                                                                <br/>
-                                                            </span>
-                                                        </p>
-                                                        <p class="MsoNormal" style="font-size: 14px;">
-                                                            <span lang="ES" style="font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:107%;&lt;br/&gt;mso-ansi-language:ES">
-                                                                <br/>
-                                                            </span>
-                                                        </p>
-                                                        <span style="font-size: 14px;">
-                                                            <br/>
-                                                            <br/>
-                                                        </span>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </foreignObject>
-                                <text x="2" y="31" fill="#000000" font-family="Helvetica" font-size="12px" style="fill: var(--ge-adaptive-fg, #000000);">
-                                    <tspan x="2" y="31">
-                                        Matriz de Incidencia
-                                    </tspan>
-                                    <tspan x="2" y="45"></tspan>
-                                    <tspan x="2" y="59"></tspan>
-                                    <tspan x="2" y="73"></tspan>
-                                    <tspan x="2" y="87">
-                                        Dado un grafo G= (V, E) de n vértices
-                                    </tspan>
-                                    <tspan x="2" y="101">
-                                        , v1,v2,...vn ∈ V, e1,e2,...en ∈ E.
-                                    </tspan>
-                                    <tspan x="2" y="115">
-                                        Sea G
-                                    </tspan>
-                                    <tspan x="2" y="129">
-                                        un grafo de n vértices llamaremos matriz de
-                                    </tspan>
-                                    <tspan x="2" y="143">
-                                        incidencia A del grafo G, a una matriz A = [aij] ∈ Mn(R),
-                                    </tspan>
-                                    <tspan x="2" y="157">
-                                        () Las columna de la matriz representa las aristas del grafo.
-                                    </tspan>
-                                    <tspan x="2" y="171">
-                                        () Las filas representan a los vertices.
-                                    </tspan>
-                                    <tspan x="2" y="185">
-                                        () Por cada vertice unido por una arista:
-                                    </tspan>
-                                    <tspan x="2" y="199">
-                                        aij 1, si vi es adyacente a ei
-                                    </tspan>
-                                    <tspan x="2" y="213">
-                                        aij 0, si vi no es adyacente a ei
-                                    </tspan>
-                                    <tspan x="2" y="227"></tspan>
-                                    <tspan x="2" y="241"></tspan>
-                                    <tspan x="2" y="255"></tspan>
-                                    <tspan x="2" y="269"></tspan>
-                                    <tspan x="2" y="283"></tspan>
-                                </text>
-                            </switch>
-                        </g>
-                    </g>
-                </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-19">
                     <g transform="translate(0.5,0.5)">
-                        <path d="M 352.85 755.8 L 255.61 826.39" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                        <path d="M 182.85 648.8 L 85.61 719.39" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-6">
                     <g transform="translate(0.5,0.5)">
-                        <ellipse cx="365" cy="747" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
-                    </g>
-                </g>
-                <g data-cell-id="mYDULZ03nGOJe5H-tzlg-7">
-                    <g>
-                        <rect x="294" y="547" width="156" height="30" fill="none" stroke="none" pointer-events="all"/>
-                    </g>
-                    <g>
-                        <g>
-                            <switch>
-                                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 154px; height: 1px; padding-top: 562px; margin-left: 295px;">
-                                        <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
-                                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                                <span style="font-size: 18px;">
-                                                    Grafo no dirigido
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </foreignObject>
-                                <text x="372" y="566" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
-                                    Grafo no dirigido
-                                </text>
-                            </switch>
-                        </g>
+                        <ellipse cx="195" cy="640" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-8">
                     <g transform="translate(0.5,0.5)">
-                        <ellipse cx="245" cy="837" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
+                        <ellipse cx="75" cy="730" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-17">
                     <g transform="translate(0.5,0.5)">
-                        <path d="M 525.04 925.79 L 375.61 757.61" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                        <path d="M 355.04 818.79 L 205.61 650.61" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-21">
                     <g transform="translate(0.5,0.5)">
-                        <path d="M 524.39 947.61 L 390 977" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                        <path d="M 354.39 840.61 L 220 870" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-9">
                     <g transform="translate(0.5,0.5)">
-                        <ellipse cx="535" cy="937" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
+                        <ellipse cx="365" cy="830" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-15">
                     <g transform="translate(0.5,0.5)">
-                        <path d="M 604.1 698.92 L 724.39 856.39" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                        <path d="M 434.1 591.92 L 554.39 749.39" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-16">
                     <g transform="translate(0.5,0.5)">
-                        <path d="M 580.55 691.03 L 380 747" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                        <path d="M 410.55 584.03 L 210 640" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-18">
                     <g transform="translate(0.5,0.5)">
-                        <path d="M 583.64 696.8 L 375.61 876.39" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                        <path d="M 413.64 589.8 L 205.61 769.39" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-10">
                     <g transform="translate(0.5,0.5)">
-                        <ellipse cx="595" cy="687" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
+                        <ellipse cx="425" cy="580" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-14">
                     <g transform="translate(0.5,0.5)">
-                        <path d="M 720.97 872.31 L 550 937" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                        <path d="M 550.97 765.31 L 380 830" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-11">
                     <g transform="translate(0.5,0.5)">
-                        <ellipse cx="735" cy="867" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
+                        <ellipse cx="565" cy="760" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-12">
                     <g transform="translate(0.5,0.5)">
-                        <ellipse cx="375" cy="977" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
+                        <ellipse cx="205" cy="870" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-20">
                     <g transform="translate(0.5,0.5)">
-                        <path d="M 366.98 901.87 L 375 962" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                        <path d="M 196.98 794.87 L 205 855" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-13">
                     <g transform="translate(0.5,0.5)">
-                        <ellipse cx="365" cy="887" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
+                        <ellipse cx="195" cy="780" rx="15" ry="15" fill="#6a00ff" stroke="#3700cc" pointer-events="all" style="fill: light-dark(rgb(106, 0, 255), rgb(148, 47, 255)); stroke: light-dark(rgb(55, 0, 204), rgb(239, 192, 255));"/>
                     </g>
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-29">
                     <g>
-                        <rect x="580" y="652" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+                        <rect x="410" y="545" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
                     </g>
                     <g>
                         <g>
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 667px; margin-left: 581px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 560px; margin-left: 411px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -353,7 +103,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="610" y="671" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="440" y="564" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     v3
                                 </text>
                             </switch>
@@ -362,13 +112,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-30">
                     <g>
-                        <rect x="170" y="832" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+                        <rect x="0" y="725" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
                     </g>
                     <g>
                         <g>
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 847px; margin-left: 171px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 740px; margin-left: 1px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -381,7 +131,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="200" y="851" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="30" y="744" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     v1
                                 </text>
                             </switch>
@@ -390,13 +140,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-31">
                     <g>
-                        <rect x="310" y="710" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+                        <rect x="140" y="603" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
                     </g>
                     <g>
                         <g>
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 725px; margin-left: 311px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 618px; margin-left: 141px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -409,7 +159,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="340" y="729" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="170" y="622" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     v2
                                 </text>
                             </switch>
@@ -418,13 +168,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-32">
                     <g>
-                        <rect x="740" y="852" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+                        <rect x="570" y="745" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
                     </g>
                     <g>
                         <g>
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 867px; margin-left: 741px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 760px; margin-left: 571px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -437,7 +187,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="770" y="871" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="600" y="764" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     v4
                                 </text>
                             </switch>
@@ -446,13 +196,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-33">
                     <g>
-                        <rect x="520" y="952" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+                        <rect x="350" y="845" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
                     </g>
                     <g>
                         <g>
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 967px; margin-left: 521px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 860px; margin-left: 351px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -465,7 +215,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="550" y="971" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="380" y="864" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     v5
                                 </text>
                             </switch>
@@ -474,13 +224,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-34">
                     <g>
-                        <rect x="360" y="992" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+                        <rect x="190" y="885" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
                     </g>
                     <g>
                         <g>
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 1007px; margin-left: 361px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 900px; margin-left: 191px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -493,7 +243,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="390" y="1011" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="220" y="904" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     v6
                                 </text>
                             </switch>
@@ -502,13 +252,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-35">
                     <g>
-                        <rect x="300" y="882" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+                        <rect x="130" y="775" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
                     </g>
                     <g>
                         <g>
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 897px; margin-left: 301px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 790px; margin-left: 131px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -521,7 +271,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="330" y="901" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="160" y="794" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     v7
                                 </text>
                             </switch>
@@ -530,13 +280,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-36">
                     <g>
-                        <rect x="260" y="752" width="60" height="30" fill="none" stroke="none" transform="rotate(-34,290,767)" pointer-events="all"/>
+                        <rect x="90" y="645" width="60" height="30" fill="none" stroke="none" transform="rotate(-34,120,660)" pointer-events="all"/>
                     </g>
                     <g>
-                        <g transform="rotate(-34 290 767)">
+                        <g transform="rotate(-34 120 660)">
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 767px; margin-left: 261px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 660px; margin-left: 91px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -549,7 +299,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="290" y="771" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="120" y="664" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     e1
                                 </text>
                             </switch>
@@ -558,13 +308,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-37">
                     <g>
-                        <rect x="430" y="680" width="60" height="30" fill="none" stroke="none" transform="rotate(-30,460,695)" pointer-events="all"/>
+                        <rect x="260" y="573" width="60" height="30" fill="none" stroke="none" transform="rotate(-30,290,588)" pointer-events="all"/>
                     </g>
                     <g>
-                        <g transform="rotate(-30 460 695)">
+                        <g transform="rotate(-30 290 588)">
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 695px; margin-left: 431px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 588px; margin-left: 261px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -577,7 +327,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="460" y="699" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="290" y="592" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     e2
                                 </text>
                             </switch>
@@ -586,13 +336,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-38">
                     <g>
-                        <rect x="660" y="752" width="60" height="30" fill="none" stroke="none" transform="rotate(30,690,767)" pointer-events="all"/>
+                        <rect x="490" y="645" width="60" height="30" fill="none" stroke="none" transform="rotate(30,520,660)" pointer-events="all"/>
                     </g>
                     <g>
-                        <g transform="rotate(30 690 767)">
+                        <g transform="rotate(30 520 660)">
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 767px; margin-left: 661px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 660px; margin-left: 491px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -605,7 +355,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="690" y="771" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="520" y="664" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     e3
                                 </text>
                             </switch>
@@ -614,13 +364,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-39">
                     <g>
-                        <rect x="630" y="912" width="60" height="30" fill="none" stroke="none" transform="rotate(-30,660,927)" pointer-events="all"/>
+                        <rect x="460" y="805" width="60" height="30" fill="none" stroke="none" transform="rotate(-30,490,820)" pointer-events="all"/>
                     </g>
                     <g>
-                        <g transform="rotate(-30 660 927)">
+                        <g transform="rotate(-30 490 820)">
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 927px; margin-left: 631px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 820px; margin-left: 461px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -633,7 +383,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="660" y="931" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="490" y="824" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     e4
                                 </text>
                             </switch>
@@ -642,13 +392,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-41">
                     <g>
-                        <rect x="430" y="972" width="60" height="30" fill="none" stroke="none" transform="rotate(-15,460,987)" pointer-events="all"/>
+                        <rect x="260" y="865" width="60" height="30" fill="none" stroke="none" transform="rotate(-15,290,880)" pointer-events="all"/>
                     </g>
                     <g>
-                        <g transform="rotate(-15 460 987)">
+                        <g transform="rotate(-15 290 880)">
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 987px; margin-left: 431px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 880px; margin-left: 261px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -661,7 +411,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="460" y="991" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="290" y="884" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     e5
                                 </text>
                             </switch>
@@ -670,13 +420,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-42">
                     <g>
-                        <rect x="310" y="922" width="60" height="30" fill="none" stroke="none" transform="rotate(-10,340,937)" pointer-events="all"/>
+                        <rect x="140" y="815" width="60" height="30" fill="none" stroke="none" transform="rotate(-10,170,830)" pointer-events="all"/>
                     </g>
                     <g>
-                        <g transform="rotate(-10 340 937)">
+                        <g transform="rotate(-10 170 830)">
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 937px; margin-left: 311px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 830px; margin-left: 141px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -689,7 +439,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="340" y="941" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="170" y="834" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     e6
                                 </text>
                             </switch>
@@ -698,13 +448,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-43">
                     <g>
-                        <rect x="440" y="762" width="60" height="30" fill="none" stroke="none" transform="rotate(-30,470,777)" pointer-events="all"/>
+                        <rect x="270" y="655" width="60" height="30" fill="none" stroke="none" transform="rotate(-30,300,670)" pointer-events="all"/>
                     </g>
                     <g>
-                        <g transform="rotate(-30 470 777)">
+                        <g transform="rotate(-30 300 670)">
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 777px; margin-left: 441px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 670px; margin-left: 271px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -717,7 +467,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="470" y="781" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="300" y="674" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     e7
                                 </text>
                             </switch>
@@ -726,13 +476,13 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-44">
                     <g>
-                        <rect x="470" y="862" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+                        <rect x="300" y="755" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
                     </g>
                     <g>
                         <g>
                             <switch>
                                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 877px; margin-left: 471px;">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 770px; margin-left: 301px;">
                                         <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
                                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
                                                 <span style="font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));">
@@ -745,7 +495,7 @@
                                         </div>
                                     </div>
                                 </foreignObject>
-                                <text x="500" y="881" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
+                                <text x="330" y="774" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" style="fill: var(--ge-adaptive-fg, #000000);">
                                     e8
                                 </text>
                             </switch>
@@ -754,7 +504,104 @@
                 </g>
                 <g data-cell-id="mYDULZ03nGOJe5H-tzlg-45">
                     <g transform="translate(0.5,0.5)">
-                        <path d="M 920 1147.76 L 920 0.08" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                        <path d="M 810 1645.76 L 820 0" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: var(--ge-adaptive-fg, #000000);"/>
+                    </g>
+                </g>
+                <g data-cell-id="mYDULZ03nGOJe5H-tzlg-46">
+                    <g>
+                        <rect x="40" y="80" width="620" height="310" fill="none" stroke="none" pointer-events="all"/>
+                    </g>
+                    <g>
+                        <g>
+                            <switch>
+                                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 618px; height: 1px; padding-top: 87px; margin-left: 42px;">
+                                        <div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 306px; overflow: hidden; color: #000000; ">
+                                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: var(--ge-adaptive-fg, #000000); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                                <h1 style="margin-top: 0px;">
+                                                    Matriz de incidencia
+                                                </h1>
+                                                <p>
+                                                    Lorem ipsum dolo
+                                                    <span style="background-color: transparent;">
+                                                        Dado un grafo G= (V, E) de n vértices, v1,v2,...vn ∈ V,  e1,e2,...en ∈ E
+                                                    </span>
+                                                </p>
+                                                <p>
+                                                    Sea G un grafo de n vértices llamaremos matriz de
+                                                </p>
+                                                <p>
+                                                    incidencia A del grafo G, a una matriz A = [aij] ∈ Mn(R),
+                                                </p>
+                                                <p>
+                                                    que cumple:
+                                                </p>
+                                                <p>
+                                                    •
+                                                    <span style="white-space:pre">
+                                                    </span>
+                                                    La columna de la matriz representa las aristas del grafo.
+                                                </p>
+                                                <p>
+                                                    •
+                                                    <span style="white-space:pre">
+                                                    </span>
+                                                    Las filas representan a los vértices.
+                                                </p>
+                                                <p>
+                                                    •
+                                                    <span style="white-space:pre">
+                                                    </span>
+                                                    Por cada vértice unido por una arista:
+                                                </p>
+                                                <p>
+                                                    aij 1, si vi es adyacente a ei
+                                                </p>
+                                                <p>
+                                                    aij 0, si vi no es adyacente a ei
+                                                </p>
+                                                <div>
+                                                    <br/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </foreignObject>
+                                <text x="42" y="99" fill="#000000" font-family="Helvetica" font-size="12px" style="fill: var(--ge-adaptive-fg, #000000);">
+                                    <tspan x="42" y="99">
+                                        Matriz de incidencia
+                                    </tspan>
+                                    <tspan x="42" y="113">
+                                        Lorem ipsum doloDado un grafo G= (V, E) de n vértices, v1,v2,...vn ∈ V, e1,e2,...en ∈ E
+                                    </tspan>
+                                    <tspan x="42" y="127">
+                                        Sea G un grafo de n vértices llamaremos matriz de
+                                    </tspan>
+                                    <tspan x="42" y="141">
+                                        incidencia A del grafo G, a una matriz A = [aij] ∈ Mn(R),
+                                    </tspan>
+                                    <tspan x="42" y="155">
+                                        que cumple:
+                                    </tspan>
+                                    <tspan x="42" y="169">
+                                        • La columna de la matriz representa las aristas del grafo.
+                                    </tspan>
+                                    <tspan x="42" y="183">
+                                        • Las filas representan a los vértices.
+                                    </tspan>
+                                    <tspan x="42" y="197">
+                                        • Por cada vértice unido por una arista:
+                                    </tspan>
+                                    <tspan x="42" y="211">
+                                        aij 1, si vi es adyacente a ei
+                                    </tspan>
+                                    <tspan x="42" y="225">
+                                        aij 0, si vi no es adyacente a ei
+                                    </tspan>
+                                    <tspan x="42" y="239"></tspan>
+                                </text>
+                            </switch>
+                        </g>
                     </g>
                 </g>
             </g>
