@@ -1,4 +1,4 @@
-#                                  Teoria de Grafos
+#                                  Teoría de Grafos
 
 ##             `Definicion de Grafos subgrafos, caminos y ciclos`
 
@@ -78,7 +78,7 @@ matriz de adyacencia, tal que todo elemento `aij` puede tomar los valores:
  ${aij}$  0 si no hay arco  ${(Vi, Vj)}$
 
 `En los Grafos no dirigidos la matriz de adyacencia siempre es simétrica` ya que las relaciones entre vértices no son ordenadas
- si ${Vi}$ `está relacionado con ${Vj}$, entonces ${Vj}$ está relacionado con  ${Vi}$.
+ si ${Vi}$  está relacionado con ${Vj}$, entonces ${Vj}$ está relacionado con  ${Vi}$.
 Los ${grafos}$ que modelan problemas en los que un arco tiene asociado una magnitud, un factor de peso, también se representan,
  mediante una matriz de tantas filas/columnas como ${nodos}$. 
  Ahora un elemento cualquiera, ${Aij}$ representa el coste o factor de peso del arco ${(Vi, Vj)}$.
