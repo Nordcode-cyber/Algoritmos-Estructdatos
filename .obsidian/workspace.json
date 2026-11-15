@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db21f1b80def016e",
+        "id": "0bffb6247344cf58",
         "type": "tabs",
         "children": [
           {
-            "id": "fce6516e19affbfc",
+            "id": "9243f3920c73c678",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Recursividad/Division-y-conquista.drawio.svg"
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Division-y-conquista.drawio"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ]
@@ -182,28 +184,35 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fce6516e19affbfc",
+  "active": "9243f3920c73c678",
   "lastOpenFiles": [
-    "Recursividad/Recursividad.drawio.svg",
-    "Recursividad/Readme.md",
-    "Estructura-de-datos/Readme.md",
-    "Estructura-de-datos/Grafos/Readme.md",
-    "Estructura-de-datos/Grafos/Camino-grafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Subgrafo-inducido.drawio.svg",
-    "Estructura-de-datos/Grafos/Camino-grafodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Ejercicio-grafosdir.drawio.svg",
-    "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
-    "Estructura-de-datos/Grafos/ejemplo-grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Pilas/Readme.md",
     "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
     "Estructura-de-datos/Grafos/Matriz-Incidencia.drawio.svg",
-    "Estructura-de-datos/Grafos/Matriz-Incidencia.drawio",
+    "Estructura-de-datos/Grafos/Recorrido.drawio.svg",
+    "Estructura-de-datos/Grafos/Subgrafo-inducido.drawio.svg",
+    "Estructura-de-datos/Grafos/Subgrafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/TAD-Grafo.drawio.svg",
+    "Estructura-de-datos/Grafos/Vertice-corte-grafo-no-dir.drawio.svg",
     "Estructura-de-datos/Grafos/Grado-Grafo-dir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Ejercicio-grafosdir.drawio.svg",
+    "Estructura-de-datos/Grafos/ejemplo-grafodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Readme.md",
+    "Api-colecciones/Collection.MD",
+    "Recursividad/Readme.md",
+    "Estructura-de-datos/Arrays/Readme.md",
+    "Estructura-de-datos/Readme.md",
+    "Algoritmos/Quicksort/salida.MD",
+    "Algoritmos/Mergesort/Mergesort.MD",
+    "Algoritmos/Knapsack/src/main/java/Knapsack.MD",
+    "Estructura-de-datos/Lista-Enlazada/Readme.md",
+    "Estructura-de-datos/Colas/Readme.md",
+    "Estructura-de-datos/tabla-hash/Readme.md",
+    "Estructura-de-datos/Heap/Readme.md",
+    "Estructura-de-datos/Arboles/Readme.md",
+    "Estructura-de-datos/Grafos/Matriz-Incidencia.drawio",
     "Estructura-de-datos/Grafos/Ordenacion-topologica.MD",
     "Estructura-de-datos/Grafos/Dijkstra.MD",
-    "Estructura-de-datos/tabla-hash/Readme.md",
-    "Estructura-de-datos/Lista-Enlazada/Readme.md",
-    "Estructura-de-datos/Arboles/Readme.md",
     "Estructura-de-datos/Arboles/problemas.MD",
     "Estructura-de-datos/Grafos/Recorrido.MD",
     "Estructura-de-datos/Grafos/TAD-Grafo.MD",
@@ -212,15 +221,7 @@
     "Readme.md",
     "Estructura-de-datos/tabla-hash/hashtable.MD",
     "Estructura-de-datos/tabla-hash/hash-function.MD",
-    "Estructura-de-datos/Pilas/Readme.md",
-    "Estructura-de-datos/Heap/Readme.md",
-    "Estructura-de-datos/Colas/Readme.md",
-    "Estructura-de-datos/Arrays/Readme.md",
     "Grafos.md",
-    "Algoritmos/Radisort/Radixsort.MD",
-    "Algoritmos/Quicksort/Quicksort.MD",
-    "Algoritmos/Mergesort/Mergesort.MD",
-    "Algoritmos/Heapsort/Heapsort.MD",
     "Estructura-de-datos/Grafos/Grado-Grafo-nodir.drawio",
     "Estructura-de-datos/Grafos/Grado",
     "demo/target/classes/mis/clases/Main.class",

@@ -241,13 +241,19 @@ Elemento mediano en la ${Raiz}$ de cada ${Subarbol}$.
 
 ###                          Eficiencia de la búsqueda en un árbol ordenado 
 
-La eficiencia de una búsqueda en un árbol binario ordenado varía entre O(n) y O(log(n)), de-pendiendo de la estructura que presente el árbol.
+La eficiencia de una búsqueda en un árbol binario ordenado varía entre ${ O(n)}$ y ${O(log(n))}$, de-pendiendo de la estructura que presente el árbol.
 Si los elementos se añaden en el árbol mediante el algoritmo de inserción expuesto en el capítulo anterior, la estructura resultante del árbol,
 dependerá del orden en que sean añadidos. Así, si todos los elementos se insertan en orden creciente o decreciente, el árbol tendrá todas la 
 ramas izquierda o derecha, respectivamente, vacías. En este caso, la búsqueda en dicho árbol será  totalmente secuencial.
 
 ###                          ARBOL BINARIO EQUILIBRADO, ÁRBOLES AVL
-Un árbol totalmente equilibrado se caracteriza porque la altura de la rama izquierda es igual  que la altura de la rama derecha para cada uno de, 
-los nodos del árbol. Es un árbol ideal, pero no siempre se puede conseguir que el árbol esté totalmente balanceado.
+
+Los ${árboles}$ ${equilibrados}$ son un ${Arbol Binario de Busqueda}$ que imponen restricciones estructurales para garantizar (o tender a) que su altura sea ${logarítmica}$.
+ Para ello añaden etapas extra a las operaciones de inserción y borrado (y a veces al acceso).
+Árboles AVL: Imponen que para todo nodo la diferencia de altura
+entre los subárboles izquierdo y derecho no sea mayor que uno. Árboles Rojo-Negro: Los nodos se clasifican como rojos o negros, y se cumple:
+Los hijos de un nodo rojo son negros.
+ Todo camino de la raiz a una hoja pasa por el mismo número de nodos negros.
+Splay Trees: Cada vez que se accede a un nodo se “eleva” en el árbol pasando a ser la raiz (equilibrado “promedio”).
 
 
