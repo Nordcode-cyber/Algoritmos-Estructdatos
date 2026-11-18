@@ -11,14 +11,12 @@
             "id": "9243f3920c73c678",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Algoritmos/Knapsack/src/main/java/Knapsack.MD",
-                "mode": "source",
-                "source": false
+                "file": "Estructura-de-datos/Grafos/Matriz-Adyacencia.drawio.svg"
               },
-              "icon": "lucide-file",
-              "title": "Knapsack"
+              "icon": "lucide-image",
+              "title": "Matriz-Adyacencia.drawio"
             }
           }
         ]
@@ -184,8 +182,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "be051f113c3b1b4a",
+  "active": "9243f3920c73c678",
   "lastOpenFiles": [
+    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
+    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
+    "Estructura-de-datos/Grafos/Matriz-Adyacencia.drawio.svg",
+    "Algoritmos/Knapsack/src/main/java/Knapsack.MD",
     "Algoritmos/PD.drawio.svg",
     "Algoritmos/PD.drawio",
     "Algoritmos/PD.md",
@@ -204,16 +206,12 @@
     "Estructura-de-datos/Grafos/Camino-grafodir.drawio.svg",
     "Estructura-de-datos/Grafos/Camino-grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Subgrafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Subgrafo-inducido.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
-    "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
     "Readme.md",
     "Estructura-de-datos/Pilas/Readme.md",
     "Api-colecciones/Collection.MD",
     "Estructura-de-datos/Arrays/Readme.md",
     "Estructura-de-datos/Readme.md",
     "Algoritmos/Quicksort/salida.MD",
-    "Algoritmos/Knapsack/src/main/java/Knapsack.MD",
     "Estructura-de-datos/Lista-Enlazada/Readme.md",
     "Estructura-de-datos/Colas/Readme.md",
     "Estructura-de-datos/Heap/Readme.md",
