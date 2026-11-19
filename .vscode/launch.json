@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CuentaAtras",
+            "request": "launch",
+            "mainClass": "CuentaAtras"
+        },
+        {
+            "type": "java",
             "name": "Mergerandom",
             "request": "launch",
             "mainClass": "Mergerandom",
