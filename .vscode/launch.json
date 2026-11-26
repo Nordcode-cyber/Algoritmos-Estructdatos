@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Graph",
+            "request": "launch",
+            "mainClass": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "DFSApp",
+            "request": "launch",
+            "mainClass": "DFSApp"
+        },
+        {
+            "type": "java",
             "name": "CuentaAtras",
             "request": "launch",
             "mainClass": "CuentaAtras"

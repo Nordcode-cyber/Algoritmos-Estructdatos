@@ -11,12 +11,14 @@
             "id": "9243f3920c73c678",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Estructura-de-datos/Grafos/Matriz-Adyacencia.drawio.svg"
+                "file": "Estructura-de-datos/Grafos/Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Matriz-Adyacencia.drawio"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ]
@@ -184,11 +186,11 @@
   },
   "active": "9243f3920c73c678",
   "lastOpenFiles": [
+    "Estructura-de-datos/Grafos/Matriz-Adyacencia.drawio.svg",
     "Recursividad/cuentaAtras/CuentaAtras.java",
     "Recursividad/cuentaAtras",
     "Estructura-de-datos/Grafos/Grafo-nodir.drawio.svg",
     "Estructura-de-datos/Grafos/Grafo-dir.drawio.svg",
-    "Estructura-de-datos/Grafos/Matriz-Adyacencia.drawio.svg",
     "Algoritmos/Knapsack/src/main/java/Knapsack.MD",
     "Algoritmos/PD.drawio.svg",
     "Algoritmos/PD.drawio",
@@ -229,7 +231,6 @@
     "demo/target/classes/mis/clases/Main.class",
     "Estructura-de-datos/Arboles/ABB01.drawio",
     "Estructura-de-datos/Grafos/Ejercicio-grafos.drawio",
-    "Estructura-de-datos/Grafos/Lista-adyacencia.drawio",
     "Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 3.canvas",

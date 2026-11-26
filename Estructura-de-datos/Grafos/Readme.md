@@ -206,7 +206,8 @@ recorrido completo, se puede continuar desde cualquier vértice no marcado.
 el conjunto de nodos marcados se trata como una ${cola}$, el recorrido es en anchura; si se
 trata como una ${pila}$, el recorrido es en profundidad.*
 
-###                            Recorrido en Anchura
+###                            Recorrido en Anchura (Breadth-firs search BFS)
+
 Se utiliza una ${cola}$ como estructura en la que se mantienen los ${vértices}$ marcados que se van a
 procesar posteriormente. El proceso de los elementos en una ${cola}$ (First in, First out ) hace que, 
 a partir del vértice de partida v se procesen primero todos los ${vértices}$ adyacentes a
@@ -221,7 +222,11 @@ concisa en los siguientes pasos:
 5. Meter en la ${cola}$ todos los vértices adyacentes a w que no estén marcados y, a continuación
 marcar esos vértices.
 6. Fin del recorrido.
-###                             Recorrido en Profundidad
+Recorrido ${BFS}$ eqiuivale al recorrido por niveles en ${arboles}$ + un testeo para no volver a recorrer un 
+${subgrafo}$ ya explrado
+
+
+###                             Recorrido en Profundidad (Depth-first Search DFS)
 La búsqueda de los vértices y aristas de un ${grafo}$ en profundidad persigue el mismo objetivo que
 el recorrido en anchura: visitar todos los vértices del ${grafo}$ alcanzables desde un vértice dado.
 Difiere este recorrido con el recorrido en anchura sólo en el orden en que se procesan los vértices
@@ -231,6 +236,7 @@ Después se recorre en profundidad cada vértice adyacente a v no visitado; hast
 más vértices adyacentes no visitados. Esta estrategia de examinar los vértices se denomina en
 profundidad porque la dirección de visitar es hacia adelante mientras resulta posible; al contrario
 que la búsqueda en anchura que primero visita todos los vértices posibles en amplitud.
+Recorrido ${DFS} eqiuivale al recorrido pre o post orden en ${arboles}$ + un testeo para no volver a recorrer un ${subgrafo}$ ya explorado.
 
 ###                                                          El TAD Grafo
 
