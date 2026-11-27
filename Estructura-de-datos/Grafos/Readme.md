@@ -236,7 +236,7 @@ Después se recorre en profundidad cada vértice adyacente a v no visitado; hast
 más vértices adyacentes no visitados. Esta estrategia de examinar los vértices se denomina en
 profundidad porque la dirección de visitar es hacia adelante mientras resulta posible; al contrario
 que la búsqueda en anchura que primero visita todos los vértices posibles en amplitud.
-Recorrido ${DFS} eqiuivale al recorrido pre o post orden en ${arboles}$ + un testeo para no volver a recorrer un ${subgrafo}$ ya explorado.
+Recorrido ${DFS}$ eqiuivale al recorrido pre o post orden en ${arboles}$ + un testeo para no volver a recorrer un ${subgrafo}$ ya explorado.
 
 ###                                                          El TAD Grafo
 
