@@ -1,12 +1,13 @@
+package com.example.DFS;
+
 public class Vertex {
-    public char label;
+     public char label;
     public boolean wasVisited;
     public Vertex(){
-
     }
     public Vertex(char lab){
         label = lab;
         wasVisited = false; 
-        
     }
+
 }

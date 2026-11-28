@@ -1,11 +1,13 @@
+package com.example.DFS;
+
 public class Graph {
-  private final int MAX_VERTS = 20; 
+    private final int MAX_VERTS = 20; 
     Vertex vertexList[]; // list of vertices 
      int adjMat[][];      // adjacency matrix 
     int nVerts;          // current number of vertices  
      StackX theStack; 
  
- // ------------------ 
+
     public Graph(){               // constructor 
        vertexList = new Vertex[MAX_VERTS]; 
                                            // adjacency matrix  
@@ -16,8 +18,6 @@ public class Graph {
              adjMat[j][k] = 0; 
        theStack = new StackX(); 
        }  // end constructor 
- 
- // ------------------ 
     public void addVertex(char lab){ 
        vertexList[nVerts++] = new Vertex(lab); 
     }
@@ -28,8 +28,7 @@ public class Graph {
          public void displayVertex(int v){ 
        System.out.print(vertexList[v].label); 
        } 
-        public void dfs()  // depth-first search 
-       {                                 // begin at vertex 0  
+        public void dfs(){  
        vertexList[0].wasVisited = true;  // mark it 
        displayVertex(0);                 // display it 
        theStack.push(0);                 // push it 
@@ -58,6 +57,3 @@ public class Graph {
        return -1; 
        }  // end getAdjUnvisitedVert() 
 }
-    
-    
-

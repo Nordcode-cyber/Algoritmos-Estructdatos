@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DFSApp",
+            "request": "launch",
+            "mainClass": "com.example.DFS.DFSApp",
+            "projectName": "grafo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example.Main",
+            "projectName": "grafo"
+        },
+        {
+            "type": "java",
             "name": "BFSApp",
             "request": "launch",
             "mainClass": "Grafo/test.BFSApp"

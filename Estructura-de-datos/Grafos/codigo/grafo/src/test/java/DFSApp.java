@@ -1,6 +1,10 @@
+
+
+import com.example.DFS.Graph;
+
 public class DFSApp {
     public static void main(String[] args) {
-    Graph theGraph = new Graph(); 
+     Graph theGraph = new Graph(); 
        theGraph.addVertex('A');    // 0  (start for dfs) 
        theGraph.addVertex('B');    // 1 
        theGraph.addVertex('C');    // 2 
@@ -15,7 +19,6 @@ public class DFSApp {
        System.out.print("Visits: "); 
        theGraph.dfs();             // depth-first search 
        System.out.println();
-        
-    }
 
+}
 }

@@ -1,5 +1,6 @@
+import com.example.BFS.Graph;
 public class BFSApp {
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         Graph theGraph = new Graph();
         theGraph.addVertex('A');    // 0  (start for dfs)
         theGraph.addVertex('B');    // 1
@@ -15,5 +16,6 @@ public class BFSApp {
         System.out.println();
        
     }
+
 
 }
