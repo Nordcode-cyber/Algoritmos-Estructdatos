@@ -25,6 +25,9 @@ return temp;
 public boolean isEmpty() { // true if queue is empty
 return ( rear+1==front || (front+SIZE-1==rear) );
 }
+<<<<<<< HEAD:Estructura-de-datos/Grafos/codigo/grafo/src/main/java/com/example/BFS/Queue.java
 
+=======
+>>>>>>> 41c61ee17404b3df6d2e1de862cb94df01e35c03:Estructura-de-datos/Grafos/implementacion/BFS/Queue.java
 
 }
