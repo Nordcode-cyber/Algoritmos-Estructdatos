@@ -6,6 +6,42 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BFSApp",
+            "request": "launch",
+            "mainClass": "Grafo/test.BFSApp"
+        },
+        {
+            "type": "java",
+            "name": "Grafo/BFSApp",
+            "request": "launch",
+            "mainClass": "Grafo/BFSApp"
+        },
+        {
+            "type": "java",
+            "name": "DFSApp",
+            "request": "launch",
+            "mainClass": "Grafo/test.DFSApp"
+        },
+        {
+            "type": "java",
+            "name": "BFSApp",
+            "request": "launch",
+            "mainClass": "BFSApp"
+        },
+        {
+            "type": "java",
+            "name": "Vertex",
+            "request": "launch",
+            "mainClass": "Vertex"
+        },
+        {
+            "type": "java",
+            "name": "Queue",
+            "request": "launch",
+            "mainClass": "Queue"
+        },
+        {
+            "type": "java",
             "name": "Graph",
             "request": "launch",
             "mainClass": "Graph"

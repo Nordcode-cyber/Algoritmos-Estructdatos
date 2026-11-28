@@ -1,13 +1,12 @@
 public class Graph {
   private final int MAX_VERTS = 20; 
-    private Vertex vertexList[]; // list of vertices 
-    private int adjMat[][];      // adjacency matrix 
-    private int nVerts;          // current number of vertices  
-    private StackX theStack; 
+    Vertex vertexList[]; // list of vertices 
+     int adjMat[][];      // adjacency matrix 
+    int nVerts;          // current number of vertices  
+     StackX theStack; 
  
  // ------------------ 
-    public Graph()               // constructor 
-       { 
+    public Graph(){               // constructor 
        vertexList = new Vertex[MAX_VERTS]; 
                                            // adjacency matrix  
        adjMat = new int[MAX_VERTS][MAX_VERTS]; 
@@ -58,12 +57,7 @@ public class Graph {
              return j; 
        return -1; 
        }  // end getAdjUnvisitedVert() 
-
-    
-     
-        
-
-  }
+}
     
     
 
